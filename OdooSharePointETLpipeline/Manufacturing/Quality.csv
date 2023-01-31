@@ -1,0 +1,1171 @@
+name,title,create_date,assigned_date,close_date,last_updated_date,tags
+QA00004,SH#14 not reporting the correct grating angle ,2020-06-26 05:01:28.845413,2018-05-17 23:44:55.000000,,2022-07-19 01:46:03.073526,Sensorhead;Hollow Motor
+QA00005,EDFA Issues,2020-06-26 05:01:30.661755,,,2020-06-26 05:01:31.051324,Elec;EDFA
+QA00006,Three Retech housing issues,2020-06-26 05:01:31.438486,,,2022-07-19 01:51:32.226229,Vendor
+QA00007,Faraday Rotator Spots and scratch on surface,2020-06-26 05:01:33.514669,,,2020-06-26 05:01:33.901832,Optics;Vendor;Tolerance
+QA00008,Sub Structure Dimensions Issues,2020-06-26 05:01:34.242607,2018-04-25 23:46:13.000000,,2020-06-26 05:01:34.616059,RK1;Tolerance;Mech
+QA00009,Multiple Parts Process Issues,2020-06-26 05:01:34.994468,,,2022-07-19 01:51:51.854829,Vendor
+QA00010,Lumentum Laser Low Power Output,2020-06-26 05:01:35.816141,2018-05-22 23:47:13.000000,,2020-06-26 05:01:36.260686,Top Assembly;Output Power
+QA00011,Grating bracket too tight,2020-06-26 05:01:36.617598,,,2020-06-26 05:01:36.985812,RK1;Optics
+QA00014,Link Budget 0 EDFA,2020-06-26 05:01:37.460567,,,2022-07-19 01:52:39.407765,Engine;EDFA;Link Budget
+QA00015,Lense edges cut wrong won't fit in clamp,2020-06-26 05:01:38.186247,,,2022-07-19 01:52:44.768355,Vendor;Optics
+QA00016,Fusion splicer is not splicing properly,2020-06-26 05:01:38.969280,,,2022-07-19 01:53:05.837980,Work Centre
+QA00017,Sub_Structure_Dimension_Cracked_Lens,2020-06-26 05:01:39.679117,,,2022-07-19 01:53:17.194394,Mech;Tolerance
+QA00018,Oil from Substructure on grating,2020-06-26 05:01:40.528285,2018-06-06 23:48:19.000000,,2022-07-19 01:53:30.103827,Contamination;Optics;Directivity
+QA00019,QA00019_[ITL]_[1001508-001]_EYDFA cable shorter than 50mm,2020-06-26 05:01:41.233454,,,2020-06-26 05:01:41.610482,EDFA;Elec;Tolerance
+QA00020,Loss of communication Board #56,2020-06-26 05:01:42.045064,2018-06-11 23:50:46.000000,,2020-06-26 05:01:42.486614,RK2;Elec;Comm
+QA00022,Encoder_Ring_Tooth_Issue,2020-06-26 05:01:42.841801,2018-06-15 23:52:41.000000,,2020-06-26 05:01:43.228446,Hollow Motor
+QA00023,Retroreflectors Failed Glue Joint,2020-06-26 05:01:43.529938,2018-07-10 23:53:50.000000,,2020-06-26 05:01:43.902663,Vendor;RK1;Sensorhead
+QA00024,Prism_Angle_Wrong_Direction,2020-06-26 05:01:44.236945,2018-06-13 23:55:27.000000,,2020-06-26 05:01:45.265873,Vendor;Mech;Optics
+QA00025,"M3 screw hole bigger
+",2020-06-26 05:01:45.570595,2018-06-15 04:02:03.000000,,2020-06-26 05:01:46.326165,Tolerance;EDFA
+QA00026,Retroreflector/substructure interface tolerances results in cracked retroreflector,2020-06-26 05:01:46.652103,,,2020-06-26 05:01:46.930610,Optics;Tolerance;Mech
+QA00027,sunlight causes wobble/motor stall/encoder errors resulting in corrupted pointcloud or error,2020-06-26 05:01:47.240091,2018-06-16 03:34:08.000000,,2020-06-26 05:01:47.514634,Hollow Motor;Elec;Sensorhead
+QA00028,NIO Noise Issue with Lidar,2020-06-26 05:01:47.925408,2018-06-18 04:51:40.000000,,2020-06-26 05:01:50.870169,RK3;Pointcloud;Pointcloud Noise
+QA00029,PCBA SMT Issues,2020-06-26 05:01:51.264991,2018-06-19 03:29:34.000000,,2020-06-26 05:01:51.706081,RK1;Elec
+QA00030,Magnet ring scratch PCB issue,2020-06-26 05:01:52.033326,2018-06-28 23:57:27.000000,,2020-06-26 05:01:52.403066,Reliability;Hollow Motor
+QA00031,Cleanliness of Fiber Ends,2020-06-26 05:01:52.756421,2018-06-20 03:55:36.000000,,2020-06-26 05:01:53.130652,Misc;RK1
+QA00040,Magnets won't fit into holes,2020-06-26 05:01:53.531267,2018-06-21 23:58:43.000000,,2020-06-26 05:01:53.910740,Purchasing;Tolerance;Hollow Motor
+QA00041,Cable Faulty,2020-06-26 05:01:54.182017,2018-06-28 23:59:41.000000,,2020-06-26 05:01:54.457168,Elec
+QA00042,No Part number engraved,2020-06-26 05:01:54.813445,2018-06-26 03:50:01.000000,,2020-06-26 05:01:55.104075,Misc
+QA00046,Expected Grade Index Fibre actual Step Index fiber,2020-06-26 05:01:55.533220,2018-06-28 09:24:02.000000,,2020-06-26 05:01:55.815320,Vendor;Optics;RK1
+QA00047,Burnt regulator during motor test,2020-06-26 05:01:56.170801,2018-07-02 01:13:49.000000,,2020-06-26 05:01:56.501158,Hollow Motor;Elec
+QA00053,Can't assemble coaxial core into substructure,2020-06-26 05:01:56.917532,2018-07-02 23:56:59.000000,,2020-06-26 05:01:57.300578,Vendor;Optics;Transceiver
+QA00056,Glue broke optical diode,2020-06-26 05:01:57.644849,2018-07-05 01:17:13.000000,,2020-06-26 05:01:57.915169,Operator
+QA00057,Contamination on lens causing directivity issues,2020-06-26 05:01:58.337445,2018-07-05 00:36:01.000000,,2020-06-26 05:01:59.016083,Contamination;Sensorhead
+QA00058,Rotor not fitting into bearing,2020-06-26 05:01:59.409266,2018-07-05 07:26:16.000000,,2020-06-26 05:01:59.745709,Tolerance;Vendor
+QA00060,Link Budget Low,2020-06-26 05:02:00.230906,2018-07-17 01:19:29.000000,,2020-06-26 05:02:01.059027,RK3;Engine;Range;Link Budget
+QA00062,18.5mm bore undersize when measured at Baraja,2020-06-26 05:02:01.492293,2018-07-10 00:04:04.000000,,2020-06-26 05:02:01.897158,Transceiver;Vendor;Tolerance
+QA00063,Magnet rings warped,2020-06-26 05:02:02.311349,2018-07-10 03:26:07.000000,,2020-06-26 05:02:02.598862,Vendor
+QA00064,Loss of optical power - fiber break,2020-06-26 05:02:02.970879,2018-07-11 07:31:17.000000,,2020-06-26 05:02:03.342827,RK2;Output Power
+QA00065,Bearing fits in stator too tight,2020-06-26 05:02:03.711801,2018-07-17 01:49:09.000000,,2020-06-26 05:02:04.184920,Hollow Motor
+QA00066,Burn Mark on surface,2020-06-26 05:02:04.534853,2018-07-17 23:45:32.000000,,2020-06-26 05:02:04.832354,Sensorhead
+QA00067,sticky liquid substance on O rings,2020-06-26 05:02:05.241890,2018-07-18 02:16:10.000000,,2020-06-26 05:02:05.520755,Vendor;Contamination
+QA00068,Grating clamp under size issues,2020-06-26 05:02:05.940640,2018-07-24 01:22:56.000000,,2020-06-26 05:02:07.245974,Optics;Vendor;Tolerance;RK2
+QA00069,FR Not latched,2020-06-26 05:02:07.611019,2018-07-19 05:03:30.000000,,2020-06-26 05:02:07.898391,Hollow Motor
+QA00073,"No Rx , Just noise in the point cloud",2020-06-26 05:02:08.264843,2018-07-24 03:49:10.000000,,2020-06-26 05:02:08.546052,Pointcloud;Pointcloud Noise
+QA00074,Motor Instable.,2020-06-26 05:02:08.986586,2018-07-24 03:55:57.000000,,2020-06-26 05:02:09.320548,Audible Noise;Hollow Motor
+QA00075,Wrong wiring connections,2020-06-26 05:02:09.677504,2018-07-26 07:47:48.000000,,2020-06-26 05:02:09.956771,Elec
+QA00076,EDFA Temperature Issues,2020-06-26 05:02:10.266091,2018-07-26 08:26:42.000000,,2020-06-26 05:02:10.544777,EDFA
+QA00077,Directivity Fail,2020-06-26 05:02:11.070481,2018-07-31 01:28:21.000000,,2020-06-26 05:02:12.794139,RK3;Directivity;Sensorhead
+QA00078,Sensorhead Insertion Loss,2020-06-26 05:02:13.230464,2018-07-31 00:48:23.000000,,2020-06-26 05:02:14.619835,Insertion Loss;Range;RK2
+QA00079,Lower Substructure no parts meeting specified tolerances,2020-06-26 05:02:14.982100,2018-07-31 06:38:14.000000,,2020-06-26 05:02:15.279412,RK2;Vendor;Tolerance
+QA00080,Sensor head #30 motor not spinning at system,2020-06-26 05:02:15.615504,2018-08-02 00:00:23.000000,,2020-06-26 05:02:15.892567,Hollow Motor;RK1;Sensorhead
+QA00081,Missing layers in PCB; all DNF components actually installed,2020-06-26 05:02:16.252177,2018-08-05 23:24:10.000000,,2020-06-26 05:02:16.745229,Elec
+QA00082,System test fail - possible directivity,2020-06-26 05:02:17.025134,2018-08-06 00:28:39.000000,,2020-06-26 05:02:17.734348,Pointcloud
+QA00083,Failed at Lidar system tesst,2020-06-26 05:02:18.039791,2018-08-06 00:44:50.000000,,2020-06-26 05:02:18.382224,Pointcloud
+QA00084,Engine #49  Low Tx Power,2020-06-26 05:02:18.721736,2018-08-07 01:56:02.000000,,2020-06-26 05:02:19.245364,Output Power;EDFA;RK2
+QA00085,Dot mark on grating,2020-06-26 05:02:19.652510,2018-08-03 00:34:10.000000,,2020-06-26 05:02:19.926997,Optics;Contamination
+QA00086,Divergent beam ,2020-06-26 05:02:20.334242,2018-08-08 01:55:44.000000,,2020-06-26 05:02:20.602560,Transceiver
+QA00087,Screw hole of the grating claim is too tight for screwing.,2020-06-26 05:02:21.029780,2018-08-08 07:08:52.000000,,2020-06-26 05:02:21.421930,Mech;RK2;Elec
+QA00088,Crystal Tube outer diameter oversized (out of round),2020-06-26 05:02:21.730612,2018-08-09 03:11:36.000000,,2020-06-26 05:02:23.248563,Tolerance
+QA00089,Broke wire from connector ,2020-06-26 05:02:23.577492,,,2020-06-26 05:02:23.858020,Elec
+QA00090,"Too tight, can't install crystals",2020-06-26 05:02:24.189094,2018-08-10 08:01:30.000000,,2020-06-26 05:02:24.459716,Tolerance;Vendor
+QA00091,EFT over temperature,2020-06-26 05:02:24.814424,2018-08-10 00:15:57.000000,,2020-06-26 05:02:25.319434,Link Budget
+QA00092,SH# 33 Poor range performance,2020-06-26 05:02:25.676378,2018-08-13 00:47:51.000000,,2020-06-26 05:02:25.955226,Sensorhead;Range
+QA00093,DJMT unable to meet drawing tolerance on the lower substructure parts,2020-06-26 05:02:26.292807,2018-08-16 06:14:07.000000,,2020-06-26 05:02:26.571427,Tolerance
+QA00094,Senor heads failing at F2A rig due to motor problems but passes motor test,2020-06-26 05:02:26.878160,2018-08-19 05:54:31.000000,,2020-06-26 05:02:27.598993,F2A;Sensorhead
+QA00095,E76 failed at EFT,2020-06-26 05:02:27.978001,2018-08-16 19:43:03.000000,,2020-06-26 05:02:28.469857,Link Budget;RK1
+QA00097,Goku sensor head earth wire insulation,2020-06-26 05:02:28.775765,,,2020-06-26 05:02:29.071602,Elec;Vendor
+QA00098,Channel 1 Tx and Rx Failure,2020-06-26 05:02:29.477485,2018-08-20 02:59:02.000000,,2020-06-26 05:02:30.102621,Output Power;RK1
+QA00099,Lower Substructure lens gap width too small,2020-06-26 05:02:30.460470,2018-08-20 07:58:47.000000,,2020-06-26 05:02:30.887852,Optics;RK2;Tolerance
+QA00100,Code load error,2020-06-26 05:02:31.345807,2018-08-17 04:07:28.000000,,2020-06-26 05:02:31.774509,Code Load;Top Assembly;Elec
+QA00101,Safety of Screws Loosening From Spinning Grating without loctite,2020-06-26 05:02:32.079962,2018-08-20 06:38:28.000000,,2020-06-26 05:02:32.354279,Eye Safety
+QA00103,Transceiver faied directivity test due to lens issue,2020-06-26 05:02:32.658064,,,2020-06-26 05:02:32.930498,Directivity;Transceiver;RK3
+QA00104,Modify current encoder shade to clear screws in hollow motor assembly process,2020-06-26 05:02:33.286051,2018-08-21 00:36:30.000000,,2020-06-26 05:02:33.563426,Hollow Motor
+QA00105,Light Covers Material Changed to reduce risk,2020-06-26 05:02:33.800097,2018-08-21 02:12:10.000000,,2020-06-26 05:02:34.071975,Misc
+QA00106,Screws do not fit in current stator holes,2020-06-26 05:02:34.475151,2018-08-21 03:09:28.000000,,2020-06-26 05:02:34.751057,Hollow Motor;Tolerance
+QA00110,0000000039,2020-06-26 05:02:35.704441,,,2020-06-26 05:02:36.158781,RK2
+QA00111,Upper substructure 1001578 small screw hole issue,2020-06-26 05:02:36.465258,,,2020-06-26 05:02:36.851455,RK3;Sensorhead;Tolerance
+QA00112,"Transceiver failed 2 way IL test
+",2020-06-26 05:02:37.228226,,,2020-06-26 05:02:38.014106,Insertion Loss;Transceiver
+QA00113,At the laser calibration rig the play tables are failing ,2020-06-26 05:02:38.396259,2018-08-23 03:21:38.000000,,2020-06-26 05:02:39.158638,Work Centre;RK2
+QA00114,Mismatched points in point cloud,2020-06-26 05:02:39.414474,,,2020-06-26 05:02:40.534418,Pointcloud
+QA00115,Diceros fails eye-safety standard and EMC radiated emissions regulation,2020-06-26 05:02:40.877894,2018-08-17 14:00:00.000000,,2020-06-26 05:02:41.217544,Eye Safety
+QA00116,Encoder Reading Problem SH38,2020-06-26 05:02:41.597445,2018-08-27 01:56:11.000000,,2020-06-26 05:02:42.074443,FOV;Pointcloud;RK2
+QA00119,Warped Encoder rings,2020-06-26 05:02:42.398388,,,2020-06-26 05:02:42.674370,Vendor;Hollow Motor
+QA00120,Engine 78 - Cannot communicate with gohan on channels 1 and 4,2020-06-26 05:02:42.953457,,,2020-06-26 05:02:43.442964,Hollow Motor;Firmware
+QA00121,failure at the ESM test after EDFA,2020-06-26 05:02:43.678457,,,2020-06-26 05:02:44.502566,SMSR
+QA00122,Failure at ESM before EDFA,2020-06-26 05:02:44.763065,,,2020-06-26 05:02:45.590262,SMSR
+QA00123,Failure Hollow motor test (Encoder Gap Failed),2020-06-26 05:02:45.985829,,,2020-06-26 05:02:49.128128,Hollow Motor;Tolerance;Mech;RK2;Vendor
+QA00124,Non-Confirming window material,2020-06-26 05:02:49.447562,2018-08-31 03:20:52.000000,,2020-06-26 05:02:49.716559,RK1;Optics
+QA00125,Eye Safety -Single Point of failure - EDFA.,2020-06-26 05:02:50.025637,,,2020-06-26 05:02:50.663187,Output Power;EDFA
+QA00126,"Mirror failed QCP517 ""90 deg angle"" ",2020-06-26 05:02:50.968706,,,2020-06-26 05:02:51.398659,Tolerance;RK1;Optics
+QA00127,high directivity on SH51 at transceiver test,2020-06-26 05:02:51.712921,,,2020-06-26 05:02:52.044503,Optics;RK1;Directivity
+QA00128,Wrong (mirror image) cable connection,2020-06-26 05:02:52.435894,2018-09-05 00:17:09.000000,,2020-06-26 05:02:52.775198,Vendor
+QA00129,Absorbing Sticker Single Point of Failure,2020-06-26 05:03:42.590004,2018-09-05 01:42:00.000000,,2020-06-26 05:03:42.861405,Misc
+QA00130,Localised Wobble in the point clouds ,2020-06-26 05:03:43.263098,,,2020-06-26 05:03:43.263098,Sensorhead;Pointcloud;LiFT;RK3
+QA00131,Ch1 is dead on EFT,2020-06-26 05:03:56.801888,2018-09-06 03:31:11.000000,,2020-06-26 05:03:57.287668,Top Assembly;Elec
+QA00132,Linkbudget is dropped on 191 Thz,2020-06-26 05:03:57.687498,,,2020-06-26 05:03:58.178283,Link Budget;Elec
+QA00133,Ch3 is dead on EFT,2020-06-26 05:03:58.432617,,,2020-06-26 05:03:58.921021,Top Assembly
+QA00134,"IL = 6dB @ Tx on SH45 at LiFT , @MFG IL=1.8dB on Tx",2020-06-26 05:03:59.227202,2018-09-06 20:10:05.000000,,2020-06-26 05:03:59.721646,RK1;Insertion Loss
+QA00135,Failed LiFT range 150m,2020-06-26 05:04:00.155956,2018-09-07 03:56:11.000000,,2020-06-26 05:04:00.665050,Optics;Sensorhead;Range
+QA00136,Engine 79: Etalon data not returned properly,2020-06-26 05:04:00.958693,,,2020-06-26 05:04:01.485735,Firmware;Error Code
+QA00137,51 out of 53 playtables failed during laser calibration.,2020-06-26 05:04:01.946777,,,2020-06-26 05:04:02.624144,Laser Calibration;RK1
+QA00138,APD cover  clearance issue,2020-06-26 05:04:02.947047,,,2020-06-26 05:04:03.501257,Top Assembly;RK1
+QA00139,Manually loaded PCBAs,2020-06-26 05:04:03.826995,2018-09-13 22:43:34.000000,,2020-06-26 05:04:04.180997,Vendor
+QA00140,Variability in Mounting/Output beam,2020-06-26 05:04:04.546495,,,2020-06-26 05:04:07.706983,Optics;F2A;RK2
+QA00141,NIO returns due to missing loctite on  Hollow Motor fastners,2020-06-26 05:04:08.185609,2018-09-18 06:47:15.000000,,2020-06-26 05:04:08.971584,Reliability;Misc;RK3;Hollow Motor
+QA00142,Sensor head failed directivity test (Single Frequency failure),2020-06-26 05:04:09.291280,,,2020-06-26 05:04:10.327072,Sensorhead;Directivity
+QA00143,High Directivity,2020-06-26 05:04:10.678095,,,2020-06-26 05:04:11.494244,Directivity;Sensorhead
+QA00144,Linkbudget drop ,2020-06-26 05:04:11.893426,2018-09-20 01:19:06.000000,,2020-06-26 05:04:12.883023,Engine;Link Budget
+QA00145,EDFA Comms not working - Engine 79,2020-06-26 05:04:13.220908,2018-09-20 03:32:22.000000,,2020-06-26 05:04:13.723864,EDFA;Comms
+QA00146,Failed motor test due to Han board and magnetic plate tolerance issue,2020-06-26 05:04:14.104405,2018-09-22 01:12:43.000000,,2020-06-26 05:04:16.060683,Hollow Motor;Elec;Tolerance;RK1
+QA00147,EDFA output low,2020-06-26 05:04:16.346771,2018-09-21 03:27:31.000000,,2020-06-26 05:04:16.911492,EDFA;Output Power
+QA00148,SH-Directivity test fail at 1542nm with -76.5db,2020-06-26 05:04:17.251573,2018-09-25 00:34:32.000000,,2020-06-26 05:04:17.587419,Sensorhead;Directivity;RK1
+QA00149,EDFA screw hole too big,2020-06-26 05:04:17.845289,,,2020-06-26 05:04:18.234954,EDFA;Tolerance
+QA00150,Normal Prism 2 assembled with reversed bracket and clamp,2020-06-26 05:04:18.514922,2018-09-26 23:28:20.000000,,2020-06-26 05:04:18.896060,Sensorhead;RK1;Optics
+QA00151,Drift in Theta,2020-06-26 05:04:19.281815,,,2020-06-26 05:04:19.781795,Pointcloud;Sensorhead;Engine
+QA00152,Electrical Cable cross talking with each other,2020-06-26 05:04:20.104622,2018-09-28 05:13:10.000000,,2020-06-26 05:04:20.454544,Comms;RK1;Elec
+QA00153,SH 61 failed directivity test,2020-06-26 05:04:20.713113,2018-10-03 05:34:12.000000,,2020-06-26 05:04:21.232285,Sensorhead;Directivity
+QA00154,EMC Electrical Cable,2020-06-26 05:04:21.539769,2018-10-05 05:21:51.000000,,2020-06-26 05:04:21.899150,Elec;Vendor;RK1
+QA00155,"1. PCB silk screen print found inside via holes.
+2. Discoloured vias",2020-06-26 05:04:22.239418,2018-10-08 02:20:21.000000,,2020-06-26 05:04:22.516646,RK1;Vendor;Operator;Elec
+QA00156,Hollow Motor Magnetic back plate Encoder Gap,2020-06-26 05:04:22.973738,2018-10-09 02:31:20.000000,,2020-06-26 05:04:23.254766,Tolerance;Vendor;RK1;Hollow Motor
+QA00157,Ethernet/PPS signal integrity,2020-06-26 05:04:23.617087,2018-10-09 21:40:49.000000,,2020-06-26 05:04:24.472374,Elec
+QA00158,Top Heat Sink Screw Hole Issue,2020-06-26 05:04:24.786508,2018-10-10 22:53:13.000000,,2020-06-26 05:04:25.063758, Vendor;RK1;Top Assembly
+QA00159,FullFrame not working,2020-06-26 05:04:25.323398,,,2020-06-26 05:04:25.926882,Pointcloud;Software
+QA00160,Han Board not controlling the speed of Hollow Motor,2020-06-26 05:04:26.371617,2018-10-10 22:58:53.000000,,2020-06-26 05:04:28.084998,Firmware;RK1;Hollow Motor;Elec
+QA00161,Bad F2A,2020-06-26 05:04:28.393781,,,2020-06-26 05:04:28.887581,F2A;Pointcloud;Sensorhead
+QA00162,PCB Interference - Electromagnet Trace Wear,2020-06-26 05:04:29.345733,2018-10-10 23:25:01.000000,,2020-06-26 05:04:29.839256,RK2;Hollow Motor;Reliability;Elec;Mech;Audible Noise
+QA00163,front housing has screw quality issue,2020-06-26 05:04:30.196300,2018-10-11 22:47:30.000000,,2020-06-26 05:04:30.469578,Sensorhead;RK1
+QA00164,Failed Coaxial Calibration ,2020-06-26 05:04:30.728551,2018-10-11 23:14:17.000000,,2020-06-26 05:04:31.200836,Transceiver;RK3
+QA00165,Laser output power is too low and enable to start the laser calibration,2020-06-26 05:04:31.533106,2018-10-11 23:32:11.000000,,2020-06-26 05:04:31.935987,Output Power;Laser Calibration;RK1;Engine
+QA00166,EDFA malfunction,2020-06-26 05:04:32.218833,2018-10-11 23:28:06.000000,,2020-06-26 05:04:32.709585,EDFA;RK2;Output Power
+QA00167,Link budget of 4 channels is low,2020-06-26 05:04:33.012935,2018-10-12 00:57:13.000000,,2020-06-26 05:04:33.632534,Engine;Link Budget
+QA00168,Link budget on 4 Channels are low,2020-06-26 05:04:34.059965,,,2020-06-26 05:04:34.557285,Link Budget;Engine
+QA00169,Vertical Scan error,2020-06-26 05:04:34.865846,2018-10-12 04:04:44.000000,,2020-06-26 05:04:35.368794,Error Code;RK1;Firmware
+QA00170,Oversized cable retainer holes,2020-06-26 05:04:35.696299,2018-10-14 23:03:28.000000,,2020-06-26 05:04:35.973246,Tolerance;RK1;Engine;Vendor
+QA00171,Fortuna-Lum BoM error,2020-06-26 05:04:36.332656,2018-10-12 00:15:27.000000,,2020-06-26 05:04:36.615929,Top Assembly;RK1;Elec;Process
+QA00172,Cannot find the first tube at lase cal,2020-06-26 05:04:36.876897,2018-10-15 05:35:59.000000,,2020-06-26 05:04:37.439417,Laser Calibration
+QA00173,Move away from mechanical parts suppliers with insufficient process capability / quality for production machining,2020-06-26 05:04:37.778601,,,2020-06-26 05:04:38.302868,Vendor;Tolerance;Purchasing
+QA00174,Lower Substructures; Dents on surfaces,2020-06-26 05:04:38.660712,2018-10-16 23:41:44.000000,,2020-06-26 05:04:39.220631,Tolerance;RK1;Vendor;Mech
+QA00175,Electrical cable issue caused SH failed FTA,2020-06-26 05:04:39.595874,2018-10-16 23:45:40.000000,,2020-06-26 05:04:39.879974,RK1;Vendor;Elec;F2A;Hollow Motor;Sensorhead
+QA00176,Transceiver,2020-06-26 05:04:40.171805,,,2020-06-26 05:04:40.617506,Transceiver;RK1
+QA00177,"LOW Collection efficiency of the coaxial
+",2020-06-26 05:04:40.858374,,,2020-06-26 05:04:41.422790,Transceiver
+QA00178,Upper substructures; Screw hole threading,2020-06-26 05:04:41.678764,2018-10-17 03:52:22.000000,,2020-06-26 05:04:41.947903,RK1;Vendor
+QA00180,Molding Defects,2020-06-26 05:04:42.994450,,,2020-06-26 05:04:43.267389,Vendor;RK1;Elec
+QA00181,Horns - Retro-reflector artefacts in the point cloud,2020-06-26 05:04:43.602565,2018-10-18 23:24:14.000000,,2020-06-26 05:04:45.111288,Pointcloud;RK3;FOV
+QA00182,Laser output power very low,2020-06-26 05:04:45.518435,2018-10-19 04:46:41.000000,,2020-06-26 05:04:47.273830,RK1;Laser Calibration;Output Power
+QA00183,Motor test failed for R&D build hollow motor,2020-06-26 05:04:47.604067,2018-10-18 20:52:03.000000,,2020-06-26 05:04:48.095536,RK1;Hollow Motor;Mech;Elec
+QA00184,Multi Mode Fibre Core Size Big,2020-06-26 05:04:48.427028,2018-10-21 23:56:04.000000,,2020-06-26 05:04:48.698939,Vendor;RK1;Optics
+QA00185,Condensation inside SH67,2020-06-26 05:04:49.003780,2018-10-21 22:53:07.000000,,2020-06-26 05:04:49.379426,RK2;Reliability;Sensorhead;LiFT
+QA00186,The engine cannot keep running,2020-06-26 05:04:49.658513,2018-10-22 21:07:11.000000,,2020-06-26 05:04:50.264577,Engine;EDFA;Firmware
+QA00187,Single frequency dropped at EFT (191.8THz),2020-06-26 05:04:50.571912,2018-10-23 05:42:52.000000,,2020-06-26 05:04:51.061192,Engine;Link Budget;RK1;Elec
+QA00188,HWP from HG Optronics,2020-06-26 05:04:51.387190,2018-10-19 05:59:19.000000,,2020-06-26 05:04:51.948637,Purchasing;coaxial;RK2;Vendor
+QA00189,Directivity Fail,2020-06-26 05:04:52.208334,2018-10-24 00:40:56.000000,,2020-06-26 05:04:52.539196,RK2;Directivity
+QA00190,7 screw holes on EDFA are too big for 3x6 mm screws,2020-06-26 05:04:52.794234,2018-10-24 01:00:47.000000,,2020-06-26 05:04:53.289100,Tolerance;EDFA
+QA00191,PCB revision mislabelled on silkscreen,2020-06-26 05:04:53.548902,2018-10-25 00:00:32.000000,,2020-06-26 05:04:54.050281,Elec
+QA00192,Engine top seat damaged,2020-06-26 05:04:54.308400,,,2020-06-26 05:04:54.923925,Top Assembly
+QA00193,Detachment of Zero Order Sticker (Outside),2020-06-26 05:04:55.179753,,,2020-06-26 05:04:56.443865,Misc
+QA00194,PM fibre shorter than requirement,2020-06-26 05:04:56.780267,2018-10-25 18:44:48.000000,,2020-06-26 05:04:57.093800,Tolerance;Vendor;RK1
+QA00195,APD 1 was found open circuited caused by bad resistor,2020-06-26 05:04:57.498875,2018-10-26 00:13:28.000000,,2020-06-26 05:04:58.140549,Top Assembly;RK1;Vendor;Elec
+QA00196,PPS chip damaged on PCB board,2020-06-26 05:04:58.500131,2018-10-26 02:52:32.000000,,2020-06-26 05:04:59.121753,Engine;Elec;RK1
+QA00197,No output power at EDFA2,2020-06-26 05:04:59.480373,2018-10-31 23:21:47.000000,,2020-06-26 05:04:59.760084,Tolerance;EDFA;RK1;Output Power;Vendor
+QA00198,No Hydrophobic coating on windows ,2020-06-26 05:05:00.066688,2018-11-01 23:49:12.000000,,2020-06-26 05:05:03.916125,RK2;Optics;Sensorhead
+QA00199,DA00043 record not found in Odoo,2020-06-26 05:05:04.250226,2018-11-04 23:05:43.000000,,2020-06-26 05:05:04.882651,Misc;RK2
+QA00200,High 2-way insertion loss,2020-06-26 05:05:05.251046,2018-11-05 22:59:46.000000,,2020-06-26 05:05:05.762672,RK1;Insertion Loss;Optics;Transceiver
+QA00201,High 2-way IL,2020-06-26 05:05:06.162873,2018-11-06 02:35:44.000000,,2020-06-26 05:05:06.666707,Vendor;RK1;Insertion Loss;Optics;Transceiver
+QA00202,ISO9001 Stage 1 Audit Finding - Lack of control on documents,2020-06-26 05:05:06.980339,2018-11-06 03:06:59.000000,,2020-06-26 05:05:07.987057,Misc
+QA00203,ISO9001 Stage 1 Audit - No Audit Plan for 2019,2020-06-26 05:05:08.219003,2018-11-06 03:16:06.000000,,2020-06-26 05:05:08.552859,RK3;Misc
+QA00204,ISO9001 Stage 1 Audit - Quality Objectives too narrow in scope,2020-06-26 05:05:08.810905,2018-11-06 03:22:26.000000,,2020-06-26 05:05:09.597295,Misc
+QA00205,ISO9001 Stage 1 Audit - Lack of M&C Process,2020-06-26 05:05:09.838258,2018-11-06 03:26:22.000000,,2020-06-26 05:05:10.524796,Misc
+QA00206,ISO9001 Stage 1 Audit - lack of checks completed to ensure staff are appropriately qualified,2020-06-26 05:05:10.765452,2018-11-06 03:29:59.000000,,2020-06-26 05:05:16.067531,Misc;RK3
+QA00207,Transceiver failed the directivity test,2020-06-26 05:05:16.382944,2018-11-06 04:25:15.000000,,2020-06-26 05:05:16.881012,Directivity;Transceiver;RK1;Optics
+QA00208,EDFA driving chip damaged on PCB board at MZ Tuning test,2020-06-26 05:05:17.233800,2018-11-07 00:55:51.000000,,2020-06-26 05:05:17.567200,RK1;EDFA;Output Power;Engine;MZ Tuning;Elec
+QA00209,EDFA driving chip damaged on PCB board at MZ Tuning test,2020-06-26 05:05:17.942893,2018-11-07 03:09:16.000000,,2020-06-26 05:05:18.449088,RK1;Engine;Output Power;EDFA;Elec;MZ Tuning
+QA00210,Directivity failed,2020-06-26 05:05:18.727087,,,2020-06-26 05:05:19.236741,Directivity;Sensorhead;RK1
+QA00211,directivity failed,2020-06-26 05:05:19.520111,2018-11-11 21:25:03.000000,,2020-06-26 05:05:19.857447,Directivity;RK1;Sensorhead
+QA00212,No EDFA output power at ESM with EDFA test,2020-06-26 05:05:20.294622,2018-11-11 21:27:57.000000,,2020-06-26 05:05:21.583674,Engine;RK1;EDFA;Output Power
+QA00213,Small screw hole for grating clamp,2020-06-26 05:05:21.915346,2018-11-11 22:46:34.000000,,2020-06-26 05:05:22.412553,Optics;RK1;Sensorhead;Vendor
+QA00214,Cosmetic Defects in gratings,2020-06-26 05:05:22.817288,2018-11-12 02:27:08.000000,,2020-06-26 05:05:23.998412,Optics;RK1;Vendor
+QA00215,Oil on Substructure,2020-06-26 05:05:24.345648,,,2020-06-26 05:05:24.875337,Contamination
+QA00216,Transceiver failed optimization,2020-06-26 05:05:25.205340,2018-11-14 00:11:02.000000,,2020-06-26 05:05:25.695046,Transceiver;RK1;Insertion Loss
+QA00217,Internal Audit Planning & Logistics - Production planning sheet needs to be reviewed on a regular basis and data accuracy needs to be ensured,2020-06-26 05:05:25.900217,2018-11-14 22:52:06.000000,,2020-06-26 05:05:26.508190,Misc
+QA00218,Internal Audit Planning & Logistics - Separate part code for uncoated lenses ,2020-06-26 05:05:26.770775,2018-11-15 00:22:04.000000,,2020-06-26 05:05:27.039950,Process;RK3;Misc
+QA00219,APD efficiency spec 51% ,2020-06-26 05:05:27.428390,2018-11-15 05:56:16.000000,,2020-06-26 05:05:28.372767,RK2;Optics;Elec;Range;Top Assembly
+QA00221,Halo on the point cloud with compressed 1000 play tables,2020-06-26 05:05:29.621766,2018-11-19 03:43:01.000000,,2020-06-26 05:05:30.473150,Engine;Pointcloud;LiFT;RK3
+QA00222,This Engine Tx Channel 2 was down.,2020-06-26 05:05:30.827998,2018-11-19 03:47:46.000000,,2020-06-26 05:05:31.573328,LiFT;EDFA;Output Power;Engine;RK2
+QA00223,High Insertion Loss Tx or Rx,2020-06-26 05:05:31.903145,2018-11-19 03:55:55.000000,,2020-06-26 05:05:32.368956,Insertion Loss;RK1;Sensorhead
+QA00224,Failure to meet range at LiFT,2020-06-26 05:05:32.684732,2018-11-19 22:59:58.000000,,2020-06-26 05:05:33.426414,RK3;LiFT;Range
+QA00225,Internal Audit - Procurement: Identification & Traceability,2020-06-26 05:05:33.688956,2018-11-20 22:51:03.000000,,2020-06-26 05:05:34.183575,RK1;Process;Misc
+QA00226,Internal Audit - Procurement: Supplier Selection Criteria,2020-06-26 05:05:34.387337,2018-11-20 22:55:59.000000,,2020-06-26 05:05:34.646552,Misc
+QA00227,Internal Audit - Procurement: NDA,2020-06-26 05:05:34.881169,2018-11-20 23:01:49.000000,,2020-06-26 05:05:35.695145,Vendor
+QA00228,Unclear information in Magnetic Backing Plate Hollow Motor Part Drawing Revision 002,2020-06-26 05:05:36.010656,2018-11-21 02:40:25.000000,,2020-06-26 05:05:36.504533,RK1;Vendor;Hollow Motor
+QA00229,Faraday rotators are not latched,2020-06-26 05:05:36.808324,2018-11-21 21:09:12.000000,,2020-06-26 05:05:37.302218,Hollow Motor;RK1;Optics
+QA00230,The middle pin holes fro connecting lower and  upper substructures are not aligned,2020-06-26 05:05:37.558226,2018-11-26 01:00:40.000000,,2020-06-26 05:05:38.050366,Optics;Tolerance
+QA00231,Faraday Rotator Spots and Scratch on surface,2020-06-26 05:05:38.378635,2018-11-26 01:19:54.000000,,2020-06-26 05:05:38.930630,Hollow Motor;RK1;Reliability
+QA00232,Not all the parts have their inspection record and data in Odoo. ,2020-06-26 05:05:39.270724,2018-11-26 02:59:51.000000,,2020-06-26 05:05:39.528586,Misc;Process
+QA00233,Not all the parts in the quarantine area have been given QA numbers. ,2020-06-26 05:05:39.755572,2018-11-26 03:05:45.000000,,2020-06-26 05:05:40.047103,Misc;RK1
+QA00234,Foggy Sensorhead Window,2020-06-26 05:05:40.432162,2018-11-27 23:21:33.000000,2020-07-17 03:48:47.000000,2020-07-17 03:48:47.670983,Reliability;RK2;Sensorhead;Optics
+QA00235,Incorrect PCB copper weight,2020-06-26 05:05:45.190877,,,2020-06-26 05:05:45.699403,Tolerance;Purchasing;Vendor;Elec
+QA00236,RR Mirror damage,2020-06-26 05:07:37.159139,2018-11-28 22:01:56.000000,,2020-06-26 05:07:37.719842,Optics;RK1;Vendor
+QA00237,GOHAN PCBA Shorting,2020-06-26 05:07:38.058562,2018-11-29 03:15:16.000000,,2020-06-26 05:07:38.676195,RK2;Reliability;Elec
+QA00238,MOTOR SLOWS DOWN OVER COLD TEMPERATURE,2020-06-26 05:07:39.018936,,,2020-06-26 05:07:40.085955,Hollow Motor;RK2;Reliability
+QA00239,Hollow motor issues from hot temperature test,2020-06-26 05:07:40.440852,,,2020-06-26 05:07:41.149466,Reliability;RK2;Hollow Motor;Contamination
+QA00240,G3 2-way IL failed at F2A & IL test,2020-06-26 05:07:41.504982,2018-11-29 05:59:35.000000,,2020-06-26 05:07:45.830250,Insertion Loss;RK1;F2A
+QA00241,Hollow motor magnet ring Out of Specification,2020-06-26 05:07:46.218082,2018-11-29 23:57:15.000000,,2020-06-26 05:07:46.718919,RK1;Hollow Motor;Vendor;Tolerance
+QA00242,Wobble observed on Goku 3 sensorheads operating with Gohan FW99 ,2020-06-26 05:07:47.052081,2018-12-05 03:27:28.000000,,2020-06-26 05:07:48.167802,Pointcloud;Firmware;RK2;Sensorhead
+QA00243,"When we do the LiFT, fiber break errors coming out.",2020-06-26 05:07:48.447340,2018-12-05 03:29:38.000000,,2020-06-26 05:07:48.933849,LiFT;Sensorhead;RK1;Error Code
+QA00244,Screw Hole not Tapped,2020-06-26 05:07:49.237166,2018-12-05 04:33:40.000000,,2020-06-26 05:07:49.851522,Vendor;RK1
+QA00245,STATOR screw holes are not tapped,2020-06-26 05:07:50.201199,2018-12-06 21:37:02.000000,,2020-06-26 05:07:50.585552,Hollow Motor;RK1;Vendor
+QA00247,Internal Audit Maintenance & Calibration - Requirements regarding efficient working of equipment,2020-06-26 05:07:50.864352,2018-12-09 22:50:15.000000,2021-09-13 09:08:48.000000,2021-09-13 09:08:48.096596,RK2;Misc;Archive
+QA00248,Internal Audit Maintenace & Calibration - Incomplete maintenance history in Odoo,2020-06-26 05:07:52.288416,2018-12-09 22:53:52.000000,,2020-06-26 05:07:52.852226,Misc;RK2
+QA00249,ROTOR screw hole is not tapped,2020-06-26 05:07:53.187062,2018-12-10 05:40:53.000000,,2020-06-26 05:07:53.587393,Vendor;RK1
+QA00250,Missing User Manual from BoM attachment / specification,2020-06-26 05:07:53.844285,2018-12-12 05:10:32.000000,,2020-06-26 05:07:54.397194,Misc;RK2
+QA00251,Goku 3 failed cold start at -10degC ,2020-06-26 05:07:54.777377,2018-12-12 20:57:35.000000,,2020-06-26 05:07:57.566861,Reliability;RK3;Hollow Motor;Sensorhead
+QA00252,Window High 2-way IL ,2020-06-26 05:07:57.896221,2018-12-13 00:14:09.000000,,2020-06-26 05:07:59.017719,Sensorhead;Insertion Loss;Optics
+QA00253,Lens damaged,2020-06-26 05:07:59.324382,2018-12-14 05:03:04.000000,,2020-06-26 05:07:59.822305,Operator;RK1;Optics
+QA00254,Side Mode Suppression Measurements Pre EDFA - Reports Corrupted,2020-06-26 05:08:00.308932,2018-12-19 02:33:43.000000,,2020-06-26 05:08:01.304472,SMSR;EDFA
+QA00255,Error 1104 on a unit at LiFT,2020-06-26 05:08:01.828616,2018-12-24 01:57:06.000000,,2020-06-26 05:08:02.692373,LiFT;Error Code;RK1
+QA00256,Design and Development Controls (Clause 8.3.4),2020-06-26 05:08:02.963316,2018-12-24 02:43:50.000000,2021-09-13 09:09:40.000000,2021-09-13 09:09:40.092005,RK1;Archive;Misc
+QA00257,Competence (Clause 7.2),2020-06-26 05:08:04.719788,2018-12-24 03:03:40.000000,,2020-06-26 05:08:05.592568,Misc;RK1
+QA00258,"Control of Externally Provided Processes, Products and Services (Clause 8.4)",2020-06-26 05:08:05.825001,2018-12-24 03:13:24.000000,,2020-06-26 05:08:06.589981,RK1;Vendor
+QA00259,Hollow Motor bearing grease leak,2020-06-26 05:08:07.020649,2018-12-24 04:10:10.000000,,2020-06-26 05:08:07.671256,RK1;Hollow Motor;Contamination
+QA00262,This SH has wobble,2020-06-26 05:08:09.875622,2018-12-28 22:52:04.000000,,2020-06-26 05:08:10.532159,RK2;Firmware;Pointcloud;Sensorhead
+QA00263,This engine gives fiber break error while there is no such fiber break,2020-06-26 05:08:10.864657,2018-12-28 22:54:32.000000,,2020-06-26 05:08:12.707398,Error Code;Sensorhead;LiFT
+QA00264,This SH does not give us a good and nice point cloud,2020-06-26 05:08:13.145664,2018-12-28 22:59:13.000000,,2020-06-26 05:08:13.793800,Pointcloud;Sensorhead;RK2
+QA00265,Bearings not moving smoothly,2020-06-26 05:08:14.221064,2019-01-07 02:44:11.000000,,2020-06-26 05:08:14.882452,RK1;Hollow Motor;Vendor
+QA00266,Non uniform thickness of hollow motor magnet ring,2020-06-26 05:08:15.336451,2019-01-07 02:55:45.000000,,2020-06-26 05:08:15.988179,RK1;Tolerance;Vendor;Hollow Motor
+QA00267,Anti-Tamper Stickers not present,2020-06-26 05:08:16.383013,2019-01-10 00:13:46.000000,,2020-06-26 05:08:17.140558,Engine;Misc;RK2
+QA00268,findings from solar radiation test,2020-06-26 05:08:17.513962,,,2020-06-26 05:08:21.190285,Reliability;RK1;Sensorhead
+QA00269,Cloudy Prism 2,2020-06-26 05:08:21.588185,2019-01-10 20:53:38.000000,,2020-06-26 05:08:22.591687,F2A;Insertion Loss;Optics
+QA00270,Coax Stuck in Lower Substructure,2020-06-26 05:08:22.940036,2019-01-11 00:35:21.000000,,2020-06-26 05:08:23.920207,Transceiver;Optics
+QA00271,Spring effect on manual spinning HM after assembled onto substructure,2020-06-26 05:08:24.275630,2019-01-14 03:56:07.000000,,2020-06-26 05:08:24.812335,RK1;Hollow Motor
+QA00272,Contaminated optical components,2020-06-26 05:08:25.255588,2019-01-16 01:19:08.000000,,2020-06-26 05:08:31.001361,Optics;RK3;Directivity;Contamination
+QA00273,Engine 102 dead during the LiFT,2020-06-26 05:08:31.384490,2019-01-18 08:42:58.000000,,2020-06-26 05:08:32.482825,RK2;LiFT
+QA00274,Point cloud is shaking of this SH,2020-06-26 05:08:32.921698,2019-01-18 08:53:38.000000,,2020-06-26 05:08:33.916481,LiFT;Pointcloud;RK2;Sensorhead
+QA00275,Rotors out of spec,2020-06-26 05:08:34.401984,2019-01-21 04:43:08.000000,,2020-06-26 05:08:34.967494,Vendor;RK1;Hollow Motor;Tolerance
+QA00277,Hollow motor stopped after few hours spinning,2020-06-26 05:08:36.427784,2019-01-29 22:32:20.000000,,2020-06-26 05:08:37.204492,Hollow Motor;RK1;Mech
+QA00278,Non threaded screw holes,2020-06-26 05:08:37.555179,2019-01-30 23:47:54.000000,,2020-06-26 05:08:38.101302,Vendor;RK1
+QA00279,Noisy hollow motor from LiFT,2020-06-26 05:08:38.568405,2019-01-31 01:08:33.000000,,2020-06-26 05:08:39.236380,Audible Noise;RK1;Hollow Motor;Sensorhead;LiFT
+QA00280,Laser Calibration rig over due 1 day for calibration,2020-06-26 05:08:39.490769,2019-01-31 02:13:41.000000,,2020-06-26 05:08:40.194763,Work Centre;RK1;Laser Calibration
+QA00281,2-D Spinning Directivity Test Failed,2020-06-26 05:08:40.613443,2019-01-31 02:47:23.000000,,2020-06-26 05:08:41.489557,Directivity;RK1;Sensorhead
+QA00282,Fortuna Rev6 mod1 PCB lost elec communication after final assembly,2020-06-26 05:08:41.962531,2019-01-31 21:38:15.000000,,2020-06-26 05:08:43.064970,Comms;MZ Tuning;RK1;Engine
+QA00283,EDFA Failure,2020-06-26 05:08:43.494299,2019-02-04 00:59:02.000000,,2020-06-26 05:08:44.154217,EDFA;Error Code;Output Power;RK1;LiFT
+QA00284,Raining data gives us poor range performance,2020-06-26 05:08:44.609329,2019-02-04 02:09:51.000000,,2020-06-26 05:08:45.433524,Range;RK2;LiFT
+QA00285,The impedance value of Engine PPS has failed,2020-06-26 05:08:45.906904,2019-02-11 02:58:56.000000,,2020-06-26 05:08:47.435951,Engine;RK2;Comms
+QA00286,Scratch on Window Surface,2020-06-26 05:08:47.766929,,,2020-06-26 05:08:48.442002,RK1
+QA00287,Replace PTFE bearing hollow motor with Mobile28 bearing hollow motor (NIO),2020-06-26 05:08:48.793663,2019-02-12 07:52:01.000000,,2020-06-26 05:08:49.562489,RK1
+QA00288,Engine 154 FPGA damaged,2020-06-26 05:08:49.943128,2019-02-13 02:58:06.000000,,2020-06-26 05:08:50.617003,Engine;Comms;Elec
+QA00289,O-rings changing shape after being exposed to high temperature/high humidity,2020-06-26 05:08:51.020409,,,2020-06-26 05:08:51.680250,RK1;Sensorhead;Reliability
+QA00290,"Reversed prism, bracket and clamp no longer used in MFG",2020-06-26 05:08:52.033802,2019-02-14 03:27:02.000000,,2020-06-26 05:08:52.736341,RK1;Misc
+QA00291,Cannot run EFT due to laser power low after MZT,2020-06-26 05:08:53.131774,2019-02-18 04:26:37.000000,,2020-06-26 05:08:53.886656,Output Power;Engine;MZ Tuning;RK1
+QA00292,Dark Cars Invisible,2020-06-26 05:08:54.218870,,,2020-06-26 05:08:55.270230,Directivity
+QA00293,Calibration Variability and Lack of Repeatability,2020-06-26 05:08:55.620233,,,2020-06-26 05:08:56.602890,Process;Reliability
+QA00294,Missing Ground Returns,2020-06-26 05:08:56.975841,,,2020-06-26 05:08:58.222041,Pointcloud;Directivity;RK2
+QA00296,Ring Created in Point Cloud When Temperature Decreases,2020-06-26 05:08:58.647112,,,2020-06-26 05:08:59.632793,RK2;Pointcloud Noise
+QA00297,Consistent fibre burns,2020-06-26 05:09:00.014451,,,2020-06-26 05:09:00.716262,Operator;RK2;Reliability
+QA00298,Motor Speed Lower Limit Unreachable,2020-06-26 05:09:01.146068,,,2020-06-26 05:09:02.271923,RK2;Hollow Motor;Sensorhead
+QA00299,PPS Produced by Goku 3 is Not Meeting Specification,2020-06-26 05:09:02.664801,,,2020-06-26 05:09:03.344114,RK2;Comms;Firmware
+QA00300,Playtable switching cannot occur at Specified 1ms intervals (CES),2020-06-26 05:09:03.792039,,,2020-06-26 05:09:04.684080,Firmware;RK2;Engine
+QA00301,YOFC damaged by region playtables,2020-06-26 05:09:05.173096,2019-02-20 05:45:47.000000,,2020-06-26 05:09:06.071213,EDFA;RK1
+QA00302,Sensorhead Sealing Failure,2020-06-26 05:09:06.578629,2019-02-16 23:26:13.000000,,2020-06-26 05:09:07.606392,Reliability;Mech;RK1;Sensorhead
+QA00303,Noisy hollow motor,2020-06-26 05:09:08.132174,,,2020-06-26 05:09:08.789295,Hollow Motor;Audible Noise;RK1;Sensorhead
+QA00304,Graded Index Fibre Arrays failing 2-Way IL,2020-06-26 05:09:09.242854,,,2020-06-26 05:09:09.903408,RK1;Transceiver
+QA00305,Coax can't screw in lower substructure,2020-06-26 05:09:10.289956,2019-02-24 21:50:44.000000,,2020-06-26 05:09:10.856931,Tolerance;Transceiver
+QA00306,Not possible to trace current released assembly,2020-06-26 05:09:11.271694,,,2020-06-26 05:09:11.928940,Misc;RK1;Process
+QA00307,High 2-way IL on SH-150-GI,2020-06-26 05:09:12.458766,,,2020-06-26 05:09:13.672198,Vendor;Optics;RK1;Sensorhead
+QA00308,2 Way- il Failed at F2A after seal test.,2020-06-26 05:09:14.082567,2019-02-26 00:35:24.000000,,2020-06-26 05:09:15.118620,Sensorhead;RK1
+QA00309,E167 requires unusually fast acquisition delay,2020-06-26 05:09:15.591375,2019-02-27 00:06:43.000000,,2020-06-26 05:09:16.812944,Misc;RK1;Engine
+QA00310,2 Way- il Failed at F2A,2020-06-26 05:09:17.168547,,,2020-06-26 05:09:17.930571,RK1
+QA00311,Inconsistencies in FOV tested and used in the pointcloud.,2020-06-26 05:09:18.334524,,,2020-06-26 05:09:18.991970,F2A;FOV;Directivity;RK2
+QA00312,E168 failed MZ tuning,2020-06-26 05:09:19.374101,,,2020-06-26 05:09:20.253641,Engine;MZ Tuning
+QA00313,FTA fail,2020-06-26 05:09:20.668294,2019-02-28 03:32:19.000000,,2020-06-26 05:09:21.327981,F2A;Insertion Loss
+QA00314,2 Way- il Failed at F2A,2020-06-26 05:09:21.753749,,,2020-06-26 05:09:22.521630,F2A;RK1;Insertion Loss
+QA00315,Ch2 on EDFA not turning on,2020-06-26 05:09:22.896456,,,2020-06-26 05:09:24.802854,RK1;EDFA;MZ Tuning
+QA00316,2 Way- il Failed at F2A,2020-06-26 05:10:23.234376,,,2020-06-26 05:10:23.890452,F2A;RK1;Insertion Loss
+QA00317,SH 148 Wobble observed at  LiFT,2020-06-26 05:10:24.317642,2019-03-04 03:10:08.000000,,2020-06-26 05:10:24.317642,Sensorhead;RK1;Pointcloud Noise
+QA00318,2 Way- il Failed at F2A,2020-06-26 05:10:47.244549,,,2020-06-26 05:10:47.887213,F2A;RK1;Insertion Loss
+QA00319,Cores failing directivity,2020-06-26 05:10:53.237420,,,2020-06-26 05:10:53.981003,Directivity;Transceiver
+QA00320,2 Way- il Failed at F2A,2020-06-26 05:10:54.403942,,,2020-06-26 05:10:55.083895,F2A;RK1;Insertion Loss
+QA00321,Loss of communications with the engine for the PC,2020-06-26 05:10:55.428174,2019-03-05 13:00:00.000000,,2020-06-26 05:10:56.503293,Comms;RK1
+QA00322,Grating-1(1000812-006-0000000656),2020-06-26 05:10:56.944828,,,2020-06-26 05:10:57.579000,Optics;Contamination;RK2
+QA00323,SH157 failed FTA,2020-06-26 05:10:57.990698,2019-03-07 21:01:34.000000,,2020-06-26 05:10:58.642361,F2A;RK1;Insertion Loss
+QA00324,SH 161 failed 2D directivity,2020-06-26 05:10:59.039162,2019-03-07 21:39:38.000000,,2020-06-26 05:10:59.685205,RK1;Directivity
+QA00325,Engine fail  due to signal dropped @ EFT channel 1,2020-06-26 05:11:00.048442,2019-03-07 21:53:48.000000,,2020-06-26 05:11:01.192667,Link Budget
+QA00326,Bearing Broken,2020-06-26 05:11:01.584646,2019-03-07 21:48:23.000000,,2020-06-26 05:11:02.942157,Vendor;Hollow Motor
+QA00327,SH 161 failed FTA,2020-06-26 05:11:03.410469,2019-03-07 21:50:44.000000,,2020-06-26 05:11:04.070078,Insertion Loss;F2A;RK1
+QA00328,Replaced SI PBS to GI PBS fibre array,2020-06-26 05:11:04.427773,2019-03-08 02:24:45.000000,,2020-06-26 05:11:05.279667,Misc;RK1
+QA00329,Directivity failed,2020-06-26 05:11:05.682991,,,2020-06-26 05:11:06.360696,RK1;Directivity
+QA00330,E172 could't finish EFT with 3 temp test,2020-06-26 05:11:06.727190,2019-03-11 02:52:22.000000,,2020-06-26 05:11:08.390974,Link Budget;Engine
+QA00331,2D-DIRECTIVITY /AFTER SEAL TEST,2020-06-26 05:11:08.789849,,,2020-06-26 05:11:09.443513,RK1;Directivity
+QA00332,SH162 failed 2D DT test,2020-06-26 05:11:09.831747,,,2020-06-26 05:11:10.523077,Directivity
+QA00333,SH 162 failed FTA,2020-06-26 05:11:10.927580,,,2020-06-26 05:11:11.792947,F2A;Insertion Loss
+QA00334,1 playtable failed @ Laser Calibration Rig E177,2020-06-26 05:11:12.245470,2019-03-13 21:53:37.000000,,2020-06-26 05:11:12.995924,Laser Calibration;Engine
+QA00335,Contamination on optical components,2020-06-26 05:11:13.408371,2019-03-15 05:50:15.000000,,2020-06-26 05:11:14.128480,Optics;Contamination
+QA00336,Pointcloud time stamps jump repeatedly when gps connected to engine,2020-06-26 05:11:14.568526,,,2020-06-26 05:11:15.222338,Elec;RK1;Misc
+QA00337,Sensor head mount could be improved,2020-06-26 05:11:15.635811,,,2020-06-26 05:11:16.417972,RK1;Sensorhead
+QA00338,Engine REST interface sometimes takes a long time to respond,2020-06-26 05:11:47.625752,,,2020-06-26 05:11:48.182526,Comms;Engine;RK1
+QA00339,Fail Link Budget between  193.5 and 193.9 Thz,2020-06-26 05:11:48.611237,2019-03-18 21:31:36.000000,2021-09-13 09:10:22.000000,2021-09-13 09:10:22.619476,RK1;Archive;Link Budget;Engine
+QA00340,Top Heat Sink it has broken threads,2020-06-26 05:11:50.014464,2019-03-18 21:38:02.000000,,2020-06-26 05:11:50.737579,Tolerance;Top Assembly;Vendor
+QA00341,High IL on GI fibre array,2020-06-26 05:11:51.173216,2019-03-20 23:29:31.000000,,2020-06-26 05:11:51.840348,Insertion Loss;RK1;Optics
+QA00342,Wobble at LiFT,2020-06-26 05:11:52.295292,2019-03-21 04:41:57.000000,,2020-06-26 05:11:53.425451,LiFT;Pointcloud Noise;RK1;Sensorhead
+QA00343,Hollow motor fail screening test @ -40deg,2020-06-26 05:11:53.789670,2019-03-22 00:33:33.000000,,2020-06-26 05:11:54.572027,Hollow Motor;RK2
+QA00344,F2A 2way ILfailed,2020-06-26 05:11:55.011234,,,2020-06-26 05:11:55.982165,F2A;RK1;Insertion Loss
+QA00345,SH 167 failed 2D directivity,2020-06-26 05:11:56.392458,,,2020-06-26 05:11:57.442738,RK1;Directivity
+QA00346,SH 167 marginally failed FTA,2020-06-26 05:11:57.865818,2019-03-26 00:05:57.000000,,2020-06-26 05:11:58.522699,Insertion Loss;RK1;F2A
+QA00347,PCB can't start Code Load,2020-06-26 05:11:58.923148,2019-03-26 01:09:47.000000,,2020-06-26 05:11:59.496668,Elec
+QA00348,2 Way- il Failed at F2A,2020-06-26 05:11:59.924533,,,2020-06-26 05:12:00.713245,Insertion Loss;F2A;RK1
+QA00349,Goku 3 failing 2D directivity Spec,2020-06-26 05:12:01.187265,,,2020-06-26 05:12:03.056227,RK1;Sensorhead;Directivity
+QA00350,Audibly Noisy Sensorhead,2020-06-26 05:12:03.538308,2019-03-27 03:54:45.000000,,2020-06-26 05:12:06.036317,Audible Noise;Hollow Motor;RK3
+QA00351,FA Jacket broken,2020-06-26 05:12:06.395342,,,2020-06-26 05:12:07.246589,Vendor;RK1
+QA00352,SH168 F2A 2way IL failed,2020-06-26 05:12:07.653507,2019-03-30 00:47:26.000000,,2020-06-26 05:12:08.668714,Insertion Loss;Sensorhead
+QA00353,Replaced new fiber array,2020-06-26 05:12:09.105550,,,2020-06-26 05:12:10.210834,F2A;RK1;Insertion Loss
+QA00354,ESM Measurement Innacuracy,2020-06-26 05:12:10.573222,2019-04-02 23:16:44.000000,,2020-06-26 05:12:11.957447,ESM
+QA00355,SH 150 failed 2_way IL in horizontal box,2020-06-26 05:12:12.395089,2019-04-03 23:59:23.000000,,2021-02-12 04:15:41.306364,F2A;RK1;Insertion Loss
+QA00356,Issues found in FIELD KITT project (sensorheads),2020-06-26 05:12:13.506066,,,2020-06-26 05:12:17.323749,Reliability
+QA00357,SH175 failed 2D DT,2020-06-26 05:12:17.818136,,,2020-06-26 05:12:18.484911,RK1;Sensorhead;Directivity
+QA00358,SH171 failed 2D DT,2020-06-26 05:12:18.922038,2019-04-08 01:16:31.000000,,2020-06-26 05:12:19.583712,RK1;Directivity;Sensorhead
+QA00359,SH 178 failed FTA,2020-06-26 05:12:20.021845,2019-04-09 22:23:27.000000,,2020-06-26 05:12:20.679201,F2A;RK1;Insertion Loss
+QA00360,Spinning Grating	1001336-002-0000000142,2020-06-26 05:12:21.039283,,,2020-06-26 05:12:22.071612,RK1;Directivity
+QA00361,SH180 failed FTA,2020-06-26 05:12:22.507296,2019-04-11 21:43:24.000000,,2020-06-26 05:12:23.285645,Insertion Loss;F2A;RK1
+QA00363,Directivity failed,2020-06-26 05:12:24.642121,,,2020-06-26 05:12:25.299925,RK1;Directivity
+QA00364,Loss in range performance.,2020-06-26 05:12:25.778805,2019-04-10 01:13:49.000000,,2020-06-26 05:12:27.307884,LiFT;Range;RK2;Firmware
+QA00365,Loss in range performance.,2020-06-26 05:12:27.714297,2019-04-10 01:18:14.000000,,2020-06-26 05:12:29.172329,LiFT;Range;RK2
+QA00366,,2020-06-26 05:12:29.578083,2019-04-17 03:32:24.000000,,2020-06-26 05:12:30.294631,Vendor;Tolerance;RK1
+QA00367,2 Way- il Failed at F2A,2020-06-26 05:12:30.735918,,,2020-06-26 05:12:31.400017,RK1;Insertion Loss;F2A
+QA00368,SH 169 Wobble at LiFT,2020-06-26 05:12:31.855387,2019-04-17 05:41:23.000000,,2020-06-26 05:12:32.623075,Pointcloud;RK1;Sensorhead;LiFT
+QA00369,SH 170 Shaking pointcloud at LiFT,2020-06-26 05:12:33.089661,2019-04-17 05:52:39.000000,,2020-06-26 05:12:33.868289,Pointcloud;RK1;LiFT;Sensorhead
+QA00370,SH139 has a noisy motor with oil leakage.,2020-06-26 05:12:34.346662,2019-04-17 23:43:05.000000,,2020-06-26 05:12:35.015848,Contamination;Audible Noise;Hollow Motor;Sensorhead;Optics
+QA00371,Uncorrelated LiFT results between POD and number of points on Target,2020-06-26 05:12:35.426938,2019-04-29 23:57:32.000000,,2020-06-26 05:12:36.619397,RK2;LiFT;Range
+QA00372,,2020-06-26 05:12:37.056541,,,2020-06-26 05:12:37.718180,Optics;RK1;Contamination
+QA00373,,2020-06-26 05:12:38.149718,,,2020-06-26 05:12:38.855109,RK1;Contamination;Optics
+QA00374,,2020-06-26 05:12:39.239018,2019-04-30 23:49:24.000000,,2020-06-26 05:12:39.794591,Vendor;Tolerance
+QA00375,,2020-06-26 05:12:40.300445,,,2020-06-26 05:12:40.862976,RK1;Hollow Motor;Vendor;Tolerance
+QA00376,,2020-06-26 05:12:41.333804,2019-05-01 00:12:08.000000,,2020-06-26 05:12:41.900654,Vendor;Tolerance
+QA00377,,2020-06-26 05:12:42.338300,,,2020-06-26 05:12:43.106365,Tolerance;Vendor;RK1
+QA00378,,2020-06-26 05:12:43.558972,,,2020-06-26 05:12:44.234728,RK1;Tolerance;Vendor
+QA00379,,2020-06-26 05:12:44.681948,,,2020-06-26 05:12:45.275336,RK1;Vendor;Tolerance
+QA00380,,2020-06-26 05:12:45.717930,,,2020-06-26 05:12:46.269891,RK1;Tolerance;Vendor
+QA00381,Lack of incoming inspection data for motor components,2020-06-26 05:12:46.581916,,,2020-06-26 05:12:47.353515,Misc;Hollow Motor
+QA00382,,2020-06-26 05:12:47.766299,2019-05-02 01:53:48.000000,,2020-06-26 05:12:48.312627,Misc
+QA00383,Deformed optical fibre caused by cable glands,2020-06-26 05:12:48.714596,,,2020-06-26 05:12:52.541971,Reliability;RK1;Sensorhead
+QA00384,Lens,2020-06-26 05:12:52.956791,2019-05-03 01:52:16.000000,,2020-06-26 05:12:53.520352,Vendor
+QA00385,Process Spec backwards compatability issues.,2020-06-26 05:12:53.884208,2019-05-02 14:00:00.000000,,2020-06-26 05:12:54.777177,Work Centre;RK2;Process;Misc
+QA00386,EDFA of E#200 lost communication while Eye Safety Test was  running.,2020-06-26 05:12:55.226079,2019-05-03 03:56:07.000000,,2020-06-26 05:12:55.887189,Work Centre;RK1;EDFA;Engine;Eye Safety
+QA00387,Optical Contamination During Grating Assembly in Production,2020-06-26 05:12:56.271936,2019-05-02 23:43:47.000000,,2020-06-26 05:12:57.686268,RK2;Contamination;Optics
+QA00388,,2020-06-26 05:12:58.074166,2019-05-07 01:31:45.000000,,2020-06-26 05:12:58.855154,Tolerance
+QA00389,Directivity Test Rig incorrect reading after morning calibration,2020-06-26 05:12:59.214522,2019-05-08 02:31:23.000000,2021-09-13 09:12:07.000000,2021-09-13 09:12:07.254844,Archive;Work Centre;Goku 3
+QA00390,PPS chip might be damaged on E#187,2020-06-26 05:13:00.847928,2019-05-08 03:51:55.000000,,2020-06-26 05:13:01.522009,Engine;Elec;Work Centre;Comms
+QA00392,SMSR fail @ Laser Spectrum with EDFA.,2020-06-26 05:13:02.042173,2019-05-02 22:24:18.000000,,2020-06-26 05:13:02.723989,SMSR;Engine;ESM;RK1
+QA00393,Backing plate burrs causing out of spec,2020-06-26 05:13:03.159484,2019-05-09 14:00:00.000000,,2020-06-26 05:13:03.958512,RK1;Hollow Motor
+QA00394,,2020-06-26 05:13:04.377593,2019-05-13 01:24:59.000000,,2020-06-26 05:13:04.936588,Tolerance;RK1;Vendor
+QA00395,Stator-Circularity and Diameter OOT,2020-06-26 05:13:05.354129,2019-05-14 01:44:21.000000,,2020-06-26 05:13:05.912121,Hollow Motor
+QA00396,Diameter is out of tolerance,2020-06-26 05:13:06.373912,2019-05-14 02:22:49.000000,,2020-06-26 05:13:06.937199,RK1;Hollow Motor
+QA00397,Stator-Circularity and Diameter OOT,2020-06-26 05:13:07.540337,2019-05-14 03:11:32.000000,,2020-06-26 05:13:08.111975,RK1;Hollow Motor
+QA00398,Rotors - OOT,2020-06-26 05:13:08.563690,2019-05-14 04:01:01.000000,,2020-06-26 05:13:09.133254,Hollow Motor;RK1
+QA00399,Rotors -OOT,2020-06-26 05:13:09.610233,2019-05-14 04:25:15.000000,,2020-06-26 05:13:10.227332,Hollow Motor;RK1
+QA00400,Obsolete zero order stickers put into quarantine for disposal,2020-06-26 05:13:10.610819,,,2020-06-26 05:13:11.288174,Misc
+QA00401,Lens failed directivity,2020-06-26 05:13:11.690429,,,2020-06-26 05:13:12.403114,Optics;Directivity
+QA00402,Obsolete gohans (rev8) are now guarantined,2020-06-26 05:13:12.793663,,,2020-06-26 05:13:13.461595,Elec;Misc
+QA00403,Duplication of work center operartions,2020-06-26 05:13:13.855657,,,2020-06-26 05:13:14.803537,Misc;RK2;Work Centre
+QA00404,Possible Switching malfunction in the EFT rig,2020-06-26 05:13:15.363292,,,2020-06-26 05:13:16.371760,RK1;Engine;Output Power;Link Budget;Firmware
+QA00405,Spinning Grating Cracked during assy,2020-06-26 05:13:16.913638,,,2020-06-26 05:13:18.460638,Sensorhead;Hollow Motor;Misc;RK1
+QA00406,,2020-06-26 05:13:18.869123,,,2020-06-26 05:13:19.547536,Insertion Loss;Sensorhead
+QA00407,noise test failed,2020-06-26 05:13:20.014022,,,2020-06-26 05:13:20.827491,Audible Noise;RK1;Sensorhead
+QA00408,noise test failed,2020-06-26 05:13:21.269797,,,2020-06-26 05:13:22.310525,RK1;Sensorhead;Audible Noise
+QA00409,pps issue,2020-06-26 05:13:22.813595,,,2020-06-26 05:13:23.808351,Elec;RK1;Engine;Comms
+QA00410,Stator - Circularity failed,2020-06-26 05:13:24.336692,,,2020-06-26 05:13:24.906108,Tolerance;RK1;Vendor
+QA00411,hollow motor encoder gap beyond the spec,2020-06-26 05:13:25.341584,2019-05-27 01:17:40.000000,,2020-06-26 05:13:26.013763,Hollow Motor;Tolerance;RK1
+QA00412,Baidu - Missing Points on a 12% Target,2020-06-26 05:13:26.334831,,,2020-06-26 05:13:27.138123,Range;RK2
+QA00413,Near Field Noise In New Sensorhead,2020-06-26 05:13:27.404235,,2021-10-25 06:06:47.000000,2021-10-25 06:06:47.318064,RK2;LIDAR System;Pointcloud Noise
+QA00414,IKE - Range Alising Artefact,2020-06-26 05:13:29.836300,,2021-09-13 09:17:31.000000,2021-09-13 09:17:30.959279,range;Archive;LIDAR System;Pointcloud Noise;CMR;retroreflector
+QA00415,Auto X - Zero Azimuth Noise Issue,2020-06-26 05:13:30.905506,,2022-05-20 01:22:55.000000,2022-05-20 01:22:55.198029,RK2;Pointcloud Noise;Directivity;LIDAR System;Zero Azimuth Noise
+QA00416,Cruise Testing Difficulties,2020-06-26 05:13:32.744630,,,2020-06-26 05:13:33.519463,CMR;RK2;Range
+QA00417,Missing BOM Accessory Items,2020-06-26 05:13:33.780181,,,2020-06-26 05:13:34.449155,BOM;RK1
+QA00418,noise test failed,2020-06-26 05:13:34.885783,,,2020-06-26 05:13:35.663621,Sensorhead;RK1;Audible Noise
+QA00419,Encoder gap test failed,2020-06-26 05:13:36.093738,,,2020-06-26 05:13:36.756078,RK1;Hollow Motor
+QA00422,Reusing defective gratings may produce low yield,2020-06-26 05:13:39.112413,,,2020-06-26 05:13:39.903137,Misc;Optics;Directivity
+QA00619,Coaxial Optimisation failed,2020-06-26 05:13:40.375863,,,2020-06-26 05:13:41.372840,RK1;Optics;Insertion Loss;Sensorhead
+QA00621,encode gap exceeds spec,2020-06-26 05:13:42.780797,2019-05-30 22:53:11.000000,,2020-06-26 05:13:43.695535,Hollow Motor;Tolerance
+QA00622,Encoder ring surface finish problems from new supplier DJ,2020-06-26 05:13:44.239219,,,2020-06-26 05:13:45.071846,Hollow Motor;Vendor;Tolerance
+QA00623,3 playtable failed @ Laser Calibration Rig E#217,2020-06-26 05:13:45.580021,2019-06-02 23:59:42.000000,,2020-06-26 05:13:46.246858,Engine;Laser Calibration;RK1
+QA00624,Min range failed at LiFT,2020-06-26 05:13:46.602298,2019-06-03 07:03:32.000000,,2020-06-26 05:13:47.375228,Sensorhead;RK1
+QA00625,EMC Box issue in E217,2020-06-26 05:13:47.796779,2019-06-03 22:52:57.000000,,2020-06-26 05:13:48.465117,Elec;Comms
+QA00626,E165 can't start laser cal,2020-06-26 05:13:48.952013,,,2020-06-26 05:13:49.621801,Work Centre;RK1;Engine;Laser Calibration
+QA00627,Gohan Rev12 all failed audible noise test,2020-06-26 05:13:50.021969,2019-06-04 00:58:10.000000,,2020-06-26 05:13:50.929240,Audible Noise;Hollow Motor
+QA00629,Encoder rings failing encoder gap test (EXAMPLE QA),2020-06-26 05:13:51.449617,2019-06-05 03:17:47.000000,,2020-06-26 05:13:52.572279,Tolerance;Vendor;Hollow Motor;RK2
+QA00630,Hollow Motor Speed Eccentricity,2020-06-26 05:13:52.984357,,2021-10-27 21:44:08.000000,2021-10-27 21:44:07.970159,RK1;Hollow Motor
+QA00631,Hollow Motor Actual Speed vs Target Speed not achieved.,2020-06-26 05:13:53.999995,,,2020-06-26 05:13:54.722367,Hollow Motor;RK2
+QA00632,Hollow Motor Speed Issue,2020-06-26 05:13:55.141851,,,2020-06-26 05:13:55.829280,RK1;Hollow Motor
+QA00633,Depth is out of tolerance,2020-06-26 05:13:56.169803,,,2020-06-26 05:13:56.727238,RK1
+QA00634,Gohan 9 becomes obsolete in the build: replaced with 12,2020-06-26 05:13:57.143516,2019-06-07 05:02:25.000000,,2020-06-26 05:13:57.807421,RK1;Hollow Motor;Misc
+QA00636,noise test failed,2020-06-26 05:14:40.890767,,,2020-06-26 05:14:41.666948,RK1
+QA00637,Returned G3 F2A failed,2020-06-26 05:14:42.053737,,,2020-06-26 05:14:43.051011,RK2
+QA00638,2 Way- il Failed at F2A,2020-06-26 05:14:43.433808,,,2020-06-26 05:14:44.093587,RK2
+QA00639,RAM pedestal in the incorrect location,2020-06-26 05:14:44.474517,,,2020-06-26 05:14:45.398290,RK2
+QA00640,2D Directivity failed,2020-06-26 05:14:45.782151,,,2020-06-26 05:14:46.333248,RK1
+QA00641,Retro rising edge detection corruption,2020-06-26 05:14:46.791089,2019-06-17 00:23:54.000000,,2020-06-26 05:14:48.468512,Horns;Elec;Firmware;RK2
+QA00642,2D Directivity failed,2020-06-26 05:14:48.865438,,,2020-06-26 05:14:49.615610,RK1
+QA00643,Process failures from Photop gratings,2020-06-26 05:14:49.988368,,,2020-06-26 05:14:52.976268,Optics;Directivity;Insertion Loss;F2A
+QA00644,Min Range test failed,2020-06-26 05:14:53.306071,,,2020-06-26 05:14:53.964794,RK1
+QA00645,2 Way- il Failed at F2A,2020-06-26 05:14:54.301291,,,2020-06-26 05:14:55.402300,RK1
+QA00646,2 Way- il Failed at F2A,2020-06-26 05:14:55.794231,,,2020-06-26 05:14:56.453100,RK1
+QA00647,Reliability Life Testing Failure - High current draw.,2020-06-26 05:14:56.829825,2019-06-17 23:57:32.000000,,2020-06-26 05:14:57.595544,RK2
+QA00648,Reliability Life Testing Failure - Noise Testing Fails,2020-06-26 05:14:57.972477,2019-06-17 23:57:32.000000,,2020-06-26 05:14:58.622761,RK2
+QA00649,Potential Eye Safety Issue with Un-calibrated EDFA,2020-06-26 05:14:58.924683,2019-06-17 23:57:32.000000,,2020-06-26 05:15:00.384535,RK3
+QA00650,Sensor head has fog inside after exposure on the Van,2020-06-26 05:15:00.847077,,,2020-06-26 05:15:02.004677,Reliability;RK2;optics;Sensorhead;Mech
+QA00651,Core tube & Lower substructure can not fix,2020-06-26 05:15:02.480011,2019-06-19 01:12:05.000000,,2020-06-26 05:15:03.224455,process;RK1;Sensorhead
+QA00652,the engine is not communicable,2020-06-26 05:15:03.628277,2019-06-20 03:16:33.000000,,2020-06-26 05:15:04.307441,RK1;MZ Tuning;Engine
+QA00653,LiDAR 1840 failed eye safety test,2020-06-26 05:15:04.669998,2019-06-20 21:51:18.000000,,2020-06-26 05:15:06.637445,RK2
+QA00654,2 Way- il Failed at F2A,2020-06-26 05:15:07.123054,,,2020-06-26 05:15:08.475007,Sensorhead;Insertion Loss;optics;RK1
+QA00655,Cable gland coming loose,2020-06-26 05:15:08.860138,,,2020-06-26 05:15:10.552239,Sealing;Sensorhead;RK1
+QA00656,2 Way- il Failed at F2A,2020-06-26 05:15:11.017670,,,2020-06-26 05:15:12.388368,Sensorhead;RK1;optics;Insertion Loss
+QA00658,Failed EDFA test,2020-06-26 05:15:13.705297,,,2020-06-26 05:15:14.483109,RK1
+QA00659,Failed Prism test,2020-06-26 05:15:14.791793,,,2020-06-26 05:15:15.577260,RK1
+QA00660,Laser didn't fit on Engine Top Seat,2020-06-26 05:15:15.926349,2019-06-25 00:10:37.000000,,2020-06-26 05:15:17.524119,RK1
+QA00661,Degradation in performance of sensorhead after van,2020-06-26 05:15:17.912324,,,2020-06-26 05:15:19.350450,Sealing;RK1;Contamination;Reliability
+QA00662,Lens clamp screw holes under size,2020-06-26 05:15:19.681052,2019-06-24 14:00:00.000000,,2020-06-26 05:15:20.229947,RK1
+QA00663,Replaced EDFA # 1001508-004-0000000018,2020-06-26 05:15:20.561159,2019-06-25 05:08:38.000000,,2020-06-26 05:15:21.215131,RK1
+QA00664,Code Load Fail E#222,2020-06-26 05:15:21.594982,2019-06-25 05:13:06.000000,,2020-06-26 05:15:23.055218,RK1
+QA00665,O-ring material temperature does not meet our temperature specifications,2020-06-26 05:15:23.380153,,2021-09-13 09:23:23.000000,2021-09-13 09:23:23.448882,RK2
+QA00666,SMD Component is broken on PCBA #222.,2020-06-26 05:15:24.672649,2019-06-25 22:16:31.000000,,2020-06-26 05:15:25.503330,RK1
+QA00667,Laser #174 has low power,2020-06-26 05:15:25.856626,2019-06-25 22:28:11.000000,,2020-06-26 05:15:26.762616,RK1
+QA00668,EDFA has died during operation,2020-06-26 05:15:27.186157,,,2020-06-26 05:15:27.968159,RK2
+QA00670,Corroded screws in sensorhead,2020-06-26 05:15:29.685868,,,2020-06-26 05:15:30.515120,RK2
+QA00671,Grating phases are not aligned in pointcloud.,2020-06-26 05:15:30.921294,,2021-09-13 09:24:49.000000,2021-09-13 09:24:49.019826,Optics;Pointcloud;Tolerance;RK2
+QA00672,Fortuna PCBAs in stock have incomplete rework,2020-06-26 05:17:12.423652,,,2020-06-26 05:17:13.215800,RK2
+QA00673,Noisy sensorhead after delivery,2020-06-26 05:17:13.602735,2019-07-01 23:20:00.000000,,2020-06-26 05:17:14.260531,RK2
+QA00674,If Code Load Fails first attempt there is no way to create a Passed report.,2020-06-26 05:17:14.597267,,,2020-06-26 05:17:15.391945,RK1
+QA00675,Codo Load Fail E#1003895-000-0000000203,2020-06-26 05:17:15.848467,2019-07-02 22:06:03.000000,,2020-06-26 05:17:16.875035,RK2
+QA00676,2-Way Insertion Loss out of tolerance,2020-06-26 05:17:17.205123,,,2020-06-26 05:17:17.865084,RK1
+QA00677,High directivity from coaxial assembly,2020-06-26 05:17:18.299333,,,2020-06-26 05:17:19.188208,optics;RK2
+QA00678,No Inspection for PBS QCP's,2020-06-26 05:17:19.551504,,2021-09-13 09:27:17.000000,2021-09-13 09:27:17.494138,RK2
+QA00679,Failed encoder gap with new fw,2020-06-26 05:17:20.845890,,,2020-06-26 05:17:22.277177,RK1
+QA00680,2 Failed Playtable on E# 1003895-000-0000000203,2020-06-26 05:17:27.716764,2019-07-03 22:07:27.000000,,2020-06-26 05:17:28.380030,RK1
+QA00681,Failed Prism test,2020-06-26 05:17:28.717859,,,2020-06-26 05:17:29.386996,RK1
+QA00682,E#1003895-000-0000000204 Failed ESM before EDFA,2020-06-26 05:17:29.724186,2019-07-04 02:13:10.000000,,2020-06-26 05:17:30.528474,RK1
+QA00683,Black Cars Difficult to See (Expo and Apple),2020-06-26 05:17:30.935239,2019-07-04 02:24:11.000000,,2020-06-26 05:17:31.962594,Low Reflectivity;RK2;Pointcloud;Calibration
+QA00684,"SMT Component ""Q1"" not soldered properly on PCBA#205",2020-06-26 05:17:32.407666,2019-07-04 22:22:34.000000,,2020-06-26 05:17:33.239672,RK1
+QA00685,E#1003895-000-0000000205 Failed ESM before EDFA,2020-06-26 05:17:33.587050,2019-07-07 22:42:15.000000,,2020-06-26 05:17:34.266858,RK1
+QA00686,Engine drop in performance over time,2020-06-26 05:17:34.695114,,,2020-06-26 05:17:35.687408,Output Power;RK2;EDFA;Engine;Reliability
+QA00687,Spinning Grating crack,2020-06-26 05:17:36.049722,2019-07-08 03:38:46.000000,,2020-06-26 05:17:36.930614,RK1
+QA00688,Windows fail transmission at incoming inspection,2020-06-26 05:17:37.382202,,,2020-06-26 05:17:37.952498,RK1;optics
+QA00689,Damaged threads,2020-06-26 05:17:38.315204,,,2020-06-26 05:17:40.058055,RK2
+QA00690,Damaged threads,2020-06-26 05:17:40.453078,,,2020-06-26 05:17:41.233981,RK1
+QA00691,Lower Substructure and Coaxial Tube are stuck,2020-06-26 05:17:41.595384,,,2020-06-26 05:17:42.373584,RK1
+QA00692,Noisy Channel 1 at EFT,2020-06-26 05:17:42.707878,,,2020-06-26 05:17:43.258144,RK2
+QA00693,re-used window too many scratches (0000000148),2020-06-26 05:17:43.590482,,,2020-06-26 05:17:44.256945,RK1
+QA00694,O'Ring thickness is different,2020-06-26 05:17:44.613822,2019-07-10 00:51:43.000000,,2020-06-26 05:17:45.989291,Incoming Material;RK1
+QA00695,SH-164 failed 2 way IL.,2020-06-26 05:17:46.372257,,,2020-06-26 05:17:47.809917,RK1
+QA00696,Spinning Grating Broken during assembly.,2020-06-26 05:17:48.240777,2019-07-10 02:25:57.000000,,2020-06-26 05:17:50.562320,Manufacturing Process;Tolerance;Operator;RK1
+QA00697,APD Failure- Lost Ch1 noisy no signal (RX fault),2020-06-26 05:17:50.965716,,,2020-06-26 05:17:52.290006,RK3
+QA00698,Failed Playtables during Laser Cal,2020-06-26 05:17:52.620081,,,2020-06-26 05:17:53.507554,RK1
+QA00699,laser test point failed,2020-06-26 05:17:53.881849,,,2020-06-26 05:17:55.203066,RK1
+QA00700,link budget failed,2020-06-26 05:17:55.531411,,,2020-06-26 05:17:56.073298,RK1
+QA00701,Over cut,2020-06-26 05:17:56.407787,,,2020-06-26 05:17:57.415193,RK1
+QA00702,F2A 2way IL failed at SH195,2020-06-26 05:17:57.859746,,,2020-06-26 05:17:59.174925,RK1
+QA00703,Static grating coating issue,2020-06-26 05:17:59.578093,2019-07-11 23:34:56.000000,,2020-07-05 23:42:56.829350,RK2
+QA00704,Open circuit on  laser from E#208,2020-06-26 05:18:01.904481,2019-07-12 03:43:00.000000,,2020-06-26 05:18:02.573819,RK1
+QA00706,EDFA Ch2 failure,2020-06-26 05:18:04.048669,2019-07-16 01:12:13.000000,,2020-06-26 05:18:04.720851,Yield Failure;RK1
+QA00707,Wrong Calculation of Probability of Detection,2020-06-26 05:18:06.042377,,,2020-06-26 05:18:06.918516,RK3
+QA00708,Hollow Motor - Glued Bearing into Stator,2020-06-26 05:18:07.245558,,2021-09-13 09:28:36.000000,2021-09-13 09:28:36.021936,RK1
+QA00709,Incomplete LiFT process,2020-06-26 05:18:08.244788,,,2020-06-26 05:18:08.898646,RK1
+QA00710,Incomplete LiFT process,2020-06-26 05:18:09.230483,,,2020-06-26 05:18:09.904212,RK1
+QA00711,Incomplete LiFT process,2020-06-26 05:18:10.301436,,,2020-06-26 05:18:11.069124,Manufacturing Process;RK1
+QA00712,Sealing test failed for Goku5 SN3,2020-06-26 05:18:11.426372,,,2020-06-26 05:18:12.216098,RK2
+QA00713,SH 199 failed 2D directivity test,2020-06-26 05:18:12.521740,2019-07-19 02:16:04.000000,,2020-06-26 05:18:13.514562,RK1
+QA00714,Spinning grating found burn mark,2020-06-26 05:18:13.918407,2019-07-19 03:26:01.000000,,2020-06-26 05:18:15.042220,RK2
+QA00716,SH175 Seal Test Fail,2020-06-26 05:18:16.453152,,,2020-06-26 05:18:17.333630,Sealing;RK2
+QA00717,Failed 2D-Directivity after US Demo return.,2020-06-26 05:18:17.712843,,,2020-06-26 05:18:18.591104,RK1;Yield Failure;Manufacturing Process
+QA00718,Rx Channel 1 Failure,2020-06-26 05:18:19.015440,,,2020-06-26 05:18:19.995763,APD;Engine;RX
+QA00719,Thickness (Dimension 2) is under tolerance,2020-06-26 05:18:20.372539,,,2020-06-26 05:18:21.367141,RK1
+QA00720,Chipped edge on Prism,2020-06-26 05:18:21.666235,,,2020-06-26 05:18:22.320026,RK1
+QA00720,Chipped edge on Prism,2020-06-26 05:18:22.625960,,,2020-06-26 05:18:23.283511,RK1
+QA00721,Failed Prism test- transmission efficiency is under 95% threshold,2020-06-26 05:18:23.595657,,2021-09-13 09:30:03.000000,2021-09-13 09:30:03.268701,RK1
+QA00722,Goku5 #03 2D Directivity failed,2020-06-26 05:18:24.806762,,,2020-06-26 05:18:25.573884,RK1
+QA00723,,2020-06-26 05:18:25.884211,,,2020-06-26 05:18:26.883312,RK1
+QA00724,,2020-06-26 05:18:27.274410,,,2020-06-26 05:18:28.048291,RK1
+QA00725,Fibre array - PBS: Black fibre jacket comes off,2020-06-26 05:18:28.380219,,,2020-06-26 05:18:29.039184,RK1
+QA00726,colde load rig failed to find the FW2453,2020-06-26 05:18:29.422852,2019-07-27 04:55:07.000000,,2020-06-26 05:18:30.086150,RK1
+QA00727,SH 200 Failed FTA,2020-06-26 05:18:30.396512,2019-07-27 05:01:33.000000,,2020-06-26 05:18:31.052006,RK1
+QA00728,Transmission efficiency under 92%,2020-06-26 05:18:31.394063,,,2020-06-26 05:18:32.388850,Incoming Material;RK1
+QA00729,E#1003895-000-0000000210 Fail EFT & Motor 2 Comms,2020-06-26 05:18:32.800014,2019-07-29 23:30:49.000000,,2020-06-26 05:18:34.109179,RK1
+QA00730,Lense Directivity Rig noisefloor hardware limitation,2020-06-26 05:18:34.407046,2019-07-30 01:07:44.000000,,2020-06-26 05:18:35.175378,Directivity;optics
+QA00731,False fails in Odoo due to testing units more than once,2020-06-26 05:18:35.412714,,,2020-06-26 05:18:36.292185,Odoo;RK1
+QA00732,4 parts failed Window test - efficiency is under limit,2020-06-26 05:18:36.628529,,,2020-06-26 05:18:37.400420,Incoming Material;RK1
+QA00733,Failed Prism test - under 95% threshold,2020-06-26 05:18:37.748981,,2021-09-13 09:31:26.000000,2021-09-13 09:31:26.673657,RK1
+QA00734,E#222 Fail playtable  playtable-Compressed_1000Pts_Linear_rev @ Laser Cal Rig.,2020-06-26 05:19:47.326608,2019-07-30 04:48:45.000000,,2020-06-26 05:19:47.984104,RK1
+QA00735,"28 parts failed Prism test, under threshold.",2020-06-26 05:19:48.315350,,,2020-06-26 05:19:48.965961,Incoming Material;RK1
+QA00736,High amplitude ADC following Retro signal,2020-06-26 05:19:49.206661,,,2020-06-26 05:19:49.967423,RK2
+QA00737,Unable to fit the Prism,2020-06-26 05:19:50.278747,,,2020-06-26 05:19:51.019747,RK1
+QA00738,1001338-001-0000000276,2020-06-26 05:19:51.357596,,,2020-06-26 05:19:52.015090,RK1
+QA00739,SH160 failed 2D directivity and F2A,2020-06-26 05:19:52.360694,,,2020-06-26 05:19:53.338621,RK2
+QA00741,Insertion Loss is under limit,2020-06-26 05:19:54.974152,,,2020-06-26 05:19:55.628808,RK1
+QA00742,1003813-000-0000000005,2020-06-26 05:19:56.055322,,,2020-06-26 05:19:56.714616,RK1
+QA00743,Failed Directivity test,2020-06-26 05:19:57.015156,,,2020-06-26 05:19:57.671773,RK1
+QA00744,E#222 Failed EFT.,2020-06-26 05:19:58.049592,2019-08-01 22:32:20.000000,2021-09-13 09:32:42.000000,2021-09-13 09:32:42.016226,RK2
+QA00745,GOKU 5 SH7 failed 2 way optimization,2020-06-26 05:19:59.246171,2019-08-01 23:28:50.000000,,2020-06-26 05:19:59.889932,RK1
+QA00746,Points Removed Under Horns,2020-06-26 05:20:00.295160,,2022-05-10 05:14:08.000000,2022-05-10 05:14:08.582137,CMR;Horns;Pointcloud;RK2
+QA00747,2 Way Insertion Loss failed - higher than limit,2020-06-26 05:20:01.912302,,2021-09-13 09:38:46.000000,2021-09-13 09:38:46.363151,RK1
+QA00748,Large variation in beam size,2020-06-26 05:20:03.113691,,2021-10-19 04:32:09.000000,2021-10-19 04:32:09.818085,optics;RK2
+QA00749,The projection angle is cut incorrectly,2020-06-26 05:20:03.902782,,,2020-06-26 05:20:04.676911,RK1
+QA00750,1003813-000-0000000005,2020-06-26 05:20:05.018319,,,2020-06-26 05:20:05.682330,RK1
+QA00751,Threshold value set to 0 on both channels,2020-06-26 05:20:06.014064,,,2020-06-26 05:20:06.799929,RK2
+QA00752,E#224 Failed Engine Final Test,2020-06-26 05:20:07.178871,2019-08-07 01:35:26.000000,,2020-06-26 05:20:07.947213,RK1
+QA00753,1003813-000-0000000006,2020-06-26 05:20:08.283020,,,2020-06-26 05:20:08.935414,RK1
+QA00754,Code Load Fail on E#225,2020-06-26 05:20:09.278074,2019-08-08 04:26:14.000000,,2020-06-26 05:20:09.936111,RK2
+QA00755,EMC Cable was replaced on E#224,2020-06-26 05:20:10.298836,2019-08-09 01:27:28.000000,,2020-06-26 05:20:10.889709,RK1
+QA00756,Audibly Noisy Sensorhead,2020-06-26 05:20:11.368765,,,2020-06-26 05:20:12.030239,Audible Noise;Hollow Motor;Sensorhead;RK2
+QA00757,Scratches on Window,2020-06-26 05:20:12.356171,,,2020-06-26 05:20:12.896564,RK1;Incoming Material
+QA00758,Contaminated particles from pre applied loctite screws,2020-06-26 05:20:13.236129,,,2020-06-26 05:20:14.047602,RK2
+QA00759,Directivity Rig Noise floor - too close to directivity spec,2020-06-26 05:20:14.271889,,,2020-06-26 05:20:16.799966,RK2
+QA00760,Defect on Housing Seal,2020-06-26 05:20:17.122780,,,2020-06-26 05:20:17.778234,RK1
+QA00762,1001577-009-0000000095,2020-06-26 05:20:18.151088,,,2020-06-26 05:20:18.796129,RK1
+QA00763,Intensity dependent distance variation,2020-06-26 05:20:19.096407,,,2020-06-26 05:20:21.087433,RK2
+QA00764,Exceptional performance for E210- SH153,2020-06-26 05:20:21.405744,,,2020-06-26 05:20:22.064481,RK2
+QA00765,E#227 Failed APD Calibration due to APD1 sensitivity power is 0,2020-06-26 05:20:22.464308,2019-08-15 01:52:34.000000,,2020-06-26 05:20:23.118343,RK1
+QA00769,Large variation in PD in 3pc Target Test,2020-06-26 05:20:26.292154,,,2020-06-26 05:20:27.558212,LiFT
+QA00770,High Dr,2020-06-26 05:20:27.890919,2019-08-15 14:00:00.000000,,2020-06-26 05:20:28.545753,RK1
+QA00771,2 way IL failed,2020-06-26 05:20:28.870960,2019-08-16 00:21:27.000000,,2020-06-26 05:20:29.529425,RK1
+QA00772,EMC Cable was replaced on E#226,2020-06-26 05:20:29.861094,2019-08-16 01:32:57.000000,,2020-06-26 05:20:30.631414,RK1
+QA00773,EFT fail due to link budget & low EDFA power on E#227 EDFA was replaced,2020-06-26 05:20:30.958629,2019-08-16 03:12:12.000000,2021-09-13 09:43:05.000000,2021-09-13 09:43:05.108845,RK1
+QA00774,Transmission efficiency is under limit,2020-06-26 05:20:32.117912,,,2020-06-26 05:20:32.775683,RK1
+QA00775,Failed Gohan 0000000566,2020-06-26 05:20:33.138386,2019-08-16 05:08:41.000000,,2020-06-26 05:20:33.787517,RK1
+QA00776,1001389-006-0000000168,2020-06-26 05:20:34.157926,,,2020-06-26 05:20:34.802491,RK1
+QA00777,8 playtables failed on E#1003895-000-0000000229,2020-06-26 05:20:35.130414,2019-08-20 04:00:55.000000,,2020-06-26 05:20:35.783594,RK1
+QA00778,Burn fibre on channel 1 (China demo return unit),2020-06-26 05:20:36.142952,,,2020-06-26 05:20:36.974563,RK1
+QA00779,"Hollow Motor #365 has han board issue, it is spinning to fast.",2020-06-26 05:20:37.333720,2019-08-21 00:11:39.000000,2021-09-13 09:44:32.000000,2021-09-13 09:44:32.005912,RK2
+QA00780,1 playtable failed on E#230,2020-06-26 05:20:38.200087,2019-08-21 05:07:33.000000,,2020-06-26 05:20:38.841545,RK1
+QA00781,Failed EFT ch1,2020-06-26 05:20:39.166661,2019-08-21 21:42:15.000000,,2020-06-26 05:20:39.817758,RK1
+QA00782,Failed ESM before EDFA,2020-06-26 05:20:40.169684,2019-08-21 22:36:33.000000,,2020-06-26 05:20:40.824135,RK1
+QA00783,2D Directivity failed,2020-06-26 05:20:41.198018,,,2020-06-26 05:20:41.852735,Reliability
+QA00784,Parts were bought for the demo (curved window),2020-06-26 05:20:42.152075,,,2020-06-26 05:20:42.801891,RK1
+QA00785,Pink stain on Housing,2020-06-26 05:20:43.150345,,2021-09-13 09:45:21.000000,2021-09-13 09:45:21.434718,RK1
+QA00786,Core tube cannot pair/match with the lower substructure,2020-06-26 05:20:44.303985,,,2020-06-26 05:20:44.976589,RK1
+QA00787,using unreleased firmware,2020-06-26 05:20:45.345998,,,2020-06-26 05:20:45.990653,RK1
+QA00789,Transceiver Directivity failed,2020-06-26 05:20:47.223428,2019-08-28 05:25:39.000000,,2020-06-26 05:20:47.878453,RK1
+QA00790,APD failure,2020-06-26 05:20:48.258820,2019-08-29 02:10:06.000000,,2020-06-26 05:20:49.017255,RK2
+QA00791,SH203 Grating-1 found defective mark during FTA failure rework,2020-06-26 05:20:49.345577,2019-08-29 05:11:17.000000,,2020-06-26 05:20:49.990267,RK1
+QA00792,Spinning grating cosmetic defect,2020-06-26 05:20:50.367146,,,2020-06-26 05:20:51.237652,RK2
+QA00793,Loose fiber array after curing,2020-06-26 05:20:51.472063,,2021-09-13 09:46:53.000000,2021-09-13 09:46:53.759741,RK2
+QA00794,2D Directivity failed.,2020-06-26 05:20:52.576475,,,2020-06-26 05:20:53.447373,RK1
+QA00795,Fibre Array broken,2020-06-26 05:20:53.703407,,,2020-06-26 05:20:54.375057,RK1;Manufacturing Process
+QA00796,Intensity dependent distance variation,2020-06-26 05:20:54.584435,,,2020-06-26 05:20:55.253546,RK2
+QA00797,Oil on Substructure from Reliability testing,2020-06-26 05:20:55.630822,,2021-10-27 21:48:07.000000,2021-10-27 21:48:07.327771,Oil from bearing;RK2
+QA00798,Link Budget Failure,2020-06-26 05:20:57.305000,2019-09-04 04:32:29.000000,2021-09-13 09:50:06.000000,2021-09-13 09:50:06.154793,RK1
+QA00799,stators all failed in QCP 04690,2020-06-26 05:20:58.311017,,,2020-06-26 05:20:59.073554,RK1;Incoming Material
+QA00800,flatness beyond 0.1 mm,2020-06-26 05:20:59.396992,,,2020-06-26 05:21:00.073814,RK1
+QA00801,EDFA failed on EFDA test rig,2020-06-26 05:21:00.439512,2019-09-06 00:09:10.000000,,2020-06-26 05:21:00.995330,RK1
+QA00803,housing seal diameter beyond spec,2020-06-26 05:21:02.253918,2019-09-06 00:16:26.000000,2021-09-13 09:51:23.000000,2021-09-13 09:51:23.804833,RK1
+QA00804,Spinning Grating crack on edge,2020-06-26 05:21:08.225423,,,2020-06-26 05:21:09.243951,RK1
+QA00805,Engine #1003895-000-0000000201 failed EFT,2020-06-26 05:21:09.602452,2019-09-09 03:52:59.000000,2021-09-13 09:52:35.000000,2021-09-13 09:52:35.837281,RK1
+QA00806,hollow motor spins faster after 1 hr,2020-06-26 05:21:10.865576,,2021-10-20 05:01:21.000000,2021-10-20 05:01:21.929094,RK1
+QA00807,Hole in close up targets,2020-06-26 05:21:12.001155,,,2020-06-26 05:21:12.975197,CMR;Pointcloud;RK2
+QA00808,Coaxial Optimisation failed,2020-06-26 05:21:13.368725,,,2020-06-26 05:21:14.687348,RK1
+QA00809,spinning grating-1001336-002-0000000327,2020-06-26 05:21:14.941233,,,2020-06-26 05:21:15.481954,RK1
+QA00810,4 bearing stained after ultrasonic cleaning,2020-06-26 05:21:15.812581,,,2020-06-26 05:21:16.361827,RK1
+QA00811,On E#1002895-000-0000000191 APD Calibration and Laser Spectrum after EDFA  report are passed but odoo is showing these tests as failed.,2020-06-26 05:21:16.711269,2019-09-11 22:01:09.000000,2021-09-13 09:54:38.000000,2021-09-13 09:54:37.971901,RK1
+QA00812,Coaxial Optimisation failed,2020-06-26 05:21:17.597691,,,2020-06-26 05:21:18.367346,RK1;Yield Failure
+QA00813,Failed APD Calibration,2020-06-26 05:21:18.721093,2019-09-16 22:07:21.000000,2021-09-13 09:55:31.000000,2021-09-13 09:55:31.740829,RK2
+QA00815,replaced with carbon fiber,2020-06-26 05:21:20.728587,,,2020-06-26 05:21:21.410551,RK1
+QA00816,EDFA failed on EFDA test rig,2020-06-26 05:21:21.711981,,,2020-06-26 05:21:22.264867,RK1
+QA00817,EDFA Failed on EDFA Test Rig,2020-06-26 05:21:22.566709,,,2020-06-26 05:21:23.102380,RK1
+QA00818,Spinning Grating Chipped,2020-06-26 05:21:23.380091,,,2020-06-26 05:21:24.129615,RK2
+QA00820,Gohan codeload rig used wrong PN,2020-06-26 05:21:25.384518,,2021-10-21 02:38:55.000000,2021-10-21 02:38:54.987210,RK2
+QA00821,failed at QCP04208,2020-06-26 05:21:26.658267,2019-09-18 05:11:28.000000,,2020-06-26 05:21:27.542960,Incoming Material;RK1
+QA00822,Deformation after anodized,2020-06-26 05:21:28.066423,2019-09-18 22:42:38.000000,2021-09-13 09:58:36.000000,2021-09-13 09:58:36.356166,RK1
+QA00824,Reworked 005 lower substructures failing rev 009 QCPs,2020-06-26 05:21:32.353867,,,2020-06-26 05:21:33.123285,RK1
+QA00825,the transmission efficiency of the grating lower than 92.0%,2020-06-26 05:21:33.895894,2019-09-20 00:53:02.000000,,2020-06-26 05:21:36.488838,RK1
+QA00826,EDFA Die after run MZ Tuning,2020-06-26 05:21:36.939702,2019-09-20 04:20:22.000000,2021-10-20 05:04:53.000000,2021-10-20 05:04:53.817880,RK2
+QA00827,SH153 Failed Seal Test,2020-06-26 05:21:39.962207,2019-09-20 07:08:18.000000,,2020-06-26 05:21:40.857443,Sensorhead;Sealing
+QA00828,Noisy pointcloud when fibre jiggles on SH171,2020-06-26 05:21:41.206798,,,2020-06-26 05:21:42.080957,RK1
+QA00829,Scratch on surface,2020-06-26 05:21:42.419111,,,2020-06-26 05:21:43.064540,RK1
+QA00830,Coaxial Optimisation Failed,2020-06-26 05:21:43.463595,2019-09-21 10:56:51.000000,,2020-06-26 05:21:44.774256,optimisation;RK2
+QA00831,"F2A Failed and 2d dir ,yellow line on top",2020-06-26 05:21:45.013246,,,2020-06-26 05:21:45.797157,RK2
+QA00832,spinning grating defect,2020-06-26 05:21:46.172721,,,2020-06-26 05:21:46.820487,RK2
+QA00833,Heads of Shoulder Bolt Stripping during re-work,2020-06-26 05:21:47.280161,,,2020-06-26 05:21:47.833094,Fasteners;Materials
+QA00834,APD has failed on Channel 1,2020-06-26 05:22:21.547528,,,2020-06-26 05:22:22.322721,RK2
+QA00835,Goku 5 Hollowmotor stopped working,2020-06-26 05:22:22.660499,,2021-10-19 04:29:44.000000,2021-10-19 04:29:44.627085,CDR;RK1
+QA00836,coaxial optimisation,2020-06-26 05:22:23.658912,,,2020-06-26 05:22:24.680414,RK2
+QA00839,"ZYNQ over temp on E#124 @50deg, due to gap between top seat & FPGA",2020-06-26 05:22:26.617666,2019-09-24 03:53:00.000000,2022-05-10 04:10:23.000000,2022-05-10 04:10:23.341303,RK1
+QA00841,Unable to Run Eye Safety due to fibre break error,2020-06-26 05:22:29.508925,,,2020-06-26 05:22:31.232714,RK1
+QA00842,Directivity failed,2020-06-26 05:22:31.563811,,,2020-06-26 05:22:32.448718,RK2
+QA00843,transceiver optimisation,2020-06-26 05:22:32.780943,,,2020-06-26 05:22:33.441677,RK1
+QA00844,fail at QCP04219,2020-06-26 05:22:33.780158,2019-09-26 04:17:19.000000,,2020-06-26 05:22:34.434686,RK1
+QA00845,Van APD engine Failures,2020-06-26 05:22:34.810895,,,2020-06-26 05:22:36.362823,RK2
+QA00846,APD failure on the Van in the courtyard.,2020-06-26 05:22:36.739806,,,2020-06-26 05:22:37.513857,RK2
+QA00847,without supplier report,2020-06-26 05:22:37.874925,2019-09-29 23:11:08.000000,,2020-06-26 05:22:38.536086,Incoming Material;RK1
+QA00848,fail at QCP04181,2020-06-26 05:22:38.875147,,,2020-06-26 05:22:39.897150,RK1
+QA00849,Coaxial optimisation failed for the SH-213,2020-06-26 05:22:40.392439,,,2020-06-26 05:22:41.178801,optimisation;RK2
+QA00851,failed at QCP042329,2020-06-26 05:22:42.434531,,,2020-06-26 05:22:43.623074,RK1
+QA00854,Failed coaxial opitimisation Sh-214,2020-06-26 05:22:45.897103,,,2020-06-26 05:22:46.556436,RK2;optimisation
+QA00855,Directivity failed For SH-191,2020-06-26 05:22:46.967277,,,2020-06-26 05:22:47.734506,RK3
+QA00856,Coaxial Optimisation.for Sh-214,2020-06-26 05:22:48.134972,,,2020-06-26 05:22:48.897500,RK2;optimisation
+QA00857,Cable Conduit came loose,2020-06-26 05:22:49.238822,,2021-10-20 05:13:53.000000,2021-10-20 05:13:53.167365,RK2;CDR
+QA00861,one part failed QCP 04208,2020-06-26 05:22:52.775566,2019-10-02 05:15:04.000000,,2020-06-26 05:22:53.470273,RK1
+QA00862,Reduced optical performance during vibration,2020-06-26 05:22:53.799167,,2021-10-20 05:15:51.000000,2021-10-20 05:15:51.024486,RK2;CDR
+QA00863,Reduced optical performance in humid conditions,2020-06-26 05:22:54.698188,,2021-10-20 05:16:50.000000,2021-10-20 05:16:50.425100,RK2;CDR
+QA00864,Reduced optical performance during shock testing,2020-06-26 05:22:55.471159,,2021-10-20 05:17:59.000000,2021-10-20 05:17:59.837019,CDR;RK2
+QA00865,MZ Absurd Raw Data,2020-06-26 05:22:56.257404,,2021-10-24 23:43:15.000000,2021-10-24 23:43:15.269670,RK2
+QA00866,Lateral Ranging Issue,2020-06-26 05:23:00.073474,,,2020-06-26 05:23:02.560107,RK3
+QA00867,diameter & thickness out of spec,2020-06-26 05:23:02.925549,2019-10-08 03:01:25.000000,,2020-06-26 05:23:04.291839,RK1;Incoming Material
+QA00868,,2020-06-26 05:23:04.684678,,,2020-06-26 05:23:05.232335,RK1;Incoming Material
+QA00869,2. Internal Height Measurement,2020-06-26 05:23:05.546072,,,2020-06-26 05:23:06.415069,RK1
+QA00870,Failed APD Calibration.,2020-06-26 05:23:06.768146,2019-10-08 20:56:22.000000,2021-10-20 05:31:57.000000,2021-10-20 05:31:57.597793,Engine;RK2
+QA00871,,2020-06-26 05:23:07.709636,,,2020-06-26 05:23:08.256495,RK1;Incoming Material
+QA00872,,2020-06-26 05:23:08.639751,,,2020-06-26 05:23:09.184166,RK1;Incoming Material
+QA00873,,2020-06-26 05:23:09.568112,,,2020-06-26 05:23:10.323721,RK1;Incoming Material
+QA00874,,2020-06-26 05:23:10.707308,,,2020-06-26 05:23:11.373630,RK1;Incoming Material
+QA00875,APD failure on the van in front of the reception,2020-06-26 05:23:11.771103,,,2020-06-26 05:23:12.438641,RK2
+QA00876,high fail rate on QCP04690,2020-06-26 05:23:12.807336,,,2020-06-26 05:23:13.718694,RK1;Incoming Material
+QA00877,Failed Noise Test for HM 399,2020-06-26 05:23:14.048049,2019-10-11 04:33:40.000000,,2020-06-26 05:23:14.873898,RK1;Hollow Motor
+QA00878,Failed Noise Test for HM 396,2020-06-26 05:23:15.221984,2019-10-11 00:33:32.000000,,2020-06-26 05:23:15.880559,RK1;Hollow Motor
+QA00879,Change Grating angle limits on F2A,2020-06-26 05:23:16.185329,,,2020-06-26 05:23:16.850585,RK2
+QA00880,Spinning Speed and Failed Noise Test HM#404,2020-06-26 05:23:17.192212,2019-10-15 03:59:38.000000,,2020-06-26 05:23:17.970951,RK1;Hollow Motor
+QA00881,Failed due to fast Spinning Speed of the HM#403,2020-06-26 05:23:18.392738,2019-10-15 04:10:30.000000,,2020-06-26 05:23:19.065673,RK1;Hollow Motor
+QA00883,Failed Noise Test for HM#402,2020-06-26 05:23:20.536776,2019-10-15 23:57:13.000000,,2020-06-26 05:23:21.203587,RK1;Hollow Motor
+QA00884,Failed Noise Test for HM#403,2020-06-26 05:23:21.539809,2019-10-15 23:56:15.000000,,2020-06-26 05:23:22.210272,RK1;Hollow Motor
+QA00885,1 playtable Failed at Laser Cal,2020-06-26 05:23:22.546989,2019-10-16 00:55:49.000000,2021-11-02 00:39:47.000000,2021-11-02 00:39:47.679224,RK1
+QA00887,Fast Spinning Speed and Failed Noise Test for HM#405,2020-06-26 05:23:24.501277,2019-10-16 02:55:06.000000,,2020-06-26 05:23:25.157139,RK1;Hollow Motor
+QA00888,Spinning speed fast on HM#408,2020-06-26 05:23:25.583495,,,2020-06-26 05:23:26.247882,RK1
+QA00889,noise test failed because of spinning fast,2020-06-26 05:23:26.614062,,2021-10-20 05:47:27.000000,2021-10-20 05:47:27.392681,RK2
+QA00890,EFT failed due to low output power at 50 ° C.,2020-06-26 05:23:27.698534,2019-10-17 00:49:56.000000,,2020-06-26 05:23:28.480006,RK1
+QA00891,failed at QCP04016,2020-06-26 05:23:28.842213,,,2020-06-26 05:23:29.613459,RK1;Incoming Material
+QA00892,,2020-06-26 05:23:29.953190,,,2020-06-26 05:23:30.516027,RK1;Incoming Material
+QA00893,,2020-06-26 05:23:30.923793,,2021-08-09 00:29:13.000000,2021-08-09 00:29:13.337851,RK1;Archive
+QA00895,Thread damaged,2020-06-26 05:23:32.947889,2019-10-27 21:44:54.000000,2021-10-20 05:48:51.000000,2021-10-20 05:48:51.100408,RK1
+QA00896,eye safety failed,2020-06-26 05:23:33.727522,2019-10-28 21:15:01.000000,,2020-06-26 05:23:34.531991,RK2
+QA00898,failed at QCP04692,2020-06-26 05:23:36.579584,2019-10-29 03:10:00.000000,2021-10-20 05:49:42.000000,2021-10-20 05:49:42.939322,RK1
+QA00899,Fiber Array(Rx) broken .,2020-06-26 05:23:37.393241,2019-10-30 00:14:19.000000,,2020-06-26 05:23:38.064186,Manufacturing Process;RK1
+QA00901,E#171 Can't start laser cal.,2020-06-26 05:23:39.394698,2019-10-31 02:19:25.000000,2021-10-20 05:50:48.000000,2021-10-20 05:50:48.646620,RK1
+QA00903,APD failure on SF Demo Unit,2020-06-26 05:23:41.314550,,,2020-06-26 05:23:41.994305,RK2
+QA00904,Faulty Torque Screw Driver,2020-06-26 05:23:42.245522,2019-11-04 03:54:29.000000,2021-10-20 05:52:32.000000,2021-10-20 05:52:32.273389,RK1
+QA00905,Torque Screwdriver implemented into production with no calibration,2020-06-26 05:23:42.942881,2019-11-04 04:19:26.000000,2021-10-28 06:27:22.000000,2021-10-28 06:27:22.045242,RK1
+QA00906,E#171 Failed EFT due to low output power @ 50deg. on ch2.,2020-06-26 05:23:43.785751,2019-11-04 21:56:10.000000,,2020-06-26 05:23:44.471613,RK1
+QA00907,Failed EFT due to low output power @ 50deg.,2020-06-26 05:23:44.859001,2019-11-06 00:43:55.000000,,2020-06-26 05:23:45.559681,RK1
+QA00908,Failed ESM,2020-06-26 05:23:45.899690,2019-11-06 00:49:37.000000,,2020-06-26 05:23:46.574286,RK1
+QA00909,Core tube 211 damage,2020-06-26 05:23:46.933561,2019-11-06 01:24:47.000000,,2020-06-26 05:23:47.704598,RK1
+QA00910,Prism2 Bracket Screw hole not tapped,2020-06-26 05:23:48.039846,2019-11-06 20:50:39.000000,,2020-06-26 05:23:48.695019,RK1
+QA00911,ESM can't be started due to pps issue.,2020-06-26 05:23:49.075920,2019-11-07 03:24:34.000000,,2020-06-26 05:23:49.959290,RK1
+QA00913,EMC Cable PPS resistance is 2.5 ohms,2020-06-26 05:23:51.359146,2019-11-08 03:40:42.000000,,2020-06-26 05:23:52.176195,RK1
+QA00914,screw thread damage during APD cover assy,2020-06-26 05:23:52.509804,,2021-10-19 04:35:42.000000,2021-10-19 04:35:42.199152,RK1
+QA00915,Crack Spinning grating,2020-06-26 05:23:53.597625,,,2020-06-26 05:23:54.480271,RK2
+QA00916,G6 APD failure on the US demo van,2020-06-26 05:23:54.856243,,,2020-06-26 05:23:55.524242,RK2
+QA00917,US Demo: Cracked Sensorhead Window,2020-06-26 05:23:55.901957,,,2020-06-26 05:23:56.571679,Process;RK2;Sensorhead;Tolerance
+QA00918,,2020-06-26 05:23:56.889438,,,2020-06-26 05:23:57.751612,RK2
+QA00919,T shim too big & crystal  can not fit,2020-06-26 05:23:58.083117,2019-11-22 02:53:02.000000,2021-10-20 22:25:50.000000,2021-10-20 22:25:49.946843,RK1
+QA00920,T shim too big & crystal can not fix,2020-06-26 05:23:58.848050,2019-11-22 02:57:34.000000,2021-10-20 22:31:33.000000,2021-10-20 22:31:33.138632,RK1
+QA00921,E#223 Failed EFT due to low output power @50*C  on ch2,2020-06-26 05:23:59.659450,2019-11-24 22:41:55.000000,,2020-06-26 05:24:00.363069,RK1
+QA00922,chipped spinning grating edges,2020-06-26 05:24:00.744353,,,2020-06-26 05:24:01.416532,RK2
+QA00923,Failed Motor Test for HM431,2020-06-26 05:24:01.843573,2019-11-26 03:24:18.000000,,2020-06-26 05:24:02.537231,RK1
+QA00924,E168 failed EFT,2020-06-26 05:24:02.847717,,,2020-06-26 05:24:03.521163,RK1
+QA00925,,2020-06-26 05:24:03.831118,,2021-10-20 22:33:33.000000,2021-10-20 22:33:33.564433,RK1
+QA00926,contamination found on grating side,2020-06-26 05:24:04.800203,,,2020-06-26 05:24:05.455680,RK1
+QA00927,QCP04215 failed,2020-06-26 05:24:05.789453,2019-11-26 20:45:56.000000,2021-09-13 10:02:12.000000,2021-09-13 10:02:12.801250,RK1
+QA00928,no supplier report on QCP00988,2020-06-26 05:24:06.586099,2019-11-26 21:17:41.000000,2021-10-20 22:36:09.000000,2021-10-20 22:36:09.485938,RK1
+QA00929,Eye safety failed on CH2,2020-06-26 05:24:07.378503,,,2020-06-26 05:24:08.045200,RK1
+QA00930,Cable from the EDFA connector is broken,2020-06-26 05:24:08.463858,2019-11-27 21:54:03.000000,2021-09-13 10:03:12.000000,2021-09-13 10:03:12.603414,RK1
+QA00931,G5 label Barcode and number appeared are not matching,2020-06-26 05:24:09.633993,,2021-10-20 22:37:10.000000,2021-10-20 22:37:10.362255,RK1
+QA00932,Burnt fibre on CH2 on Lidar system SN1890,2020-06-26 05:24:10.419213,,,2020-06-26 05:24:11.079096,RK2
+QA00933,Broken connector,2020-06-26 05:25:17.515786,,2021-10-19 06:49:07.000000,2021-10-19 06:49:07.936093,RK1
+QA00934,chipped spinning grating edges,2020-06-26 05:25:24.706136,,,2020-06-26 05:25:25.374596,RK2
+QA00935,,2020-06-26 05:25:25.705421,,,2020-06-26 05:25:26.443772,RK1
+QA00937,QCP04682 FAILED,2020-06-26 05:25:27.755300,2019-12-02 22:52:52.000000,,2020-06-26 05:25:28.421430,RK1
+QA00938,HM434 failed at motor test,2020-06-26 05:25:28.779569,2019-12-03 00:41:46.000000,2021-10-20 22:37:54.000000,2021-10-20 22:37:54.769828,RK1
+QA00939,can not fit in the jigs,2020-06-26 05:25:29.529423,2019-12-03 00:55:03.000000,2021-10-20 22:39:58.000000,2021-10-20 22:39:58.808869,RK1
+QA00940,Screws can't be tighten,2020-06-26 05:25:30.413008,2019-12-03 02:16:37.000000,2021-10-20 22:41:06.000000,2021-10-20 22:41:06.757949,RK1
+QA00941,"Gohan cable ,pinched during rework",2020-06-26 05:25:31.515286,,2021-10-20 22:42:54.000000,2021-10-20 22:42:53.970985,RK1
+QA00942,the grease  of bearing come out after burn in.,2020-06-26 05:25:32.361112,2019-12-03 20:46:24.000000,,2020-06-26 05:25:33.807071,RK2
+QA00943,39 playtables failed on laser cal.,2020-06-26 05:25:34.141689,2019-12-03 21:18:07.000000,,2020-06-26 05:25:34.920316,RK1
+QA00946,E#223 Failed APD Cal due to low sensitivity,2020-06-26 05:25:37.241163,2019-12-04 21:02:48.000000,2021-10-20 22:49:36.000000,2021-10-20 22:49:36.871960,RK1
+QA00947,Wrong markings on Faraday Rotator,2020-06-26 05:25:38.094202,,2021-09-13 10:04:49.000000,2021-09-13 10:04:49.376110,RK2
+QA00948,Blemish on the window for IKE delivery unit,2020-06-26 05:25:39.006165,,,2020-06-26 05:25:41.534866,RK2
+QA00949,Hollowmotor failed encoder gap test,2020-06-26 05:25:41.907407,,2021-10-20 23:08:19.000000,2021-10-20 23:08:19.302585,RK1
+QA00950,hm439 the grease of bearing come out,2020-06-26 05:25:42.825389,2019-12-06 00:03:47.000000,,2020-06-26 05:25:43.498687,RK2
+QA00951,spots visible on the Grating side,2020-06-26 05:25:43.883441,,2021-10-20 23:10:40.000000,2021-10-20 23:10:40.915892,RK1
+QA00952,spinning clamp tight,2020-06-26 05:25:44.690892,,,2020-06-26 05:25:45.276514,Incoming Material;RK1
+QA00953,E#307 REV32 Shows error 1101(EDFA input power too low),2020-06-26 05:25:45.608550,2019-12-06 02:18:58.000000,,2020-06-26 05:25:46.263394,RK1
+QA00954,Fibre array Broken observed prior to build,2020-06-26 05:25:46.590512,,,2020-06-26 05:25:47.262397,RK1
+QA00955,"Oversized, can't fit in the clamp.",2020-06-26 05:25:47.616909,2019-12-08 23:10:47.000000,,2020-06-26 05:25:48.272847,RK1
+QA00956,EMC cable missing heat shrink,2020-06-26 05:25:48.642026,2019-12-09 23:22:53.000000,2020-07-08 02:01:48.000000,2020-07-08 02:01:48.754649,RK1
+QA00957,Colour tag is missing in engine fibre cable,2020-06-26 05:25:49.653816,2019-12-10 01:06:31.000000,,2020-06-26 05:25:50.445560,RK1;Incoming Material
+QA00958,Seal Test Failed,2020-06-26 05:25:50.795131,,,2020-06-26 05:25:51.577543,RK1
+QA00959,Grating-2 contamination,2020-06-26 05:25:51.912203,,,2020-06-26 05:25:52.585823,RK2
+QA00963,Damage engine electrical cable,2020-06-26 05:25:55.984687,,,2020-06-26 05:25:56.860594,RK2
+QA00965,SH005 failed at f2a test,2020-06-26 05:25:58.475209,,,2020-06-26 05:25:59.131810,RK2
+QA00966,E111 and E98 failed Lidar calibration,2020-06-26 05:25:59.547493,,,2020-06-26 05:26:00.629367,RK1;Yield Failure
+QA00967,Cable come out when bending,2020-06-26 05:26:01.083054,2019-12-13 01:03:48.000000,,2020-06-26 05:26:01.829076,RK1
+QA00968,2 Way- il Failed at F2A,2020-06-26 05:26:02.206909,,,2020-06-26 05:26:02.883066,RK2
+QA00969,2 Way- il Failed at F2A,2020-06-26 05:26:03.285588,,,2020-06-26 05:26:03.963393,RK2
+QA00970,2 Way- il Failed at F2A,2020-06-26 05:26:04.317745,,,2020-06-26 05:26:04.983831,RK2
+QA00973,EFT didn't finish due to error 1102 (EDFA output power too low) @ 25deg,2020-06-26 05:26:07.472448,2019-12-18 04:28:41.000000,2021-10-20 23:13:07.000000,2021-10-20 23:13:07.545680,Yield Failure;RK1
+QA00975,Damage to rear housing after LiFT,2020-06-26 05:26:09.467265,2019-12-16 13:00:00.000000,,2020-06-26 05:26:10.365073,Damage
+QA00976,241 & 242 failed at QCP04669,2020-06-26 05:26:10.795848,2019-12-19 02:50:15.000000,,2020-06-26 05:26:11.539224,RK1;Incoming Material
+QA00977,Sn 36 failed at QCP05019,2020-06-26 05:26:11.916891,2019-12-19 03:08:05.000000,,2020-06-26 05:26:12.764954,RK1
+QA00978,Electrical cable connector come out,2020-06-26 05:26:13.197787,2019-12-19 21:37:48.000000,,2020-06-26 05:26:13.933495,RK1
+QA00979,Electrical cable connector come out,2020-06-26 05:26:14.367428,2019-12-19 21:49:04.000000,2021-10-20 23:15:22.000000,2021-10-20 23:15:22.420392,Yield Failure;RK1
+QA00981,Annodizing defect for front housing during GII,2020-06-26 05:26:17.082848,,,2020-06-26 05:26:17.638818,Incoming Material;RK1
+QA00981,Damage to the EDFA 153 housing,2020-06-26 05:29:25.002465,2020-01-31 05:50:02.000000,,2020-06-26 05:29:26.348389,Incoming Material;RK1;EDFA
+QA00982,Zero Calibration Failed,2020-06-26 05:26:18.027530,2019-12-23 03:22:23.000000,,2020-06-26 05:26:18.806901,RK2
+QA00984,APD Cal Fail in CH1 at 50 degree,2020-06-26 05:26:20.182839,2019-12-23 23:03:35.000000,,2020-06-26 05:26:20.844628,RK1;Yield Failure
+QA00985,3 Units failed QCP during GII,2020-06-26 05:26:21.184757,2019-12-24 00:43:49.000000,,2020-06-26 05:26:21.852660,RK1
+QA00986,Attenuation Failed in MZ Tuning,2020-06-26 05:26:22.218829,2019-12-26 20:48:11.000000,2021-10-20 23:23:19.000000,2021-10-20 23:23:19.762364,Yield Failure;RK1
+QA00987,EFT failed at 50 degree in CH1,2020-06-26 05:26:23.039038,2019-12-27 02:13:27.000000,,2020-06-26 05:26:23.705914,RK1
+QA00989,QCP05147 failed for 1 Goku5 rear housing unit,2020-06-26 05:26:25.055851,2019-12-30 01:37:05.000000,,2020-06-26 05:26:25.827840,RK1;Incoming Material
+QA00990,Failed encoder sensor during reliability testing.,2020-06-26 05:26:26.159825,,2021-10-21 02:13:38.000000,2021-10-21 02:13:38.869293,Reliability
+QA00991,8 units failed QCP05075,2020-06-26 05:26:26.968224,2019-12-30 05:14:39.000000,,2020-06-26 05:26:27.897680,RK1
+QA00992,Failed Range and FOV testing during LiFT,2020-06-26 05:26:28.274230,2019-12-29 13:00:00.000000,2021-10-21 02:14:31.000000,2021-10-21 02:14:31.080336,FOV;LiFT;Range
+QA00993,Loss in Two Way too high (over 3),2020-06-26 05:26:29.068302,2020-01-01 21:46:39.000000,,2020-06-26 05:26:29.650918,RK1;Incoming Material
+QA00994,Failed GII Windows Transmission Efficiency,2020-06-26 05:26:29.983806,2019-12-30 22:50:22.000000,,2020-06-26 05:26:30.745334,RK1;Incoming Material
+QA00997,Directivity failed,2020-06-26 05:26:33.009862,,,2020-06-26 05:26:33.884096,RK2
+QA00998,Scratches on housing,2020-06-26 05:26:35.237433,2020-01-06 01:02:55.000000,,2020-06-26 05:26:35.898815,RK2
+QA00999,E277 Code load failed,2020-06-26 05:26:36.255210,2020-01-07 02:40:27.000000,,2020-06-26 05:26:36.804699,RK1;Manufacturing Process
+QA01000,Hitachi - Broken Fiber Connector,2020-06-26 05:26:37.206509,2020-01-07 13:00:00.000000,,2020-06-26 05:26:38.962624,RK2
+QA01001,1 out of entire batch failed GII: clamp RR,2020-06-26 05:26:39.376851,,,2020-06-26 05:26:39.923962,RK1;Incoming Material
+QA01002,E275 failed EFT in CH1,2020-06-26 05:26:40.261833,2020-01-08 22:51:52.000000,,2020-06-26 05:26:40.924763,RK1
+QA01004,Raising of a retrospective ECO,2020-06-26 05:26:42.218624,,,2020-06-26 05:26:42.874957,RK2;NPI;Process
+QA01006,Multiple uncontrolled version of this document,2020-06-26 05:26:44.143383,,,2020-06-26 05:26:44.904527,RK2
+QA01007,False postive fiber break errors,2020-06-26 05:26:45.293590,,2021-08-17 03:47:59.000000,2021-08-17 03:47:59.785749,Firmware;Fiber Break;RK2
+QA01009,GII Discrepancy between Supplier and Measured Dimensions,2020-06-26 05:26:46.986216,,,2020-06-26 05:26:47.857051,RK1
+QA01010,2d Directivity failed after ESS,2020-06-26 05:26:48.188871,,2021-10-21 02:15:04.000000,2021-10-21 02:15:04.890804,RK1
+QA01011,2D-DIRECTIVITY /AFTER ESS,2020-06-26 05:26:49.076301,,,2020-06-26 05:26:50.161864,RK1
+QA01013,Baraja – ROI Playtable Naming,2020-06-26 05:26:51.330303,2020-01-13 13:00:00.000000,2021-10-28 05:59:27.000000,2021-10-28 05:59:27.069927,RK2
+QA01015,GII QCP01129 Failed - Visual Inspeciton,2020-06-26 05:26:53.984837,,,2020-06-26 05:26:56.386195,Incoming Material;RK1
+QA01016,Engine failed due to edfa low output power & Link Budget graph doesn't looks normal,2020-06-26 05:26:56.742740,2020-01-15 00:35:34.000000,,2020-06-26 05:26:57.660158,Yield Failure;RK1
+QA01017,Fibres burned in splice protectors so EDFA was changed,2020-06-26 05:26:57.990590,2020-01-15 03:39:19.000000,,2020-06-26 05:26:58.758116,RK1
+QA01018,Goku 5 SN 22 has a crack window,2020-06-26 05:26:59.116134,,,2020-06-26 05:26:59.898489,RK2;Manufacturing Process
+QA01019,Goku 5 Directivity Blob,2020-06-26 05:27:00.306784,2020-01-16 01:02:46.000000,,2020-06-26 05:27:00.306784,Directivity;Calibration;RK2
+QA01020,2d Directivity failed,2020-06-26 05:27:23.755710,,,2020-06-26 05:27:24.422792,RK2
+QA01021,EEPROM content modification,2020-06-26 05:27:24.840423,,,2020-06-26 05:27:25.730958,RK3
+QA01022,Failed ESM after EDFA,2020-06-26 05:27:26.139424,2020-01-16 03:14:18.000000,,2020-06-26 05:27:26.787115,RK1
+QA01023,Sh14 noisy spray at short distance (failed pointcloud review),2020-06-26 05:27:27.165794,,2021-10-22 03:15:41.000000,2021-10-22 03:15:40.977840,RK2
+QA01024,1001383-009-0000000015(D336) failed at QCP04682,2020-06-26 05:27:28.523043,2020-01-17 02:21:12.000000,,2020-06-26 05:27:29.067126,Incoming Material;RK1
+QA01025,SH 22 Failed Leak test,2020-06-26 05:27:29.440983,,,2020-06-26 05:27:29.988776,RK1;Manufacturing Process
+QA01026,Engine #281 Failed ESM,2020-06-26 05:27:30.442849,2020-01-17 04:22:20.000000,,2020-06-26 05:27:31.176782,Yield Failure;RK1
+QA01027,Conduit connector moves after ESS,2020-06-26 05:27:31.599853,,,2020-06-26 05:27:32.406658,RK1
+QA01029,SH-17 Failed-2D Directivity,2020-06-26 05:27:33.683904,,,2020-06-26 05:27:34.439509,RK2
+QA01030,Damage engine electrical cable,2020-06-26 05:27:34.764461,2020-01-14 01:02:11.000000,2021-10-22 02:33:01.000000,2021-10-22 02:33:01.398051,RK2
+QA01031,EMC box replaced in the engine,2020-06-26 05:28:25.717341,2020-01-21 02:48:03.000000,2021-10-21 02:16:08.000000,2021-10-21 02:16:08.934329,RK1
+QA01032,LSS #243 (GVT) - Does NOT match with any core tube,2020-06-26 05:28:26.689563,,,2020-06-26 05:28:27.345866,Incoming Material;RK1
+QA01033,Core tube#39 (GVT) damaged at inspection,2020-06-26 05:28:27.695074,,,2020-06-26 05:28:28.231658,RK1;Incoming Material
+QA01034,13 x Core tubes from DJMT performance not relaible,2020-06-26 05:28:28.579956,,,2020-06-26 05:28:29.115322,RK1;Incoming Material
+QA01035,Conduit gland disconnected from SH,2020-06-26 05:28:29.486777,2020-01-14 03:19:03.000000,2021-10-21 02:21:15.000000,2021-10-21 02:21:14.961464,RK2
+QA01036,Low EDFA output power error triggered during testing.,2020-06-26 05:28:31.939743,2020-01-21 04:50:41.000000,2021-10-28 06:00:39.000000,2021-10-28 06:00:39.299546,Yield Failure;RK1
+QA01037,-40 hollow motor failure,2020-06-26 05:28:33.128188,,,2020-06-26 05:28:33.793079,RK2
+QA01038,EMC box cable has been replaced,2020-06-26 05:28:34.119703,2020-01-22 02:42:48.000000,2021-10-21 02:23:58.000000,2021-10-21 02:23:58.485830,RK1
+QA01039,Fail when comparing supplier and our measurements,2020-06-26 05:28:35.146245,2020-01-22 06:04:41.000000,,2020-06-26 05:28:36.323207,RK1
+QA01040,Wavy corners,2020-06-26 05:28:37.003715,2020-01-23 00:05:53.000000,,2020-06-26 05:28:38.972694,Incoming Material;RK1
+QA01041,Grating 1 damaged during assembly,2020-06-26 05:28:39.455251,,,2020-06-26 05:28:40.134402,Manufacturing Process;RK1
+QA01042,SH24 Core jammed in lower substructure,2020-06-26 05:28:40.582989,,2021-10-21 02:31:59.000000,2021-10-21 02:31:59.071595,Lower substructure;RK1;Incoming Material
+QA01043,SN18 failed sealing test after Temp test (-40 and 85),2020-06-26 05:28:41.468161,,,2020-06-26 05:28:42.403994,RK1
+QA01044,Prism Clamp fails when comparing datas,2020-06-26 05:28:42.770866,2020-01-23 04:50:19.000000,,2020-06-26 05:28:43.546192,RK1
+QA01045,,2020-06-26 05:28:43.905745,2020-01-22 04:53:42.000000,,2020-06-26 05:28:44.453857,RK1;Incoming Material
+QA01046,Found dent on EDFA during final assembly,2020-06-26 05:28:44.898447,2020-01-23 22:47:31.000000,,2020-06-26 05:28:45.585879,Incoming Material;RK1
+QA01047,E#282 failed EFT due to low puput power @ 50deg.,2020-06-26 05:28:45.931241,,,2020-06-26 05:28:46.599656,RK1
+QA01048,EFT failed at 50 degree in Channel 2,2020-06-26 05:28:46.973646,2020-01-24 03:08:34.000000,,2020-06-26 05:28:47.631818,RK1
+QA01049,ESM with EDFA failed at last frequency 195.66 THz,2020-06-26 05:28:47.963559,2020-01-24 03:12:51.000000,,2020-06-26 05:28:48.615119,RK1
+QA01050,Prism failing transmission efficiency,2020-06-26 05:28:48.963427,2020-01-24 04:27:51.000000,,2020-06-26 05:28:49.519918,RK1;Incoming Material
+QA01051,Failed EDFA Testing,2020-06-26 05:28:49.850427,2020-01-24 04:33:37.000000,,2020-06-26 05:28:50.627617,RK1;Incoming Material
+QA01052,chip on mirror,2020-06-26 05:28:50.981031,,,2020-06-26 05:28:51.633111,RK1
+QA01053,Lens - Failed directivity test,2020-06-26 05:28:51.985926,2020-01-28 22:19:50.000000,,2020-06-26 05:28:52.538049,RK1;Incoming Material
+QA01054,Failed Axis Alignment Test with Pin Gauge,2020-06-26 05:28:52.938623,2020-01-28 23:33:04.000000,,2020-06-26 05:28:53.481873,RK1;Incoming Material
+QA01054,Failed Axis Alignment Test with Pin Gauge,2020-06-26 05:28:55.706334,2020-01-28 23:33:04.000000,,2020-06-26 05:28:56.259322,RK2;Incoming Material
+QA01055,Laser Modulation Humps,2020-06-26 05:28:53.829340,2020-01-29 00:06:12.000000,,2020-06-26 05:28:54.370425,RK1;Yield Failure
+QA01056,SH26 Coaxial Optimisation failed,2020-06-26 05:28:54.745097,,,2020-06-26 05:28:55.300593,Incoming Material;Yield Failure;RK1
+QA01057,Lower Substructure Failed Axis Alignment Test,2020-06-26 05:28:56.680595,2020-01-29 03:28:31.000000,2021-10-21 02:32:35.000000,2021-10-21 02:32:35.187664,Lower substructure;RK1;Incoming Material
+QA01058,SH26 Failed ACOUSTIC TEST,2020-06-26 05:28:57.680612,,,2020-06-26 05:28:58.437444,RK1
+QA01059,Annodizing colour differences,2020-06-26 05:28:58.762221,2020-01-29 13:00:00.000000,,2020-06-26 05:28:59.323170,RK2
+QA01059,Annodizing colour differences,2020-06-26 05:28:59.652598,2020-01-29 13:00:00.000000,,2020-06-26 05:29:00.223121,Incoming Material;RK2
+QA01060,Engine Hosing Damage,2020-06-26 05:29:00.664076,2020-01-30 02:19:09.000000,,2020-06-26 05:29:01.254250,RK1;Incoming Material
+QA01061,Failed Axis Alignment,2020-06-26 05:29:01.668560,2020-01-31 00:46:58.000000,,2020-06-26 05:29:02.274449,RK1;Incoming Material
+QA01062,Failed Axis Alignment Test,2020-06-26 05:29:02.686133,2020-01-31 00:53:28.000000,,2020-06-26 05:29:03.255896,RK1;Incoming Material
+QA01063,SH24 Core jammed during Coaxial optimisation,2020-06-26 05:29:03.618453,,,2020-06-26 05:29:04.284973,RK1;Incoming Material
+QA01064,SH24 Conduit connector became loose after ESS,2020-06-26 05:29:04.697590,,,2020-06-26 05:29:05.401849,Manufacturing Process;RK1
+QA01065,Noisy pointcloud,2020-06-26 05:29:05.781698,,,2020-06-26 05:29:06.432943,RK2
+QA01066,Small ripple before/after pulse,2020-06-26 05:29:06.860845,,,2020-06-26 05:29:06.860845,RK2
+QA01067,scratch on Engine E276,2020-06-26 05:29:18.196440,2020-01-31 03:22:09.000000,,2020-06-26 05:29:20.284362,RK1;EDFA;Engine
+QA01068,Scratch on Engine bottom,2020-06-26 05:29:20.768662,2020-01-31 03:41:47.000000,,2020-06-26 05:29:21.456394,RK1
+QA01069,Scratches and dents on E265,2020-06-26 05:29:21.900328,2020-01-31 03:53:27.000000,,2020-06-26 05:29:22.562967,RK1
+QA01069,Scratches and dents on E267,2020-06-26 05:29:35.698008,2020-02-04 03:53:27.000000,,2020-06-26 05:29:36.552373,Engine;Incoming Material;RK1
+QA01070,ESM with EDFA failed at last frequency 195.65 THz,2020-06-26 05:29:22.960765,2020-01-17 04:06:46.000000,,2020-06-26 05:29:23.613996,RK1;Yield Failure
+QA01071,found encoder ring teeth bend before assembling,2020-06-26 05:29:23.925511,2020-01-31 05:21:34.000000,,2020-06-26 05:29:24.576667,RK1
+QA01072,SH19 2D Directivity failed,2020-06-26 05:29:26.754767,,,2020-06-26 05:29:27.412553,RK3
+QA01073,Sh 28 Directivity failed,2020-06-26 05:29:27.782966,,,2020-06-26 05:29:28.430044,RK3
+QA01074,P2 chipped at the edge,2020-06-26 05:29:28.782816,,,2020-06-26 05:29:29.429269,RK1
+QA01075,scratches and dents on EDFA 80,2020-06-26 05:29:29.852420,2020-02-03 00:48:47.000000,,2020-06-26 05:29:30.504279,RK1;Incoming Material;EDFA
+QA01076,,2020-06-26 05:29:30.803946,,,2020-06-26 05:29:31.466770,RK1
+QA01078,Sh 31 grub screw too tight in core tube,2020-06-26 05:29:32.598202,2020-02-03 22:03:11.000000,,2020-06-26 05:29:33.146844,RK1;Incoming Material
+QA01079,scratches on EDFA 1001508-004-0000000005,2020-06-26 05:29:33.564440,2020-02-03 23:34:23.000000,,2020-06-26 05:29:34.210397,EDFA;Incoming Material;RK1
+QA01080,Oil leak from Oring,2020-06-26 05:29:34.605202,,2022-01-17 03:55:07.000000,2022-01-17 03:55:07.596527,Incoming Material;RK2
+QA01081,Scratches and dents on EDFA 040,2020-06-26 05:29:36.973572,2020-02-04 02:57:52.000000,,2020-06-26 05:29:37.625470,Incoming Material;EDFA;RK1
+QA01082,Scratches and dents on EDFA107,2020-06-26 05:29:38.091139,2020-02-04 05:24:36.000000,,2020-06-26 05:29:38.749926,EDFA;RK1;Incoming Material
+QA01083,Scratches and dents on EDFA131,2020-06-26 05:29:39.220234,2020-02-04 05:28:57.000000,,2020-06-26 05:29:39.874431,EDFA;RK1;Incoming Material
+QA01084,Sigma timeout error in EFT test,2020-06-26 05:29:40.242667,2020-02-04 20:51:30.000000,2021-10-22 01:55:35.000000,2021-10-22 01:55:35.850672,Yield Failure;RK1
+QA01085,Scratches and dents on EDFA 165,2020-06-26 05:29:41.782183,2020-02-04 21:14:31.000000,,2020-06-26 05:29:42.325965,RK1;Incoming Material
+QA01086,Dents on the retro-reflector,2020-06-26 05:29:42.695870,,,2020-06-26 05:29:43.237505,RK1;Incoming Material
+QA01087,Temperature Dependent Engine Performance,2020-06-26 05:29:43.540568,2020-02-04 13:00:00.000000,2021-10-21 02:41:41.000000,2021-10-21 02:41:41.354350,RK2
+QA01088,prism 1 had some scratch,2020-06-26 05:29:44.326978,,,2020-06-26 05:29:44.870469,RK1;Incoming Material
+QA01089,Goku 5 Wobble,2020-06-26 05:29:45.383242,,2020-08-31 03:19:22.000000,2020-08-31 03:19:22.874667,Yield Failure;RK3
+QA01090,E194 failed EFT,2020-06-26 05:29:51.396078,2020-02-06 02:21:38.000000,,2020-06-26 05:29:52.055898,RK1;Yield Failure
+QA01093,Failed ESM after edfa,2020-06-26 05:29:54.290787,2020-02-07 02:33:17.000000,,2020-06-26 05:29:54.888808,RK1;Yield Failure
+QA01094,Cosmetic Defect on Bottom Seat,2020-06-26 05:29:55.296559,2020-02-07 03:26:32.000000,,2020-06-26 05:29:55.960845,RK1;EDFA;Incoming Material
+QA01095,Cosmetic Defect on Bottom Seat,2020-06-26 05:29:56.365043,2020-02-07 03:27:57.000000,2021-10-21 02:42:13.000000,2021-10-21 02:42:13.506424,RK1;Incoming Material;EDFA
+QA01096,E284 failed APD Calibration,2020-06-26 05:29:57.147048,2020-02-09 20:54:00.000000,2021-10-24 23:45:44.000000,2021-10-24 23:45:44.106901,Yield Failure;RK1
+QA01097,E285 failed ESM with EDFA at last frequency,2020-06-26 05:29:58.461672,2020-02-09 21:02:54.000000,2021-10-24 23:46:22.000000,2021-10-24 23:46:22.090865,Yield Failure;RK1
+QA01098,SH33 Window #53 has scratches,2020-06-26 05:29:59.781310,,,2020-06-26 05:30:00.491657,RK1
+QA01132,Core directivity failed,2020-06-26 05:30:02.014755,,2021-10-24 23:47:54.000000,2021-10-24 23:47:54.050759,Yield Failure;RK1
+QA01133,E284 failed EFT,2020-06-26 05:30:03.264279,2020-02-12 01:03:43.000000,2021-10-24 23:48:25.000000,2021-10-24 23:48:25.259258,Yield Failure;RK1
+QA01134,core struck in lower substructure,2020-06-26 05:30:05.754293,,,2020-06-26 05:30:06.409118,Incoming Material;RK1
+QA01135,Can't start MZT it prompt Attenuation failed,2020-06-26 05:30:06.762965,2020-02-13 02:31:57.000000,,2020-06-26 05:30:07.316413,Manufacturing Process;RK1
+QA01136,Scratch on the corner  effecting Directivity,2020-06-26 05:30:07.681670,,,2020-06-26 05:30:08.353444,Incoming Material;RK1
+QA01137,E286 failed ESM with EDFA at last frequency in CH1,2020-06-26 05:30:08.736647,2020-02-13 20:43:07.000000,,2020-06-26 05:30:09.436232,RK1
+QA01138,"EFT failed due to hollow motor comm, ch 3 & 4. After introduction of firmware 3005",2020-06-26 05:30:09.820713,2020-02-14 00:06:12.000000,2021-10-24 23:51:40.000000,2021-10-24 23:51:40.347083,RK1
+QA01138,"EFT failed due to hollow motor comm, ch 3 & 4. After introduction of firmware 3005",2020-06-26 05:30:10.688586,2020-02-14 00:06:12.000000,,2020-06-26 05:30:11.354881,RK2
+QA01138,"EFT failed due to hollow motor comm, ch 3 & 4. After introduction of firmware 3005",2020-06-26 05:30:11.729922,2020-02-14 00:06:12.000000,,2020-06-26 05:30:12.388288,RK2
+QA01139,Sh. 37 grub screw too tight in core tube,2020-06-26 05:30:12.741259,,,2020-06-26 05:30:13.284465,Incoming Material;RK1
+QA01140,Failed APD Cal ch1 -67.58dbm,2020-06-26 05:30:13.610370,2020-02-17 03:00:35.000000,2021-10-22 03:20:18.000000,2021-10-22 03:20:18.522984,RK1
+QA01141,SH33 Conduit came off at LiFT,2020-06-26 05:30:15.031062,,,2020-06-26 05:30:16.189707,RK2
+QA01142,No sealing test data from supplier,2020-06-26 05:30:16.575008,,2021-10-22 03:21:08.000000,2021-10-22 03:21:08.648669,RK1;Incoming Material
+QA01143,Front housing painting defect,2020-06-26 05:30:17.831872,2020-02-18 03:03:16.000000,,2022-09-07 05:23:14.044629,Sensorhead;Paint
+QA01144,scratching PCB because encoder ring not properly mounted,2020-06-26 05:30:18.751868,2020-02-18 05:18:33.000000,,2020-06-26 05:30:19.349421,RK1;Manufacturing Process
+QA01145,Directivity failed changed Lower Sub & Grating Clamps,2020-06-26 05:30:19.723946,,,2020-06-26 05:30:20.380437,RK3
+QA01146,Wobble at LiFT,2020-06-26 05:30:20.753457,,,2020-06-26 05:30:21.533666,RK3
+QA01148,EFT failed because of hollow motor 3&4,2020-06-26 05:30:22.696328,2020-02-20 00:02:16.000000,,2020-06-26 05:30:23.344443,RK2
+QA01149,EFT failed because of hollow motor 3&4,2020-06-26 05:30:23.717561,2020-02-20 00:08:22.000000,,2020-06-26 05:30:24.386203,RK2
+QA01150,ESM with EDFA failed at last frequency,2020-06-26 05:30:24.759490,2020-02-20 01:13:38.000000,,2020-06-26 05:30:25.409152,RK1
+QA01151,EFT failed because of hollow motor 3&4,2020-06-26 05:30:25.786597,2020-02-20 02:39:21.000000,,2020-06-26 05:30:26.448164,RK2
+QA01152,Motor electrical cable fault,2020-06-26 05:30:26.822174,,,2020-06-26 05:30:27.369857,Incoming Material;RK1;Yield Failure
+QA01153,Horns Performance Bug,2020-06-26 05:30:27.726535,,2020-08-31 03:19:37.000000,2020-08-31 03:19:37.473307,RK3;LIDAR System;Horns
+QA01154,retro test fail,2020-06-26 05:30:28.784628,2020-03-09 21:56:28.000000,,2020-06-26 05:30:29.518257,RK1
+QA01155,Stator Hole not tapped/drilled,2020-06-26 05:30:29.872489,,,2020-06-26 05:30:30.423152,Incoming Material
+QA01156,,2020-06-26 05:30:30.749616,,,2020-06-26 05:30:31.290929,Incoming Material;RK1
+QA01157,Screw thread failed,2020-06-26 05:31:04.986951,,,2020-06-26 05:31:05.775946,Incoming Material;RK1
+QA01158,,2020-06-26 05:31:06.106118,,,2020-06-26 05:31:06.653482,RK1;Incoming Material
+QA01159,,2020-06-26 05:31:06.982069,,,2020-06-26 05:31:07.542854,RK1;Incoming Material
+QA01160,Crystal Tube SN 75 failed QCP 5019,2020-06-26 05:31:07.951916,,,2020-06-26 05:31:08.629823,RK1;Incoming Material
+QA01161,Lower substructure failed GII QCP 4668&4794,2020-06-26 05:31:09.044748,2020-03-10 22:05:49.000000,,2020-06-26 05:31:09.832724,Incoming Material;RK1
+QA01162,failed GII QCP 4668(Axial Alignment),2020-06-26 05:31:10.308905,2020-03-11 03:52:25.000000,,2020-06-26 05:31:10.866523,Incoming Material;RK1
+QA01163,Tube stuck in the lower substructure,2020-06-26 05:31:11.306858,2020-03-11 03:58:12.000000,,2020-06-26 05:31:11.977662,Incoming Material;RK1
+QA01164,Bearing became rusted after cleaning process,2020-06-26 05:31:12.405775,,,2020-06-26 05:31:13.400961,bearing;RK2;Manufacturing Process
+QA01165,,2020-06-26 05:31:13.755032,,,2020-06-26 05:31:14.306932,Incoming Material;RK1
+QA01166,Code load failed,2020-06-26 05:31:14.662958,2020-03-10 23:12:31.000000,2021-10-24 23:53:52.000000,2021-10-24 23:53:52.894981,Manufacturing Process;RK1
+QA01167,E291 failed ESM,2020-06-26 05:31:15.467516,2020-03-11 23:10:55.000000,2021-01-15 02:14:42.000000,2021-01-15 02:14:42.643596,Yield Failure;RK1
+QA01168,E266 failed black car test at CH2,2020-06-26 05:31:16.296443,2020-03-12 00:11:11.000000,2021-10-24 23:57:05.000000,2021-10-24 23:57:05.659093,RK1;Yield Failure
+QA01169,Ffailed QCP 391,2020-06-26 05:31:17.348915,2020-03-13 00:36:35.000000,,2020-06-26 05:31:17.915151,Incoming Material;RK1
+QA01170,Both side of window have imperfection,2020-06-26 05:31:18.271619,2020-03-13 00:38:29.000000,2021-10-19 05:24:45.000000,2021-10-19 05:24:45.577303,Archive;RK1
+QA01171,PCB broken by Andrew Young during code load,2020-06-26 05:31:19.272509,2020-03-13 04:15:09.000000,2020-07-08 01:55:10.000000,2020-07-08 01:55:10.440603,RK1
+QA01172,EFT failed at 25 degree,2020-06-26 05:31:20.170248,2020-03-15 21:15:37.000000,2021-10-24 23:57:46.000000,2021-10-24 23:57:46.929279,RK1;Incoming Material
+QA01173,Failed QCP4690 for no supplier data,2020-06-26 05:31:21.014277,2020-03-17 02:22:34.000000,,2020-06-26 05:31:21.702139,RK1;Incoming Material
+QA01174,,2020-06-26 05:31:22.035304,,,2020-06-26 05:31:22.591580,RK1;Incoming Material
+QA01175,Static Grating Clamp partially Failed QCP4153,2020-06-26 05:31:22.975834,2020-03-17 21:49:25.000000,,2020-06-26 05:31:23.637707,RK1;Incoming Material
+QA01176,E291 failed EFT CH1 at 25 degree,2020-06-26 05:31:24.051598,2020-03-18 00:45:29.000000,2021-10-24 23:58:16.000000,2021-10-24 23:58:16.803772,Yield Failure;RK1
+QA01177,APD calibration falied in APD 2,2020-06-26 05:31:24.849806,2020-03-18 00:53:28.000000,2021-10-24 23:58:46.000000,2021-10-24 23:58:46.368043,RK1;Yield Failure
+QA01178,E295 failed ESM,2020-06-26 05:31:25.684154,2020-03-18 00:56:30.000000,,2020-06-26 05:31:26.347760,Yield Failure;Manufacturing;RK1
+QA01179,E294 failed ESM post EDFA,2020-06-26 05:31:26.678093,2020-03-18 01:02:48.000000,,2020-06-26 05:31:27.337980,RK1
+QA01179,E294 failed ESM post EDFA,2020-06-26 05:31:27.648120,2020-03-18 01:02:48.000000,,2020-06-26 05:31:28.314365,RK1
+QA01180,Failed ESM after edfa,2020-06-26 05:31:28.694236,2020-03-18 21:48:54.000000,,2020-06-26 05:31:29.352143,RK1
+QA01181,Failed ESM after edfa,2020-06-26 05:31:29.737260,2020-03-18 23:00:13.000000,,2020-06-26 05:31:30.417909,RK1
+QA01182,Code Load Failed,2020-06-26 05:31:30.775335,2020-03-19 23:09:44.000000,,2020-06-26 05:31:31.327410,Manufacturing Process;RK1
+QA01183,Persistent stains on sensorhead window,2020-06-26 05:31:31.631159,,2020-10-26 21:33:43.000000,2020-10-26 21:33:43.072765,RK1
+QA01184,ESM post EDFA failed in CH1,2020-06-26 05:31:33.399899,2020-03-20 02:31:45.000000,,2020-06-26 05:31:34.052749,RK1
+QA01185,,2020-06-26 05:31:34.379608,,,2020-06-26 05:31:34.930921,Incoming Material;RK1
+QA01186,1 pcs clamp failed QCP4219,2020-06-26 05:31:35.317003,2020-03-23 02:19:27.000000,,2020-06-26 05:31:35.996377,RK1;Incoming Material
+QA01187,black car and range fail,2020-06-26 05:31:36.353122,2020-03-23 02:43:10.000000,2021-10-24 23:59:22.000000,2021-10-24 23:59:22.296832,Yield Failure;RK1
+QA01188,Failed QCP4669(thread gauge),2020-06-26 05:31:37.214440,2020-03-24 21:06:28.000000,,2020-06-26 05:31:37.989360,Incoming Material;RK1
+QA01189,,2020-06-26 05:31:38.393624,,,2020-06-26 05:31:39.172283,Incoming Material;RK1
+QA01190,Failed GII QCP 1118,2020-06-26 05:31:39.612174,2020-03-24 21:15:22.000000,,2020-06-26 05:31:40.428152,RK1;Incoming Material
+QA01191,,2020-06-26 05:31:40.803795,,,2020-06-26 05:31:41.461797,Incoming Material;RK1
+QA01192,Failed QCP 4179,2020-06-26 05:31:41.912502,2020-03-24 21:30:14.000000,,2020-06-26 05:31:42.700151,Incoming Material;RK1;Lower substructure
+QA01193,,2020-06-26 05:31:43.075481,,,2020-06-26 05:31:43.750206,Incoming Material;RK1
+QA01194,Front housing has some scratches,2020-06-26 05:31:44.116481,,,2020-06-26 05:31:44.658568,RK1;Incoming Material
+QA01195,Failed APD Cal. Ch1 low sensitivity.,2020-06-26 05:31:45.022951,2020-03-25 03:30:42.000000,,2020-06-26 05:31:45.603265,RK1;Yield Failure
+QA01196,Tight screw holes,2020-06-26 05:31:45.982794,,,2020-06-26 05:31:46.645349,RK1;Incoming Material
+QA01197,E291 failed ESM post EDFA,2020-06-26 05:31:47.026965,2020-03-26 23:20:10.000000,,2020-06-26 05:31:47.575484,RK1
+QA01198,E298 failed ESM,2020-06-26 05:31:47.947820,2020-03-26 23:23:17.000000,,2020-06-26 05:31:48.502755,Yield Failure;RK1
+QA01199,E311 failed ESM post EDFA,2020-06-26 05:31:48.979060,2020-03-27 02:21:53.000000,,2020-06-26 05:31:49.521426,RK1
+QA01200,Failed QCP 4153,2020-06-26 05:31:49.896756,2020-03-27 04:20:02.000000,,2020-06-26 05:31:50.683071,RK1;Incoming Material
+QA01201,G5 Azimuth Polarity,2020-06-26 05:31:51.176422,,2021-10-25 00:00:32.000000,2021-10-25 00:00:32.059970,Manufacturing;RK2
+QA01202,Fiber with tight bending radius caused lost in intensty in customer product,2020-06-26 05:31:52.756204,,2021-10-19 06:32:18.000000,2021-10-19 06:32:18.787393,Low Reflectivity;RK2;Pointcloud
+QA01203,"Point cloud review fail, zero order noise too high",2020-06-26 05:31:53.781190,2020-03-30 21:26:57.000000,2021-10-25 00:03:19.000000,2021-10-25 00:03:19.454243,RK1
+QA01204,Transceiver Directivity Failed.,2020-06-26 05:31:54.661484,2020-03-29 22:18:25.000000,,2020-06-26 05:31:55.210953,RK1;Yield Failure
+QA01205,Core Directivity Failed.,2020-06-26 05:31:55.566026,2020-03-30 22:39:44.000000,,2020-06-26 05:31:56.111667,RK1;Yield Failure
+QA01206,Unacceptable Number of Returns from Dark Cars,2020-06-26 05:31:56.445745,2020-03-31 20:21:23.000000,,2022-08-17 00:01:40.112499,RK2
+QA01208,Failed ESM after EDFA at last frequencies,2020-06-26 05:31:58.433811,2020-04-01 02:29:07.000000,,2020-06-26 05:31:58.976044,RK1;Yield Failure
+QA01209,"2D-DIRECTIVITY ,Green spikes",2020-06-26 05:31:59.357094,,,2020-06-26 05:32:00.192332,RK2
+QA01210,Transceiver Directivity Failed.,2020-06-26 05:32:00.549121,2020-04-01 20:57:55.000000,,2020-06-26 05:32:01.110492,RK1;Yield Failure
+QA01211,E312 failed ESM post EDFA,2020-06-26 05:32:01.506681,2020-04-02 00:13:21.000000,,2020-06-26 05:32:02.197918,RK1
+QA01212,One substructure  failed QCP for no supplier data,2020-06-26 05:32:02.647780,2020-04-06 01:45:13.000000,,2020-06-26 05:32:03.580547,Incoming Material;RK1
+QA01213,Baraja - Low power 1106 error,2020-06-26 05:32:03.968539,,2021-10-25 00:04:25.000000,2021-10-25 00:04:25.432062,Output_Power;RK2
+QA01214,EMC  cable has been replaced,2020-06-26 05:32:04.957561,2020-04-06 22:57:10.000000,,2020-06-26 05:32:05.622265,Incoming Material;Yield Failure;RK1
+QA01215,Directivity failed,2020-06-26 05:32:05.988528,,,2020-06-26 05:32:06.654008,RK1;Yield Failure
+QA01216,EDFA [#238] has low output power.,2020-06-26 05:32:07.058553,,2021-10-19 08:19:48.000000,2021-10-19 08:19:48.262098,Incoming Material;RK1
+QA01217,EDFA [#236] has low output power on Ch2.,2020-06-26 05:32:08.176421,2020-04-09 00:06:12.000000,,2020-06-26 05:32:09.040919,RK1;Incoming Material
+QA01218,Incorrect retro flagging of metal rack,2020-06-26 05:32:09.383181,,,2020-06-26 05:32:10.091021,RK2
+QA01219,"Failed Hardwar Test,  Motor comm ch2  is not working.",2020-06-26 05:32:10.452137,2020-04-15 23:11:36.000000,,2020-06-26 05:32:11.177803,RK1;Yield Failure
+QA01220,Fiber Break Error,2020-06-26 05:32:11.485779,,2021-10-25 00:05:48.000000,2021-10-25 00:05:47.997520,RK2
+QA01221,Intensity calibration incorrect for customer units,2020-06-26 05:32:12.778752,,2021-10-29 00:23:50.000000,2021-10-29 00:23:49.977361,RK2
+QA01222,Failed QCP 04669,2020-06-26 05:32:16.285838,2020-04-17 04:58:49.000000,,2020-06-26 05:32:16.945765,RK1;Incoming Material
+QA01223,Failed QCP01118/04179/04180,2020-06-26 05:32:17.370523,2020-04-17 05:05:03.000000,,2020-06-26 05:32:18.039784,RK1;Incoming Material
+QA01224,Optical fiber TX and RX was labelled incorrectly for customer install,2020-06-26 05:32:18.630054,,,2020-06-26 05:32:20.280296,Manufacturing Process;RK2
+QA01225,No Strain relief on Electric cable,2020-06-26 05:32:20.701989,,,2020-06-26 05:32:21.266536,Incoming Material;RK1
+QA01226,2-way IL failed on Horizontal box,2020-06-26 05:32:21.657717,,,2020-06-26 05:32:22.462901,RK1;Yield Failure
+QA01227,2_way IL failed on Vertical Box,2020-06-26 05:32:22.873190,,,2020-06-26 05:32:23.703033,RK1;Yield Failure
+QA01235,Horn removal on VCT playtables,2020-06-26 05:32:30.021752,,2021-10-25 00:10:28.000000,2021-10-25 00:10:28.029683,RK2
+QA01250,FTA fail (replace Fibre array),2020-06-26 05:32:47.162066,,,2020-06-26 05:32:47.727143,Yield Failure;RK1;Incoming Material
+QA01251,replace Fibre array broken,2020-06-26 05:32:48.085036,,,2020-06-26 05:32:48.666022,RK1;Manufacturing Process
+QA01252,Hollow Motor test Failed Encoder Gap,2020-06-26 05:32:49.024672,2020-05-06 04:50:34.000000,,2020-06-26 05:32:49.570767,RK1;Yield Failure
+QA01252,Hollow Motor test Failed Encoder Gap,2020-06-26 05:32:49.927071,2020-05-06 04:50:34.000000,,2020-06-26 05:32:50.483490,Yield Failure;RK1
+QA01253,Crystal Top Clamp failed QCP5070,2020-06-26 05:32:50.865731,2020-05-07 02:23:27.000000,,2020-06-26 05:32:51.458086,RK1;Incoming Material
+QA01254,Crystal Shim 30 deg failed QCP5061 and 5062,2020-06-26 05:32:51.845926,2020-05-07 03:38:22.000000,,2020-06-26 05:32:52.413826,Incoming Material;RK1
+QA01287,Please ignore this is a test,2020-06-26 05:33:18.167451,,,2020-06-26 05:33:18.721020,RK1
+QA01289,CH1 VFOV fail,2020-06-26 05:33:19.940092,2020-06-18 23:06:01.000000,2021-10-25 00:36:27.000000,2021-10-25 00:36:27.585332,RK1
+QA01291,black target and HFOV,2020-06-26 05:33:21.539672,,2021-10-25 00:37:47.000000,2021-10-25 00:37:47.659835,RK1
+QA01414,three systems failed at black target and or FOV,2020-07-17 04:49:05.070655,,2021-10-25 01:39:04.000000,2021-10-25 01:39:04.755886,RK1
+QA01430,EDFA Isolator Failure,2020-07-30 02:11:02.894530,,2020-11-13 00:07:55.000000,2020-11-13 00:07:55.248091,Optics;EDFA;RK3
+QA01441,Internal Audit - Calibration and Maintenance,2020-08-08 10:48:22.775753,,2020-12-04 05:37:43.000000,2020-12-04 05:37:43.272697,RK2
+QA01442,Internal Aduit - Document Control,2020-08-08 10:50:32.480449,2020-08-08 06:34:01.000000,2022-05-05 06:41:03.000000,2022-05-05 06:41:02.984238,RK2
+QA01443,Internal Audit - Software Development,2020-08-08 10:53:12.467778,,2020-12-04 03:46:35.000000,2020-12-04 03:46:35.324876,RK2
+QA01445,Internal Audit - Incoming Goods,2020-08-08 10:57:42.724563,,2020-12-04 05:33:31.000000,2020-12-04 05:33:31.408850,RK2
+QA01446,Internal Audit - Rig Design Process,2020-08-08 11:07:41.125690,,2020-12-04 05:31:49.000000,2020-12-04 05:31:49.465138,RK2
+QA01450,E338 failed ESM before EDFA- laser cal issue rev34,2020-08-12 01:00:28.320967,2020-08-12 00:53:31.000000,2022-01-17 03:43:15.000000,2022-01-17 03:43:15.828080,RK2
+QA01451,"Internal Audit - ECO, DA, QA",2020-08-14 00:32:59.408571,,2020-11-24 13:50:54.000000,2020-11-24 13:50:54.123052,RK2
+QA01452,E339 laser calibration failed repeatedly,2020-08-18 23:18:20.415091,2020-08-16 23:10:40.000000,2020-08-18 23:51:17.000000,2020-08-18 23:51:17.308392,RK2
+QA01453,QCP4177 failed,2020-08-19 23:55:21.709579,2020-08-19 23:51:14.000000,2020-11-26 23:54:38.000000,2020-11-26 23:54:38.760752,RK1;Lower substructure
+QA01454,Ffailed QCP 5017,2020-08-20 00:01:47.407839,2020-08-20 00:01:52.000000,2021-11-14 23:03:19.000000,2021-11-14 23:03:19.391093,RK1
+QA01455,Thread on the Heat sink are broken. The Screw can't be tighten.,2020-08-20 03:50:39.899685,2020-08-20 03:47:10.000000,2020-09-07 06:30:03.000000,2020-09-07 06:30:03.635172,RK1
+QA01456,conduit came off,2020-08-20 03:58:00.708407,2020-08-20 04:00:20.000000,2020-08-26 05:40:08.000000,2020-11-27 02:53:37.207600,RK1
+QA01457,E262 failed ESM after EDFA,2020-08-26 01:29:33.041688,2020-08-26 01:25:32.000000,2020-09-08 03:06:05.000000,2020-09-08 03:06:05.534814,RK2
+QA01461,Conduit came loose from conduit gland,2020-08-31 22:27:47.089425,2020-08-31 22:10:44.000000,2020-11-27 02:54:23.000000,2020-11-27 02:54:23.142093,Conduit;Sensorhead
+QA01462,SH 9 (G6) Core tube Dir failed on ch2,2020-08-31 23:41:58.636811,2020-08-31 23:28:12.000000,2020-11-27 03:44:00.000000,2020-11-27 03:44:00.706178,RK1
+QA01468,E330  CH1 Failed ESM after EDFA,2020-09-07 04:16:44.790128,2020-09-07 04:13:40.000000,2020-09-08 03:05:19.000000,2020-09-08 03:05:19.545045,RK2
+QA01471,SH205 (FMG RMA) Failed Noise test,2020-09-09 23:40:27.352001,2020-09-09 23:27:28.000000,2020-09-22 03:44:30.000000,2020-09-22 03:44:30.315155,RK1
+QA01472,E317 Failed 1 playtable @ Laser Cal,2020-09-10 00:02:31.403032,2020-09-09 23:59:44.000000,2020-09-22 03:34:00.000000,2020-09-22 03:34:00.782893,RK1
+QA01473,E261 - ch1 & ch2 Failed ESM post EDFA,2020-09-10 01:27:07.192013,2020-09-10 01:15:22.000000,2020-09-13 12:48:27.000000,2020-09-13 12:48:27.332973,RK2
+QA01474,SH186 (FMG RMA) failed F2A with wrong IL detection,2020-09-10 04:54:30.592402,,2020-09-22 03:43:15.000000,2020-09-22 03:43:15.037665,RK1
+QA01475,E193 Failed APD cal.  ch2 failed @ 50deg.,2020-09-15 22:06:01.336659,2020-09-15 22:03:53.000000,2020-11-30 03:59:44.000000,2020-11-30 03:59:44.611868,RK1
+QA01476,E317 failed ESM after EDFA,2020-09-15 22:10:07.127672,2020-09-14 22:07:25.000000,2020-09-22 03:40:49.000000,2020-09-22 03:40:49.381103,RK1
+QA01477,Old Work Instruction  Issue,2020-09-15 22:53:15.890989,2020-07-22 01:59:06.000000,2020-11-27 04:27:32.000000,2020-11-27 04:27:32.433467,RK2
+QA01478,False Positive Fibre break error,2020-09-17 01:02:48.477492,,2022-01-17 03:55:18.000000,2022-01-17 03:55:18.301836,RK2
+QA01479,Failed @ Transceiver Directivity,2020-09-18 08:28:21.270482,2020-09-18 08:13:22.000000,2020-11-27 04:22:26.000000,2020-11-27 04:22:26.223521,RK1
+QA01480,SYS1877 (FMG RMA) failed PD (ch1) and black car (80%),2020-09-21 06:41:29.795187,,2021-10-31 12:22:42.000000,2021-10-31 12:22:42.751175,RK1
+QA01481,The core failed @ Directivity,2020-09-23 01:38:26.668112,2020-09-23 00:11:58.000000,2020-11-30 04:52:58.000000,2020-11-30 04:52:58.706469,RK1
+QA01482,Failed total FOV horn coverage,2020-09-23 01:59:46.697141,2020-09-23 01:50:32.000000,2020-10-15 13:55:06.000000,2020-10-15 13:55:06.429846,RK1
+QA01483,Failed safety check,2020-09-23 02:04:34.984838,2020-09-23 02:01:15.000000,2020-11-27 03:18:29.000000,2020-11-27 03:18:54.907961,RK1
+QA01485,Failed 3% PD,2020-09-24 02:11:05.339381,2020-09-24 02:08:21.000000,2020-11-27 04:33:01.000000,2020-11-27 04:33:01.186346,RK2
+QA01489,Fibres got twisted  while conectorised,2020-09-29 03:28:58.320618,,2021-09-22 11:09:54.000000,2021-09-22 11:09:54.261607,RK2
+QA01490,FMG RMA CH2 failed black car,2020-09-29 04:17:15.035927,2020-09-29 04:17:23.000000,2020-11-27 03:23:15.000000,2020-11-27 03:23:15.702093,RK2
+QA01491,SYS2717 (E333 SH11) retro test failed to generate report,2020-09-29 04:51:44.079754,,2021-09-22 11:11:09.000000,2021-09-22 11:11:09.531846,RK1
+QA01493,PD is very low.,2020-10-06 04:03:36.529556,,2020-11-30 06:00:19.000000,2020-11-30 06:00:18.978058,RK2
+QA01496,GII failed QCP6825-6830,2020-10-07 02:29:00.174797,2020-10-07 02:23:59.000000,2021-10-28 06:21:37.000000,2021-10-28 06:21:37.626088,RK1
+QA01497,Failed QCP4335,2020-10-12 04:09:41.374432,2020-10-12 04:04:58.000000,2020-10-15 13:37:31.000000,2020-10-15 13:37:31.945721,RK1
+QA01498,Failed QCP4352,2020-10-12 04:16:18.886378,2020-10-12 04:16:48.000000,2020-10-15 13:36:08.000000,2020-10-15 13:36:08.450551,RK1
+QA01499,E330 has scratches on the tube,2020-10-13 00:23:32.596572,,2020-10-15 13:33:52.000000,2020-10-15 13:33:52.507360,RK1
+QA01500,The top heat sink has a hole visible from the outside.,2020-10-13 21:08:12.191391,2020-10-12 20:45:30.000000,2020-10-15 13:32:37.000000,2020-10-15 13:32:37.026027,RK2
+QA01501,Failed QCP 4358,2020-10-14 00:25:10.612154,2020-10-14 00:19:02.000000,2020-10-15 13:30:30.000000,2020-10-15 13:30:30.749383,RK1
+QA01502,E342 Failed ESM before EDFA,2020-10-15 00:39:02.443888,2020-10-15 00:24:09.000000,2020-11-03 01:24:28.000000,2020-11-03 01:24:27.921857,RK2
+QA01503,QCP 4326 failed,2020-10-15 03:26:02.419527,2020-10-15 03:18:54.000000,2020-10-15 13:27:05.000000,2020-10-15 22:16:28.824393,RK2
+QA01504,QCP 4335 failed,2020-10-15 03:32:03.399797,2020-10-15 03:28:13.000000,2020-10-15 13:28:26.000000,2020-10-15 22:15:55.374606,RK1
+QA01505,Top Heat Sink Blue Color does not match the rest of the parts,2020-10-16 03:12:05.842403,2020-10-16 03:06:48.000000,2021-10-31 12:24:28.000000,2021-10-31 12:24:28.299277,RK1
+QA01506,CH2  Failed EDFA Test,2020-10-16 03:18:32.284678,2020-10-16 03:14:07.000000,2021-10-31 12:25:38.000000,2021-10-31 12:25:38.851754,RK1
+QA01507,Failed EFT with low link budget on ch1 & Motor comm ch1.,2020-10-18 22:07:34.743751,2020-10-18 22:01:35.000000,2020-11-03 01:08:27.000000,2020-11-03 01:08:27.092822,RK1
+QA01508,Failed H-FOV for ch-2,2020-10-20 21:35:35.911330,,2021-10-31 12:26:57.000000,2021-10-31 12:26:57.328600,RK2
+QA01509,Heat shrink on the electrical cable does not seal properly between the cable boot and the cable.,2020-10-21 00:46:20.793719,2020-10-21 00:31:35.000000,2021-10-31 12:29:24.000000,2021-10-31 12:29:24.511833,RK2
+QA01510,F2A CH1 failed,2020-10-22 22:23:58.389626,,2020-11-03 01:05:06.000000,2020-11-03 01:05:06.022258,RK1
+QA01511,Top heat sink O-ring does not fit,2020-10-27 05:34:09.718562,2020-10-27 05:23:20.000000,2021-10-31 12:19:17.000000,2021-10-31 12:19:17.775908,RK2
+QA01512,2 Way- il Failed at F2A,2020-10-27 21:36:56.808370,,2020-11-03 01:01:39.000000,2020-11-03 01:01:39.922434,RK1
+QA01513,Failed QCP 0808,2020-10-28 22:29:42.730383,2020-10-28 22:29:52.000000,2020-11-03 01:01:05.000000,2020-11-03 01:01:12.961086,RK1
+QA01514,Failed safety check SYS2418 (E341 SG12 G6),2020-10-30 00:02:53.031051,,2020-11-03 00:43:18.000000,2020-11-03 00:43:18.817789,RK3
+QA01515,E344 failed ESM post EDFA,2020-10-30 03:53:50.030292,,2021-10-25 02:22:46.000000,2021-10-25 02:22:46.405296,RK1
+QA01517,Safety Check failed (vertival scan)SYS2419,2020-11-01 23:29:08.268785,,2020-11-03 00:36:05.000000,2020-11-11 05:01:38.515377,RK3
+QA01518,Failed safety check,2020-11-02 01:18:31.052121,,2021-07-12 00:24:18.000000,2021-07-12 00:24:18.662294,RK3
+QA01519,E346 failed ESM 7 times,2020-11-02 04:14:06.829043,,2020-11-03 00:32:32.000000,2020-11-03 00:32:32.549696,RK2
+QA01544,LiDAR Range Failures,2020-11-11 05:07:09.617948,2020-11-11 04:40:49.000000,2020-12-04 02:34:58.000000,2020-12-04 02:40:37.371194,RK3
+QA01549,Laser Cal Issue - Point Picking,2020-11-13 00:13:46.571406,2020-11-12 23:55:11.000000,2020-12-02 05:33:31.000000,2020-12-02 05:33:31.744735,RK3
+QA01582,Internal Audit - QA,2020-12-04 05:39:38.698762,,2022-05-05 06:38:39.000000,2022-05-05 06:38:39.657693,RK2
+QA01604,Window deformation,2020-12-18 02:43:26.683441,,2022-07-12 07:08:10.000000,2022-07-12 07:08:33.797071,RK2
+QA01632,Loose jacket fibres ordered,2021-01-18 05:57:23.391780,2021-01-18 05:53:21.000000,2022-05-27 05:44:04.000000,2022-05-27 05:44:04.207571,Purchasing;Vendor;Sensorhead
+QA01634,Dot visible on the surface,2021-01-20 02:01:52.795546,,2021-11-07 22:29:36.000000,2021-11-07 22:29:36.576013,Sensorhead
+QA01644,M12 Connector Issue,2021-01-27 00:42:52.778421,,2022-05-26 05:58:46.000000,2022-05-26 05:58:46.266748,RK2
+QA01668,Vertical IL failed at F2A,2021-02-10 23:47:37.303106,2021-02-10 23:31:14.000000,2021-04-06 07:01:06.000000,2021-04-06 07:01:06.062293,F2A failure ;Vertical IL;window issue
+QA01671,G6 Range Performance Issue,2021-02-12 05:08:20.136703,2021-02-08 05:04:44.000000,2021-08-25 03:52:54.000000,2021-08-25 03:52:54.534046,RK3
+QA01678,Untested Eye Safety Configuration,2021-02-16 04:57:33.938045,,2021-08-02 00:15:16.000000,2021-08-02 00:15:16.948481,RK3
+QA01710,Screw holes not tapped.,2021-03-23 21:55:13.762129,2021-03-23 21:48:54.000000,2021-11-28 23:18:04.000000,2021-11-28 23:18:04.747195,tapping;GII;sled;coaxial
+QA01714,Horizontal Scan Error  - DOA,2021-03-31 04:28:06.647678,2021-03-30 13:00:00.000000,2021-07-12 00:30:40.000000,2021-07-12 00:30:39.986708,RK3
+QA01731,GII Failure - Grating clamp - clamp width out of spec,2021-04-28 01:49:29.907917,2021-04-28 01:34:25.000000,2022-09-26 05:57:37.000000,2022-09-26 05:57:37.114884,GII;COMPONENT FAILURE;Mech
+QA01732,GII Failure - Top Heat sink - 1002272-008,2021-04-28 02:07:48.991660,2021-04-28 02:01:52.000000,2021-11-19 03:28:22.000000,2021-11-19 03:28:22.331721,COMPONENT FAILURE;Mech;GII
+QA01733,1006347-003 Goku Sub str lower sled - Screw hole Issue,2021-04-28 03:37:37.291841,2021-04-28 03:25:57.000000,2022-01-17 03:55:39.000000,2022-01-17 03:55:39.363006,Mech;GII;COMPONENT FAILURE
+QA01735,SYS2452 Vertical Scan Checks Fail,2021-04-30 06:07:40.459088,2021-04-30 06:09:39.000000,2021-11-28 23:26:18.000000,2021-11-28 23:26:17.987382,RK2
+QA01736,Paint come off from rear housing,2021-05-02 23:55:58.388434,,2022-05-10 01:19:24.000000,2022-09-07 05:26:29.156488,Paint;Sensorhead
+QA01739,Painting issue - Paint comes off with IPA,2021-05-03 07:04:56.648739,2021-05-03 07:01:57.000000,2022-05-10 04:31:13.000000,2022-09-07 05:24:55.036765,Sensorhead;Paint
+QA01740,Unable to install shim in Transceiver Assembly,2021-05-06 03:34:03.393598,2021-05-06 03:29:04.000000,2022-07-12 04:13:49.000000,2022-07-12 04:13:49.701210,COMPONENT FAILURE;GII;Mech
+QA01741,Output Power Variation,2021-05-07 06:17:05.504562,2021-05-07 06:16:44.000000,,2022-08-08 01:15:52.607791,RK3
+QA01742,Unable to install shim in Transceiver Assembly,2021-05-10 01:11:10.919165,2021-05-10 01:07:11.000000,2022-01-20 03:45:15.000000,2022-01-20 03:45:15.531524,"GII, MECH COMP FAILURE"
+QA01757,"Top heat sink - QCP 7037,7039 - GII failure",2021-05-24 01:37:10.505714,2021-05-24 01:07:43.000000,2022-04-20 03:31:11.000000,2022-04-20 03:31:11.220280,MECH;GII
+QA01761,QCP 00808 [ WIDTH] IS NOT IN TOLERANCE,2021-05-28 03:30:06.081267,2021-05-28 03:10:45.000000,2021-11-19 02:53:19.000000,2021-11-19 02:53:19.794563,"GII, MECH COMP FAILURE"
+QA01762,QCP 00808 [ WIDTH] IS NOT IN TOLERANCE,2021-05-28 04:03:04.678322,2021-05-28 03:47:28.000000,2022-01-17 00:34:09.000000,2022-01-17 00:34:09.379072,"GII, MECH COMP FAILURE"
+QA01763,QCP07363(WIDTH) IS NOT IN TOLERANCE,2021-05-31 04:49:47.886717,2021-05-31 04:56:30.000000,2021-11-04 02:39:04.000000,2021-11-04 02:39:04.446757,"GII, MECH COMP FAILURE"
+QA01764,QCP07363(WIDTH) IS NOT IN TOLERANCE,2021-05-31 05:04:10.888551,2021-05-31 04:54:21.000000,2021-06-03 03:54:21.000000,2021-06-03 03:54:21.770173,"GII, MECH COMP FAILURE"
+QA01765,QCP07363(WIDTH) IS NOT IN TOLERANCE,2021-05-31 05:22:57.562788,2021-05-31 05:13:33.000000,2021-11-19 02:09:16.000000,2021-11-19 02:09:16.484939,"GII, MECH COMP FAILURE"
+QA01768,QCP 05630 IS NOT IN TOLERANCE,2021-06-02 03:31:52.241315,2021-06-02 03:24:21.000000,2021-10-25 21:55:42.000000,2021-10-25 21:55:42.636781,GII;Optics
+QA01770,Unit was shipped to customer with failed safety check (after LiFT),2021-06-02 06:02:53.967346,2021-06-02 05:53:03.000000,2021-08-02 00:14:35.000000,2021-08-02 00:14:35.587700,RK3
+QA01773,QCP 5181(FLATNESS) IS NOT IN TOLERANCE,2021-06-07 01:37:47.089083,2021-06-07 01:25:07.000000,2022-01-27 00:50:57.000000,2022-01-27 00:50:57.467208,"GII, MECH COMP FAILURE"
+QA01775,"QCP 7037,7038,7039,7045  IS NOT IN TOLERANCE",2021-06-07 23:51:29.987815,2021-06-07 23:22:30.000000,2021-11-17 05:11:42.000000,2021-11-17 05:11:42.752524,"GII, MECH COMP FAILURE"
+QA01792,"QCP 07098,07310 IS NOT IN TOLERANCE",2021-06-22 23:25:11.920469,2021-06-22 23:57:36.000000,2022-01-17 00:57:16.000000,2022-01-17 00:57:16.175958,"GII ,OPT FAILURE"
+QA01797,1001578-010 Upper sub structure does not fit inside Front housing,2021-06-24 00:27:35.736498,2021-06-10 06:03:34.000000,2022-07-12 07:06:17.000000,2022-07-12 07:06:17.224511,MECH;GII;COMPONENT FAILURE
+QA01798,ET#421 Not enough power from the Fortuna Board to the EDFA,2021-06-24 03:40:26.312896,2021-06-24 03:26:37.000000,2022-11-28 14:10:56.000000,2022-11-28 14:10:56.368765,Engine;Elec
+QA01802,Komatsu RMA - Broken Fiber,2021-06-29 01:06:59.758592,,2021-06-29 01:08:06.000000,2021-10-27 00:20:50.097111,RK3
+QA01803,Unit was shipped to customer without MO closed and DA signed,2021-06-29 01:52:00.338285,2021-06-18 01:46:56.000000,2021-11-05 05:43:38.000000,2021-11-05 05:43:38.020464,RK2
+QA01805,Veoneer Deutsch Connector Faulty,2021-07-02 03:05:13.149474,,2021-07-26 06:06:53.000000,2021-07-26 06:06:53.270467,RK3
+QA01806,Fibre break test failed,2021-07-04 22:16:01.793228,,2021-09-02 23:54:46.000000,2021-09-02 23:54:46.728855,Fiber break test
+QA01807,E#404 failed EFT process,2021-07-05 22:21:34.025372,2021-07-05 22:20:09.000000,2021-10-20 03:21:25.000000,2021-10-20 03:21:25.294807,Failed EFT process;Engine
+QA01812,QCP 07894 9(DIMETER) IS NOT IN TOLERANCE,2021-07-08 22:06:55.481806,2021-07-08 21:28:47.000000,2021-11-03 22:52:16.000000,2021-11-03 22:52:16.594817,"GII, MECH COMP FAILURE"
+QA01815,SH133 failed at F2A,2021-07-14 22:34:51.801827,2021-07-12 22:28:59.000000,2021-09-08 01:06:48.000000,2021-09-08 01:08:00.271049,Insertion Loss
+QA01816,SH141 Failed at F2A,2021-07-14 22:40:28.539496,2021-07-11 22:37:43.000000,2021-07-16 05:10:23.000000,2021-07-16 05:10:23.521647,Insertion Loss
+QA01817,SH137 failed at F2A,2021-07-14 22:46:36.705709,2021-07-11 22:42:10.000000,2022-05-26 00:05:01.000000,2022-05-26 00:06:49.290520,Insertion Loss
+QA01818,E438 - Corrupted PT and API falling over during SSM FW test,2021-07-14 22:55:39.142645,2021-07-13 22:50:11.000000,2021-10-20 03:36:47.000000,2021-10-20 03:36:46.820199,Engine
+QA01819,Failed PD on Both Channels,2021-07-15 05:19:16.484144,,2021-10-22 06:09:37.000000,2021-10-22 06:09:37.294214,Engine
+QA01820,E431 failed at ESM post EDFA,2021-07-15 06:16:55.165467,2021-07-15 06:06:38.000000,2021-10-20 03:38:20.000000,2021-10-20 03:38:20.184988,Engine;EDFA
+QA01821,Sh 143 failed at Vertical,2021-07-16 01:32:46.544138,2021-07-16 01:28:55.000000,2022-05-05 06:52:13.000000,2022-05-05 23:28:24.566384,F2A
+QA01823,HM#601 Failed noise test,2021-07-20 03:59:04.975512,2021-07-20 03:57:28.000000,2022-05-10 04:14:51.000000,2022-05-10 04:14:51.725628,fail noise test;Hollow Motor
+QA01825,HM #603 Failed noise test.,2021-07-20 22:43:05.056269,,2022-05-10 01:25:13.000000,2022-05-10 01:25:13.820801,fail noise test;Hollow Motor
+QA01830,E435 Failed at APD Calibration,2021-07-27 02:48:32.610279,2021-07-27 02:38:45.000000,2021-10-20 03:39:47.000000,2021-10-20 03:39:47.593001,Fail at APD calibration test;Engine
+QA01831,E441 Top Engine keeps rebooting at Laser Calibration,2021-07-27 03:39:02.980693,2021-07-27 03:22:31.000000,2021-10-20 03:41:14.000000,2021-10-20 03:41:13.213319,Laser Calibration;Engine
+QA01832,E442 Failed at APD Calibration,2021-07-27 22:22:48.867012,2021-07-27 22:19:11.000000,2021-10-20 03:41:42.000000,2021-10-20 03:41:42.117564,Engine;Fail at APD calibration test
+QA01833,Veoneer System Performance Drop,2021-07-28 05:48:34.378870,,2021-08-17 03:47:24.000000,2021-08-17 03:47:24.605481,RK2
+QA01834,Unexplained Factory Reset by Customer,2021-07-28 06:13:42.366472,,2022-01-31 00:10:28.000000,2022-01-31 00:13:04.277800,RK2
+QA01835,E440 - Damaged PCB laser soldered pads during laser rework,2021-08-05 02:19:27.555969,2021-08-05 02:13:04.000000,2021-10-20 03:42:21.000000,2021-10-20 03:42:21.472863,PCBA issue
+QA01836,PCBA does not power on.,2021-08-05 05:32:17.210454,2021-08-05 05:19:49.000000,2022-05-10 04:15:28.000000,2022-05-10 04:15:28.170246,GII;PCBA issue
+QA01837,E439 Failed at APD Calibration test,2021-08-06 05:20:26.469944,2021-08-06 05:12:02.000000,2021-10-20 03:53:22.000000,2022-07-28 06:41:42.546464,APD;Top Assembly
+QA01838,APD CH2 is not working,2021-08-08 22:13:13.551082,2021-08-08 22:14:43.000000,2021-10-20 03:46:46.000000,2022-07-28 06:41:23.337333,Top Assembly;APD
+QA01839,PCBA#463 does not power on.,2021-08-10 04:16:03.107422,2021-08-10 04:10:57.000000,2022-01-20 06:07:53.000000,2022-01-20 06:07:53.241629,GII;PCBA issue
+QA01839,PCBA#466 does not power on.,2021-08-10 04:18:33.249785,2021-08-10 04:10:57.000000,2022-05-10 03:47:33.000000,2022-05-10 03:47:33.033601,PCBA issue;GII
+QA01839,PCBA#470 does not power on.,2021-08-10 04:19:03.368531,2021-08-10 04:10:57.000000,2022-05-10 03:47:38.000000,2022-07-28 06:40:57.808190,PCBA issue;Elec
+QA01840,QCP 05181(FLATNESSS) IS NOT IN TOLERANCE,2021-08-11 23:39:08.081909,2021-08-11 23:07:15.000000,2021-11-17 03:25:24.000000,2022-07-28 06:40:23.511541,Mech;GII
+QA01841,Faraday Rotator scratched,2021-08-12 03:28:14.460513,2021-08-12 03:17:47.000000,2022-05-10 01:29:58.000000,2022-07-28 06:40:05.850226,optics;GII
+QA01842,Failed @ Transceiver Directivity,2021-08-17 04:25:37.863598,2021-08-16 04:18:50.000000,2022-01-23 23:43:58.000000,2022-07-28 06:39:47.815488,Directivity;Transceiver
+QA01843,Failed @ Transceiver Directivity,2021-08-17 04:45:45.685282,2021-08-16 04:41:03.000000,2022-06-14 06:44:57.000000,2022-07-28 06:39:34.577154,Directivity;Transceiver
+QA01844,Issue of mismatch in the cable length between electrical and SH optical cables,2021-08-17 06:37:33.981611,2021-08-17 06:34:43.000000,2021-09-08 06:46:17.000000,2022-07-28 06:39:19.503923,Cable length;Sensorhead
+QA01845,Unit was shipped to customer with missing bolt,2021-08-18 05:06:12.892284,2021-08-18 05:03:28.000000,2022-01-06 05:18:48.000000,2022-07-28 06:39:00.334156,Screw Missing;LIDAR System
+QA01846,G6 SH147 using 6m Electrical cable,2021-08-19 01:43:28.174633,2021-08-19 01:33:39.000000,2021-09-02 23:37:47.000000,2022-07-28 06:38:16.592378,Sensorhead;Electrical Cable
+QA01847,E448 Marginal Failed at ESM after EDFA,2021-08-19 06:10:30.600887,2021-08-19 06:09:32.000000,2021-10-20 03:51:01.000000,2021-10-20 03:51:01.742941,Fail at ESM after EDFA;Engine
+QA01848,FMG RMA SH#31SH#35 failed Sealing/leak test,2021-08-27 03:17:19.466890,2021-08-27 03:37:08.000000,2022-01-27 02:14:00.000000,2022-07-28 06:37:33.742853,Electrical Cable;Sensorhead
+QA01849,QCP 04194 IS NOT IN TOLERANCE,2021-09-01 02:01:20.391497,2021-09-01 01:51:39.000000,2022-01-17 03:25:47.000000,2022-07-28 06:35:33.713562,Mech;GII
+QA01850,Loosened Strain Relief Diamond LC connector,2021-09-01 23:32:03.743813,2021-08-31 23:20:30.000000,2021-10-25 23:48:53.000000,2022-07-28 06:35:14.207757,Strain relief;Engine
+QA01851,Loosened Strain Relief on Diamond LC Connectors,2021-09-01 23:32:51.500682,2021-08-31 23:22:38.000000,2021-10-25 23:48:48.000000,2022-07-28 06:34:50.603428,Engine;Strain relief
+QA01852,Loosened Strain Relief Diamond LC connector,2021-09-01 23:51:49.356522,2021-08-31 23:49:20.000000,2022-05-13 04:05:22.000000,2022-07-28 06:23:32.707048,LIDAR System;Sensorhead
+QA01853,QCP 07899 IS NOT IN TOLERANCE,2021-09-06 04:49:13.863631,2021-09-06 04:41:07.000000,2022-01-27 02:14:26.000000,2022-07-28 06:22:54.143200,Mech;GII
+QA01854,SH149 failed at F2A for Vertical IL at Ch.2,2021-09-09 03:40:40.552620,2021-09-09 02:08:35.000000,2022-05-10 01:32:16.000000,2022-07-28 06:20:44.084710,F2A;Sensorhead
+QA01855,SH11 failed at F2A for Vertical IL in Ch.2,2021-09-15 01:37:28.729673,2021-09-15 01:29:26.000000,2022-05-10 01:33:44.000000,2022-07-28 06:20:32.244257,F2A;Sensorhead
+QA01856,SH153 failed at F2A for Vertical IL in Ch.2,2021-09-16 06:16:02.877577,2021-09-16 06:03:40.000000,2022-05-10 04:25:13.000000,2022-07-28 06:20:18.478928,Sensorhead;F2A
+QA01857,E383 - one pin for EDFA connector was broken,2021-09-23 23:00:16.845712,2021-09-23 23:13:01.000000,2021-10-20 03:51:56.000000,2022-07-28 06:20:04.782742,Engine;EDFA
+QA01858,E383 - one pin for EDFA connector was broken,2021-09-23 23:12:03.395623,2021-09-23 22:56:59.000000,2021-10-05 22:20:49.000000,2022-07-28 06:19:44.049230,Engine;EDFA
+QA01859,Units with quality issues that are reported by customer,2021-10-01 01:22:57.085278,2021-10-01 01:14:22.000000,2022-05-26 01:11:36.000000,2022-05-26 01:11:36.257881,Customer complain
+QA01860,Radial Artefacts in Pointcloud,2021-10-04 22:02:24.736148,,2022-04-27 01:55:39.000000,2022-04-27 01:55:39.362451,RK3
+QA01861,E429 Failed SSM test,2021-10-05 03:10:47.349032,,2021-10-06 03:00:31.000000,2021-10-06 03:00:30.938377,Engine;SSM
+QA01862,QCP 07899 IS NOT IN TOLERANCE,2021-10-06 04:03:41.442851,2021-10-06 03:39:53.000000,2022-10-10 00:47:19.000000,2022-10-10 00:55:06.161353,GII;Mech
+QA01863,Missing raw calibration data /QCP data incorrect for Systems to Frontier wi,2021-10-08 03:14:35.986128,2021-10-08 03:03:21.000000,,2022-11-30 04:50:22.464116,Data retrieve  ;QCP data accuracy
+QA01864,Measured VFOV is exceeding Zemax simulation,2021-10-19 00:37:05.697160,,2022-06-14 06:08:27.000000,2022-07-28 06:18:38.062557,F2A;Sensorhead
+QA01865,Scratches on SH for the unit 2496,2021-10-22 00:05:45.258576,2021-10-21 23:48:10.000000,2022-09-26 00:04:58.000000,2022-09-26 00:33:14.422022,Paint;Sensorhead
+QA01866,HCM Units arent working in field,2021-10-22 06:26:47.236371,2021-10-22 06:16:32.000000,2022-03-14 04:42:46.000000,2022-03-14 04:42:46.386049,RK3
+QA01867,QCP00413 IS NOT IN TOLERANCE,2021-10-26 02:39:22.735079,2021-10-26 02:13:39.000000,2022-07-12 05:53:34.000000,2022-07-28 06:18:17.261438,Mech;GII
+QA01868,Scratch on the SH housing shipped to the customer,2021-10-26 03:56:41.663535,2021-10-26 03:51:29.000000,2021-10-26 04:48:58.000000,2022-07-28 06:17:45.847141,Sensorhead;Paint
+QA01869,Diamond heat sink and cage defects,2021-10-27 23:55:30.176818,2021-10-28 00:01:03.000000,2022-06-14 06:12:48.000000,2022-07-28 06:16:47.408409,GII;Mech
+QA01870,Veoneer - PD / Range Comparisons,2021-10-31 23:59:42.862996,,,2022-08-16 05:13:34.936800,RK2
+QA01871,Poor dark hull detection,2021-11-04 04:14:47.144023,,2022-04-20 04:01:19.000000,2022-04-20 04:01:18.933582,RK3
+QA01872,LiDAR 1110 EDFA Ramp Up Error,2021-11-04 06:06:19.265961,,2022-05-20 01:21:39.000000,2022-08-16 05:17:56.058438,RK3
+QA01873,Serial number mismatch,2021-11-05 00:03:59.007449,2021-11-04 23:55:52.000000,2022-01-20 05:16:55.000000,2022-07-28 06:15:54.603500,LIDAR System;Process
+QA01874,Painting issue - Paint comes off with IPA,2021-11-09 03:13:10.503291,2021-11-09 03:02:34.000000,2022-04-20 03:58:02.000000,2022-09-07 05:25:59.587265,Paint;Sensorhead
+QA01875,HCM unit in WHC with lots of noise throughout the FOV,2021-11-10 05:17:16.279902,,2022-01-11 05:46:08.000000,2022-01-11 05:46:08.067882,RK2;HCM
+QA01876,Defective Baseplate for Diamond Engine (1007684),2021-11-17 01:24:25.611998,2021-11-17 00:22:54.000000,2022-06-09 06:35:28.000000,2022-07-28 06:13:06.843581,Mech;GII
+QA01877,"Various defects on machined parts, Diamond Engine Tube",2021-11-17 01:28:34.373654,2021-11-17 01:24:32.000000,2022-10-12 23:49:28.000000,2022-10-12 23:49:28.835605,Paint;GII
+QA01878,Machining Defect on Cage and Heatsink on Diamond EDFA,2021-11-17 02:28:55.390475,2021-11-17 02:21:15.000000,2022-05-12 06:11:55.000000,2022-07-28 06:12:40.804190,Engine;Paint
+QA01879,Paint on housing passed IPA test but still come off easily,2021-11-22 05:27:49.350549,2021-11-22 05:27:57.000000,2022-11-09 01:11:48.000000,2022-11-09 01:11:48.092079,Sensorhead;Paint
+QA01880,HCM SH front housing screw hole issue,2021-11-23 02:25:08.391044,2021-11-23 02:18:06.000000,2022-05-12 06:20:09.000000,2022-07-28 06:12:00.994657,Screwhole;Sensorhead
+QA01881,Dead EDFA is identified for HCM #3,2021-11-24 03:29:29.616315,2021-11-24 03:21:44.000000,2022-07-12 06:13:02.000000,2022-07-28 06:10:48.517812,EDFA;LIDAR System
+QA01882,Cable length mismatch after rework (15m to 12m),2021-11-24 22:19:59.302873,2021-11-24 22:13:22.000000,2022-07-26 03:29:48.000000,2022-07-26 03:29:48.903843,GII;Mech
+QA01883,Mismatch of cable guard spec from drawing,2021-11-26 02:45:11.836809,2021-11-26 02:41:04.000000,2022-11-25 05:27:39.000000,2022-12-02 04:46:49.430213,GII;Mech
+QA01884,Intensity Cal FOV Max Error - CH1 & CH2,2021-11-29 05:18:11.684244,2021-11-29 05:12:03.000000,2022-06-14 05:56:32.000000,2022-07-28 06:10:17.488637,FOV;LIDAR System
+QA01885,Damaged housing set from Production,2021-12-01 03:18:05.677340,2021-11-30 03:07:18.000000,2022-06-14 06:20:31.000000,2022-07-28 06:09:49.045550,Paint;Sensorhead
+QA01887,System Failed ND_DIR,2021-12-07 00:08:47.244642,,2022-05-10 06:27:52.000000,2022-07-28 06:07:26.732620,Directivity;Noise Distribution
+QA01888,QCP07102- Noise Distribution - Directivity Region,2021-12-07 23:28:44.616671,,2022-05-10 06:12:58.000000,2022-07-28 06:06:42.475289,Directivity;Noise Distribution
+QA01889,Painting issue,2021-12-08 03:30:14.010382,2021-12-08 03:22:19.000000,2022-11-09 01:13:39.000000,2022-11-09 01:13:39.657314,Paint;Sensorhead
+QA01890,QCP05437 (FLATNESS) IS NOT IN TOLERANCE,2021-12-13 22:02:42.459129,2021-12-13 21:54:46.000000,2022-07-12 07:06:02.000000,2022-07-28 06:04:20.968640,GII;Mech
+QA01891,HCM - 1104 and 1110 Error - DVT Testing,2021-12-16 03:10:45.437307,,2022-01-13 03:48:29.000000,2022-01-13 03:48:29.044367,RK3
+QA01892,colour is not uniform,2021-12-16 04:53:00.583246,2021-12-16 04:47:32.000000,2022-01-20 05:51:17.000000,2022-07-28 06:03:33.199893,Mech;GII
+QA01893,Loose screw in HCM #5,2021-12-16 23:35:31.491413,,2022-02-18 05:07:24.000000,2022-02-18 05:09:36.099851,RK3
+QA01895,Ticking sound on E453 Engine Assembly (Off-road),2021-12-22 21:56:09.276489,2021-12-21 21:41:28.000000,2022-01-17 02:53:02.000000,2022-07-28 06:02:51.468141,Engine;LIDAR System
+QA01896,Offroad system 7 & 8 was shipped with missing loctite issue,2021-12-23 03:48:57.389117,2021-12-23 03:47:36.000000,2022-07-08 05:31:25.000000,2022-07-28 06:02:05.260080,LIDAR System;Loctite
+QA01897,HM Magnet ring does not fit,2021-12-23 23:40:07.722843,2021-12-24 02:36:20.000000,2022-10-09 23:26:22.000000,2022-10-09 23:35:22.886296,Hollow Motor;GII
+QA01898,SH160 from SYS#12 Failed CH1 during FOV test,2022-01-10 03:03:54.341517,,2022-01-27 02:21:55.000000,2022-08-17 06:19:53.880073,Sensorhead;FOV
+QA01899,E453 has 1105 error at LZC,2022-01-16 23:48:36.410089,,2022-05-12 04:41:40.000000,2022-07-19 01:26:40.641878,Engine;Elec
+QA01900,SH155 has a crack on static grating 2 near screw area,2022-01-20 03:42:19.618613,,2022-11-30 22:55:02.000000,2022-11-30 23:00:31.033272,GII;optics
+QA01901,SH83 has lost communication after F2A test,2022-01-25 03:30:39.607170,,2022-05-10 01:38:38.000000,2022-07-28 05:59:29.036821,F2A;Sensorhead
+QA01902,HCM 1106 Error During DVT,2022-02-09 06:04:37.504900,,2022-03-21 04:30:49.000000,2022-08-17 07:15:28.802324,RK3
+QA01903,1101 Error - Frontier,2022-02-16 04:44:13.320148,,2022-05-20 01:22:19.000000,2022-05-20 01:22:19.048496,RK3
+QA01904,Pointcloud Wobble - DOA - Frontier,2022-02-16 04:46:30.708641,,2022-02-18 02:43:30.000000,2022-02-18 02:43:30.117601,RK3
+QA01905,Fiber Burn In field,2022-02-16 05:46:40.886766,,,2022-07-28 05:58:31.102232,Fibre Burn;Sensorhead
+QA01906,FMG - 1106 and 602 Errors,2022-02-17 06:57:47.254960,,2022-05-02 05:43:47.000000,2022-05-02 05:43:47.800180,RK3
+QA01907,QCP11191 Fail,2022-02-24 04:02:16.435133,2022-02-24 03:53:03.000000,2022-11-25 05:08:56.000000,2022-11-25 05:08:56.230053,GII;optics
+QA01908,QCP 05630 & QCP 05631FAIL,2022-02-25 02:54:28.037112,2022-02-25 00:37:18.000000,2022-06-14 06:39:51.000000,2022-07-28 05:56:59.196590,GII;optics
+QA01910,WINDOW FAIL IN QCP11170,2022-03-07 00:11:51.987247,2022-03-07 00:04:18.000000,2022-10-28 00:57:21.000000,2022-10-28 00:57:21.636772,GII;Optics
+QA01911,HCM - 602 Error During Thermal / Humidity Testing,2022-03-09 02:55:32.741291,,2022-05-20 01:21:31.000000,2022-05-20 01:21:31.807929,RK3
+QA01912,Encoder Ring - Inconsistent Teeth Bug - No tolerance defined,2022-03-14 03:49:24.909337,2022-03-14 02:25:03.000000,,2022-10-17 23:30:12.899171,GII;Mech
+QA01913,fail on QCP 07098,2022-04-21 00:39:20.640287,2022-04-21 00:33:58.000000,,2022-11-28 00:37:37.171974,GII;optics
+QA01914,HM#627 failed to start encoder test,2022-05-11 00:23:45.899520,,,2022-11-28 00:29:15.197840,Hollow Motor;Elec
+QA01915,SH164 Static Grating2 found a crack at the edge,2022-05-15 23:24:25.079196,,2022-11-30 23:00:45.000000,2022-11-30 23:00:45.935166,optics;GII
+QA01916,Sensor head scratch,2022-05-19 03:39:07.345512,2022-05-19 03:32:50.000000,2022-09-26 00:19:23.000000,2022-09-26 00:19:23.529678,Sensorhead;Paint
+QA01917,Frontier - very loud grinding noises in the Sensor head,2022-05-20 05:56:14.823984,2022-05-20 05:53:50.000000,,2022-11-09 01:46:43.223404,RMA
+QA01918,SH162 has got scratch on front housing,2022-05-30 03:32:00.176216,,2022-09-26 00:30:42.000000,2022-11-23 05:02:29.873032,Paint;Sensorhead
+QA01919,SH162 has cosmetic defects on front housing,2022-06-02 01:00:39.632584,,2022-11-28 14:08:02.000000,2022-11-28 14:08:01.965983,Paint;Sensorhead
+QA01920,SH165 has scratch on front housing,2022-06-02 02:49:45.729121,,2022-09-26 00:26:44.000000,2022-09-26 00:29:13.443873,Paint;Sensorhead
+QA01921,SH164 from SYS24 has got scratches on front housing,2022-06-15 00:46:59.073440,,2022-09-26 00:14:35.000000,2022-09-26 00:36:30.785078,Sensorhead;Paint
+QA01922,Fail in GII [QCP12054],2022-06-16 00:09:49.946467,2022-06-15 23:36:26.000000,,2022-11-28 00:30:14.741726,GII;Mech
+QA01923,DVT Failure during Thermal Testing (Amplifier issue reporting 1102 and 1110 errors),2022-06-20 06:45:36.609411,2022-06-20 06:42:31.000000,,2022-11-09 01:47:07.750067,RMA;DVT
+QA01924,DVT ESD Failure (System completely dead.  Cannot connect to engine),2022-06-20 06:47:18.189236,2022-06-20 06:45:54.000000,2022-07-19 01:15:06.000000,2022-11-09 01:47:30.821641,RMA;ESD Failure
+QA01925,QCP 11320 Failure,2022-06-22 04:25:36.537057,2022-06-22 04:18:10.000000,2022-07-12 06:01:52.000000,2022-07-28 05:53:36.931814,Firmware
+QA01926,Failed in QCP11282,2022-07-01 00:27:54.140926,2022-06-30 23:55:11.000000,2022-11-28 15:38:47.000000,2022-11-28 15:38:47.647861,GII;Mech
+QA01927,PD @190m Not Consistently Meeting Spec,2022-07-05 04:00:17.151185,,2022-10-10 01:10:26.000000,2022-10-10 01:10:26.692452,Engine;Hyla
+QA01928,screw hole tight,2022-07-13 05:16:49.856313,2022-07-12 23:24:49.000000,2022-11-28 15:24:01.000000,2022-11-28 15:24:01.049559,Transceiver;Mech;Optics
+QA01929,Fail in QCP07557,2022-07-14 01:20:45.405248,2022-07-14 01:12:42.000000,,2022-11-28 15:21:22.852906,GII;optics
+QA01930,Screw hole tight,2022-07-18 01:26:27.046750,2022-07-18 01:25:41.000000,2022-11-28 15:22:53.000000,2022-11-28 15:22:53.068427,optics;Transceiver;Mech
+QA01931,Max encoder gap above spec limit,2022-07-19 03:23:09.044495,2022-07-19 03:20:49.000000,2022-11-28 14:15:27.000000,2022-11-28 14:15:27.725927,Hollow Motor;Spec Limit
+QA01932,Max encoder gap above spec limit,2022-07-19 03:38:54.592129,2022-07-19 03:36:25.000000,2022-11-28 14:19:30.000000,2022-11-28 14:19:30.610594,Spec Limit;Hollow Motor
+QA01933,Failure in QCP11191,2022-07-21 05:27:34.806355,2022-07-12 05:08:08.000000,2022-09-23 02:03:55.000000,2022-10-28 00:57:39.530814,GII;optics
+QA01934,E460 ticking soud,2022-07-31 23:18:42.942032,,2022-11-28 15:28:52.000000,2022-11-28 15:30:16.552164,Electrical Cable
+QA01935,E458 ticking sound,2022-08-01 00:05:50.758819,,2022-11-30 04:46:55.000000,2022-11-30 04:46:55.941271,Electrical Cable
+QA01936,Cable damaged at customer end - RMAREQ8371,2022-08-01 00:39:59.180745,2022-07-28 00:38:34.000000,,2022-11-09 01:48:08.167995,RMA;Electrical Cable
+QA01937,"E460 EDFA wires expose, not fully inserted",2022-08-01 00:58:11.914886,,2022-11-25 06:14:51.000000,2022-11-25 06:14:51.251794,Electrical Cable
+QA01938,Magnet back plate failed Encoder test.,2022-08-01 06:08:53.709662,,,2022-11-30 03:18:12.829133,Encoder test;Sensorhead
+QA01939,TGM #51 failed at Encoder Gap Test,2022-08-08 05:32:58.089540,2022-08-08 05:31:32.000000,2022-11-28 14:13:15.000000,2022-11-28 14:13:15.202834,Encoder test;Elec
+QA01940,TGM #52 - failed at encoder gap test,2022-08-08 05:45:19.881431,2022-08-08 05:44:22.000000,2022-11-28 14:13:37.000000,2022-11-28 14:13:37.493283,Elec;Encoder test
+QA01941,Hyla OM#47 failed directivity test with low -1R spinning grating,2022-08-09 02:01:08.598851,,2022-11-28 15:35:27.000000,2022-11-28 15:35:27.236921,GII;Optics
+QA01942,substructure too tight,2022-08-11 06:01:55.559277,,,2022-11-28 15:03:59.690421,Mech;Lower substructure
+QA01943,Fail in QCP11259 [paint],2022-08-31 01:51:47.675791,2022-08-31 01:43:34.000000,2022-11-28 15:41:14.000000,2022-11-28 15:41:14.582855,GII;Paint;Mech
+QA01944,TGM #55 - failed at encoder gap test,2022-09-07 00:36:18.037246,2022-09-07 00:34:47.000000,2022-11-28 14:14:19.000000,2022-11-28 14:14:19.751134,Hollow Motor;Spec Limit
+QA01949,FAILED IN QCP 11282 surface texture issue,2022-09-23 03:11:20.360661,2022-09-23 03:03:20.000000,2022-11-28 15:18:35.000000,2022-11-28 15:18:35.007965,GII;Paint
+QA01950,Failed in QCP11282,2022-09-26 22:35:10.352533,2022-09-26 01:00:00.000000,2022-11-28 15:45:54.000000,2022-11-28 15:45:54.837088,Paint;GII
+QA01951,Failed in QCP11282[ MARKS ],2022-09-27 23:54:32.573907,2022-09-27 23:33:58.000000,2022-11-28 15:48:06.000000,2022-11-28 15:48:06.852627,Paint;GII
+QA01953,Error 1106 During 1000h High Temperature and Humidity Testing,2022-10-06 13:03:52.551636,2022-10-05 20:07:07.000000,,2022-11-09 01:48:23.351678,RMA;DVT
+QA01955,SH174 fibre burnt on CH2 at LZC,2022-10-18 00:51:09.416240,,,2022-12-01 04:24:39.985292,LZC;Fibre Burn
+QA01956,EDFA#32 from RMA SYS19 failed to upgrade new FW,2022-10-18 04:32:39.287265,2022-10-17 23:17:09.000000,,2022-11-25 06:02:17.858127,EDFA;Hyla
+QA01957,Scratch and paint peel off,2022-10-26 02:51:45.793993,2022-10-26 02:40:43.000000,2022-11-28 06:29:54.000000,2022-11-28 06:29:54.608996,Paint;Manufacturing
+QA01958,Discoloration,2022-10-26 02:54:36.244386,2022-10-26 02:40:43.000000,2022-11-28 14:39:13.000000,2022-11-28 14:39:13.193220,Manufacturing;Paint
+QA01959,scratch or paint peel off,2022-10-26 02:57:57.050975,2022-10-26 02:40:43.000000,2022-11-28 05:31:45.000000,2022-11-28 05:31:45.836467,Manufacturing;Paint
+QA01960,scratch or paint peel off,2022-10-26 02:59:27.571556,2022-10-26 02:40:43.000000,2022-11-28 06:19:33.000000,2022-11-28 06:19:32.906495,Manufacturing;Paint
+QA01962,LSS #82 has one screw hole not properly tapped,2022-11-01 05:59:27.264618,,2022-11-28 15:32:48.000000,2022-11-28 15:32:48.820857,Mech;Transceiver;optics
+QA01965,dent in the window area,2022-11-09 03:16:04.384491,2022-11-08 23:24:54.000000,2022-11-27 23:34:49.000000,2022-11-27 23:34:49.593883,Sensorhead;Paint
+QA01967,Fail in GII Rig QCP,2022-11-10 03:52:50.595918,2022-11-10 03:46:55.000000,2022-11-27 23:23:05.000000,2022-11-27 23:23:05.743200,"GII ,OPT FAILURE"
+QA01968,Discoloration of blue paint,2022-11-10 05:34:13.702226,,,2022-11-28 23:47:50.994890,GII;Paint;EDFA
+QA01969,Screw hole paint chip during van drive,2022-11-11 00:48:16.615489,2022-11-10 00:37:46.000000,,2022-11-25 06:18:42.053790,Paint;Van-Drive
+QA01970,Failed in QCP07899,2022-11-17 02:22:50.903540,2022-11-17 02:16:12.000000,,2022-11-28 00:08:19.992544,"GII, MECH COMP FAILURE"
+QA01971,Front housing has discoloured paint around screw holes,2022-11-18 03:37:21.608634,,2022-11-28 00:18:24.000000,2022-11-28 00:18:24.733911,Paint;Sensorhead
+QA01972,Engine top E464 APD sensitivity issue,2022-11-18 05:12:46.623487,,,2022-11-28 23:51:10.713569,Elec;APD
+QA01973,Wolverine #60 and #62 communication issue to Gohan at LiFT,2022-11-22 00:08:28.671152,,,2022-11-28 23:55:54.500906,Elec;Wolverine
+QA01978,Failed in OCT-RIG QCP11295,2022-11-24 22:03:30.531048,2022-11-24 21:54:15.000000,,2022-11-30 04:23:04.163845,"GII ,OPT FAILURE"
+QA01979,Laser cal Calibration - Failed First Self Test,2022-11-27 22:53:26.596012,,,2022-11-29 04:10:18.232564,Laser Calibration;Calibration
+QA01980,Cosmetic defects on 3x diamond engine Cages,2022-11-27 23:17:33.098716,,2022-11-28 15:58:50.000000,2022-11-28 15:58:50.130202,GII;cage
+QA01981,Laser Calibration Failed First Self Test,2022-11-27 23:20:54.675674,,,2022-11-27 23:20:54.675674,Calibration;Laser Calibration
+QA01982,Safety flap #2 screw holes through the tube,2022-11-28 04:55:39.536038,,,2022-11-29 00:00:33.365788,Engine;Screwhole
+QA01984,Failed in MFG-PI-1-RIG,2022-11-30 20:50:19.124926,2022-11-30 20:45:32.000000,,2022-11-30 21:18:16.646956,"GII ,OPT FAILURE"
+QA01985,Failed in QCP11259 anodize marks,2022-11-30 23:22:45.942812,2022-11-30 23:18:40.000000,,2022-11-30 23:22:45.942812,"GII, MECH COMP FAILURE"
+QA01986,Internal Audit NCs,2022-12-01 00:18:25.500512,2022-12-01 00:02:23.000000,,2022-12-01 01:18:06.896265,Internal Audit;NCs
+QA01987,NC for Customer Management Internal Audit,2022-12-01 00:30:30.602558,2022-12-01 00:21:01.000000,,2022-12-01 03:13:25.497755,Internal Audit;customer management
+QA01988,Internal Audit for Service RMA,2022-12-01 00:34:13.582377,2022-12-01 00:32:47.000000,,2022-12-01 00:34:13.582377,Internal Audit;RMA
+QA01989,Internal Audit for Service Product Development,2022-12-01 00:34:24.203752,2022-12-01 00:32:47.000000,,2022-12-01 00:35:26.799226,Internal Audit;Product dev
+QA01990,Internal Audit for Manufacturing -Product,2022-12-01 00:35:31.100635,2022-12-01 00:32:47.000000,,2022-12-01 00:36:08.137908,Internal Audit;Manufacturing
+QA01991,Internal Audit for GII Supply chain,2022-12-01 00:36:12.352610,2022-12-01 00:32:47.000000,,2022-12-01 00:37:03.021659,Internal Audit;GII Supply chain
+QA01992,Internal Audit for cyber security,2022-12-01 00:37:07.492898,2022-12-01 00:32:47.000000,,2022-12-01 00:38:05.940984,Internal Audit;Cyber security
+QA01993,Internal Audit for Functional Safety,2022-12-01 00:38:09.167493,2022-12-01 00:32:47.000000,,2022-12-01 00:38:53.637259,Internal Audit;Functional Safety
